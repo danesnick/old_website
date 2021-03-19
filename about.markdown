@@ -25,12 +25,12 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 * [Bandcamp](https://bandcamp.com/ndanes)
 * [Codeberg](https://codeberg.org/ndanes)
 * [GitHub](https://github.com/nicholasdanes)
-* <a rel="me" href="https://smallcamp.art/@ndanes">Hometown</a>
+* <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon (Personal)</a>
 * <a rel="me" href="https://fosstodon.org/@ndanes">Mastodon</a>
 
 
 ## Contact
-* Email: [hello@ndanes.com](mailto:hello@ndanes.com)
+* Email: hello at ndanes dot com
 * OpenPGP: [949A32109C6A4E874ED0FCF11EC1E746B6204533](/public_key.txt)
 * XMPP: [hello@ndanes.com](xmpp:hello@ndanes.com) 
 
@@ -52,7 +52,4 @@ This is just my personal website where I can express myself creatively and also 
 
 This website was created using the [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)  (SSG) called [Jekyll](https://jekyllrb.com/) using a combination of the [Minima](https://github.com/jekyll/minima) theme and the [John Doe CSS](https://john-doe.neocities.org/) stylesheet. I highly recommend it for folks who would like to run a personal blog and also know some basics about HTML/CSS. For the color palette for the website, I tried to maintain a balance between aesthetics and [accessiblity](https://material.io/design/usability/accessibility.html).
 
-For editing the HTML, CSS and Markdown files, I primarily use [Vim](https://www.vim.org/) or [Neovim](https://neovim.io) with basically no plugins, except for the [Nord Theme](https://github.com/arcticicestudio/nord-vim) vim plugin. 
-
-
-
+For editing the HTML, CSS and Markdown files, I primarily use [Vim](https://www.vim.org/) or [Neovim](https://neovim.io) with no plugins.
