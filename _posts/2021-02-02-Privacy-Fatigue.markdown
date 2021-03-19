@@ -14,8 +14,8 @@ Over the past year, I have made many positive strides in improving my digital pr
 	* Instagram
 	* LinkedIn
 * Joining the [Fediverse](https://en.wikipedia.org/wiki/Fediverse) through [Fosstodon](https://fosstodon.org), providing a community who shares this common interest in digital privacy and learning about new ways to improve it
-* Switching away from [Google products and services](/blog/2020/12/03/degoogle-part1.html) as much as possible
-* [Quitting Spotify](/blog/2021/01/10/Why-I-Stopped-Using-Spotify.html) in favor of buying music directly
+* Switching away from Google products and services
+* [Quitting Spotify](/blog/2021/01/10/why-i-stopped-using-spotify) in favor of buying music directly
 * Using Signal as my primary means of instant messaging
 
 However, the more I have gone down the digital privacy rabbit hole, the more powerless I feel sometimes on how much more work to be done, how much work that takes, and what conveniences you lose. Frankly, as the title of this post suggests, I've been feeling some decision fatigue and burnout on the entire matter. 
