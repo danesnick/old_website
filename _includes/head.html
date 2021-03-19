@@ -1,0 +1,14 @@
+<!-- Source: https://github.com/jekyll/minima/blob/master/_includes/head.html -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   {% if page.title == "Home" %}
+     <title>Nicholas Danes</title>
+   {% else %}
+     <title> {{ page.title }} | Nicholas Danes</title>
+   {%- endif -%}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="icon" href="data:,">
+  {%- feed_meta -%}
+</head>

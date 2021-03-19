@@ -1,0 +1,151 @@
+body {
+    color: #232323;
+    background: #FFFFFF;
+    font: 0.75em sans-serif;
+    line-height: 1.25;
+    margin: 40px 0;
+}
+a {
+  color: #2196F3;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    font-size:70%;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: none;
+    text-align: center;
+    font: 1.0em sans-serif;
+    font-size: 200%;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    text-align: center;
+    font-size: 90%;
+    font-weight: 800;
+    margin: 0;
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    border-bottom: 1px solid #D3D3D3;
+    text-transform: uppercase;
+    font: 0.85em sans-serif;
+    font-size: 80%;
+    font-weight: 800;
+    margin: 0;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+h4 {
+    font-size:75%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+/* ul immediately after h1 = contact list */
+h2 + ul {
+    font: 0.75em sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+h2 + ul > li {
+    display: inline;
+    text-align: center;
+    white-space: pre;
+    list-style-type: none;
+}
+h2 + ul > li:after { 
+    content: "  \2022  ";
+}
+h2 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h2 + ul + p {
+    margin: 1em 0;
+    text-align: center;
+}
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+@media (prefers-color-scheme: dark) {
+  body {
+      color: #EEEEEE;
+      background: #232323;
+  }
+  #resume {
+      background: #232323;
+      border: 1px solid #333333;
+      box-shadow: 2px 2px 4px #444444;
+      -webkit-box-shadow: 2px 2px 4px #444444;
+  }
+  h3 {
+     border-bottom: 1px solid #EEEEEE;
+  }
+}

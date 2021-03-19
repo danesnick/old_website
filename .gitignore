@@ -1,0 +1,9 @@
+./_posts/.jekyll-cache
+./_scss/.jekyll-cache
+./.jekyll-cache
+.jekyll-cache
+*.swp
+*.swo
+_sass/minima/*.swp
+ftp_upload
+images/*

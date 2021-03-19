@@ -1,0 +1,318 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+@charset "UTF-8";
+/* Based on: https://john-doe.neocities.org/dist/style.css */
+* {
+  /* Color scheme */
+  --textcolor: #212121;
+  --bgcolor: #fafafa;
+  --headerbgcolor: #EEEEEE;
+  --avatarbgcolor: #90CAF9;
+  --highlight: #2196F3;
+  --hovercolor: #1045a1;
+  --bordercolor: #D4D4D4;
+  --precolor: #212121;
+  --prebgcolor: #F5F5F5;
+  --boxshadowcolor: #E0E0E0;
+}
+
+@media (prefers-color-scheme: dark) {
+  * {
+    --textcolor: #dadada;
+    --bgcolor: #212121;
+    --headerbgcolor: #191919;
+    --avatarbgcolor: #1976D2;
+    --highlight: #90CAF9;
+    --bordercolor: #545454;
+    --hovercolor: #42A5F5;
+    --precolor: #ffffff;
+    --prebgcolor: #424242;
+    --boxshadowcolor: #111111;
+  }
+}
+
+/* ------- Body ------- */
+
+html {
+  font-size: 18px;
+  font-family: Roboto, system-ui, sans-serif;
+  color: var(--textcolor);
+  background: var(--bgcolor);
+  line-height: 1.4;
+  overflow-wrap: break-word;
+}
+
+body {
+  margin: 0 auto !important;
+  padding: 0;
+}
+
+/* Ref: https://hunden.linuxkompis.se/style.css */
+.wrapper {
+  margin: 0 auto !important;
+  padding: 0 1em;
+  max-width: 800px;
+}
+
+header {
+  padding-bottom: 20px;
+  padding-top: 8px;
+  background: var(--headerbgcolor);
+  box-shadow: 0px 5px 5px var(--boxshadowcolor);
+}
+
+header h1 {
+  font-weight: 800;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+header figure {
+  float: left;
+  margin-right: 14px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  width: 75px;
+  height: 75px;
+}
+
+img.av {
+  border-radius:50%; 
+  background: var(--avatarbgcolor);
+}
+
+
+header h1 a {
+  color: var(--textcolor);
+  margin: 0;
+  padding: 0;
+}
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li.navbar {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+a.navbar {
+  padding-right: 5px;
+}
+
+span.current {
+    color: #545454;
+}
+
+span.title {
+    color: var(--highlight);
+}
+
+a.current {
+	color: #545454;
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
+/* ------- General ------- */
+
+a {
+  text-decoration: none;
+  color: var(--highlight);
+}
+
+a:hover {
+  color: var(--hovercolor);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+h1 {
+  font-size: 1.4em;
+  font-weight: 800;
+  margin: 0.5em 0 .6em 0;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: 700;
+  margin: 1.0em 0 .6em 0;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin: 1.0em 0 .6em 0;
+}
+
+h4 {
+  font-size: 1.1em;
+  font-weight: 600;
+  margin: 1.0em 0 .6em 0;
+}
+
+p, ul, ol, article {
+  margin-bottom: .6em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li::marker {
+  content: "\2022   ";
+}
+
+li {
+  margin-bottom: .2em;
+  padding-left: 5px;
+}
+
+ul, ol {
+  padding-left: 2ch;
+}
+
+b, strong {
+  font-weight: 600;
+}
+
+small {
+  font-size: .85em;
+}
+
+hr {
+  height: 1px;
+  border: 0;
+  background: currentColor;
+  opacity: .1;
+  margin: 1.2em 0;
+}
+
+blockquote {
+  padding-left: 2ch;
+  opacity: .7;
+  margin-bottom: .6em;
+  position: relative;
+}
+
+blockquote:before {
+  content: "";
+  position:absolute;
+  left: 0;
+  top: .3em;
+  bottom: .3em;
+  background: currentColor;
+  width: 1px;
+  opacity: .2;
+}
+
+img, svg, video, audio {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  fill: currentColor;
+}
+
+.border {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Ref: https://techstacker.com/wrap-text-around-circle-css/ */
+.circle {
+  float: right;
+  text-align: center;
+  width: 25%;
+  font-size: 0.6em;
+  margin-left: calc(1rem + 2vw);
+  margin-bottom: calc(1rem + 2vw);
+  object-fit: cover;
+  shape-outside: circle(50%);
+}
+
+code, textarea {
+  font-family: Roboto Mono, ui-monospace, SF Mono, Menlo, Monaco, Andale Mono, monospace;
+  font-size: 1em;
+}
+
+a code {
+  opacity:1;
+}
+
+pre, textarea { /* for code samples */
+  font-size: .9em;
+  color: var(--precolor);
+  background: var(--prebgcolor);
+  line-height:inherit;
+  padding:.6em .9em;
+  margin: .8em 0 0em 0;
+  position: relative;
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  white-space: pre;
+  border:0;
+  border-radius: 5px;
+  box-shadow: inset 1px 1px 0 rgba(0,0,0,.2), inset -1px -1px 0 rgba(0,0,0,.04) ;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 10px;
+  border-collapse: collapse;
+  border: 0px solid;
+  border-spacing: 10px;
+  overflow-x: auto;
+  display: block;
+}
+
+th, td {
+     padding: 5px; 
+}
+
+div.top {
+     text-align: center;
+     font-size: 0.85em;
+     margin-top: 20px;
+}
+
+footer {
+	font-size: 0.8em;
+	padding-top: 0px;
+	margin-top: 20px;
+	border-top: 1px dotted var(--bordercolor);
+	text-align: right;
+}
+
+/* ------- Smaller screens ------- */
+
+@media only screen and (max-width: 680px) {
+  body { font-size: 16px; }
+  header h1 { font-size: 1.4em; }
+  header figure { 
+	width: 50px; 
+  	margin-right: 12px;
+  	margin-left: 0px;
+ 	margin-top: 6px;
+  	margin-bottom: 6px;
+  }
+  .wrapper { max-width: 90vw; }
+}
+
+@media only screen and (max-width: 540px) {
+  nav { width: 100%; } /* Fix for older webkit versions */
+}
+
+
+/* Syntax Highlighting */
+/* Ref: https://mycyberuniverse.com/syntax-highlighting-jekyll.html */
+/* https://markdotto.com/2014/09/25/sass-and-jekyll/ */
+/* https://richleland.github.io/pygments-css/ */
+/*  https://jwarby.github.io/jekyll-pygments-themes/ */
+@import url(bw.css);
