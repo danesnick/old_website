@@ -68,18 +68,10 @@ header h1 {
   margin-top: 4px;
 }
 
-header figure {
-  float: left;
-  margin-right: 14px;
-  margin-left: 0px;
-  margin-top: 0px;
-  margin-bottom: 10px;
-  width: 75px;
-  height: 75px;
-}
-
 img.av {
-  border-radius:50%; 
+  align: center;
+  width: 100%;
+  border-radius:50%;
   background: var(--avatarbgcolor);
 }
 
@@ -228,13 +220,14 @@ img, svg, video, audio {
 .circle {
   float: right;
   text-align: center;
-  width: 25%;
+  width: 18%;
   font-size: 0.6em;
   margin-left: calc(1rem + 2vw);
-  margin-bottom: calc(1rem + 2vw);
+  margin-bottom: calc(1rem + 1vw);
   object-fit: cover;
   shape-outside: circle(50%);
 }
+
 
 code, textarea {
   font-family: Roboto Mono, ui-monospace, SF Mono, Menlo, Monaco, Andale Mono, monospace;

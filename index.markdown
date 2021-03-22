@@ -12,7 +12,7 @@ You've reached my little corner of the internet!
 # About Me
 
 <figure class="circle">
- <img class="av" src="/images/me.png" alt="Me!">
+ <img class="av" src="/images/me_header.png" alt="Me!">
  <figcaption>Credit: <a href="https://laurenbeecher.com">Lauren Beecher</a></figcaption>
 </figure>
 

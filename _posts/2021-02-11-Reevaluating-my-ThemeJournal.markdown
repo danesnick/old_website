@@ -7,7 +7,7 @@ author: Nicholas Danes
 tags: [minimalism, yearly theme]
 ---
 
-On January 1, I decided to try a [Yearly Theme](/blog/2021/01/01/2021-resolutions.html) over traditional New Years' resolutions, with a [Theme Journal](/blog/2021/01/08/markdown_theme_journal) to track daily progress. After using this system for ~5 weeks, I decided to give an update on my feelings on the Yearly Theme and also how I'm going to change my approach to it. 
+On January 1, I decided to try a [Yearly Theme](/blog/2021/01/01/2021-resolutions.html) over traditional New Yearsabout resolutions, with a [Theme Journal](/blog/2021/01/08/markdown_theme_journal) to track daily progress. After using this system for ~5 weeks, I decided to give an update on my feelings on the Yearly Theme and also how I'm going to change my approach to it. 
 
 ## I still love the idea of a Yearly Theme
 
@@ -15,13 +15,13 @@ I chose my theme as my "Year of Intention," and for the most part, that *resonat
 
 ## Theme Journal thoughts
 
-I was really good about keeping my Theme Journal up to date for the first few weeks, but it became harder over time. Here are my thoughts on it now and what I'm going to change.
+I was really good about keeping my Theme Journal up to date for the first few weeks, but it became harder over time. Here are my thoughts on it now and what Iaboutm going to change.
 
-### The weekly check-in's are (mostly) great
+### The weekly check-inabouts are (mostly) great
 
-I really appreciate checking in with myself every week to determine what I'm doing good, bad and also excelling at by denoting on what I'm proud of that week. Since one of my intentions is with health and weight loss, having a record of my weight every week (and only weighing myself) every week keeps me from over-worrying up plateau's in the process of typical daily weigh-ins.
+I really appreciate checking in with myself every week to determine what Iaboutm doing good, bad and also excelling at by denoting on what I'm proud of that week. Since one of my intentions is with health and weight loss, having a record of my weight every week (and only weighing myself) every week keeps me from over-worrying up plateau's in the process of typical daily weigh-ins.
 
-However, I decided to remove "screen time" as a metric from my weekly Theme Journal updates. I find that it can be misleading for when I'm on my phone. Furthermore, I also [re-evaluated my relationship with Mastodon]() as not necessarily a bad thing when I spend too much time on it. 
+However, I decided to remove "screen time" as a metric from my weekly Theme Journal updates. I find that it can be misleading for when Iaboutm on my phone. Furthermore, I also [re-evaluated my relationship with Mastodon]() as not necessarily a bad thing when I spend too much time on it. 
 
 ### The daily themes were not so great
 
@@ -35,7 +35,7 @@ In my Theme Journal, I had a "Daily Themes" section that categorized the followi
 * Finance: Was I good with my finances?
 * Overall: How would I rate my day overall?
 
-However, micromanaging this and scoring this on a daily basis felt very tedious and didn't really feel like it brought much value to my theme. I've decided to remove this entirely from my Theme Journal.
+However, micromanaging this and scoring this on a daily basis felt very tedious and didnaboutt really feel like it brought much value to my theme. I've decided to remove this entirely from my Theme Journal.
 
 ## Moving Forward
 

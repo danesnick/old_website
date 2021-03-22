@@ -7,15 +7,15 @@ author: Nicholas Danes
 tags: [linux, technology, minimalism]
 ---
 
-I've always enjoyed looking at and setting up my desk. Whether it was from various expensive YouTuber setups or scrolling through [/r/battlestations](https://reddit.com/r/battlestations), these setups always drew inspiration for myself to improve my own. I hope this post about my setup inspires you in some way as well! Before, I can talk about my setup, I wanted to briefly describe my mindset when it comes to setting up my battlestation.
+Iaboutve always enjoyed looking at and setting up my desk. Whether it was from various expensive YouTuber setups or scrolling through [/r/battlestations](https://reddit.com/r/battlestations), these setups always drew inspiration for myself to improve my own. I hope this post about my setup inspires you in some way as well! Before, I can talk about my setup, I wanted to briefly describe my mindset when it comes to setting up my battlestation.
 
 ## A "Minimalist" Mindset
 
-The downside of looking at other battlestations can turn into a needless spending trap, so I try my best to be mindful when adding something to my setup. Back in September 2020, I moved back to Denver after living in Albuquerque, NM for almost a year. During that year in Albuquerque, as well as my prior years in Colorado as a graduate student, I had issues holding on to things and had an unhealthy "anti-packrat" mentality, where I would get rid of things compulsively. Now that I am in a better place both financially and mentally, I've been trying to be  more mindful with technology purchases in general, and trying to curate these purchases intentionally. I believe this is beneficial from a mental, financial and environmental perspective.
+The downside of looking at other battlestations can turn into a needless spending trap, so I try my best to be mindful when adding something to my setup. Back in September 2020, I moved back to Denver after living in Albuquerque, NM for almost a year. During that year in Albuquerque, as well as my prior years in Colorado as a graduate student, I had issues holding on to things and had an unhealthy "anti-packrat" mentality, where I would get rid of things compulsively. Now that I am in a better place both financially and mentally, Iaboutve been trying to be  more mindful with technology purchases in general, and trying to curate these purchases intentionally. I believe this is beneficial from a mental, financial and environmental perspective.
 
-Even though I love the principles of "minimalism", I put it in quotes because it has become a loaded term with  a variety of meanings, especially when it comes to technology. To me, minimalism is a consequence of being intentional, which I proposed as my [2021 Yearly Theme](/blog/2021/01/01/2021-resolutions.html). I don't agree with the "minimalist" aesethetic being restrictled to Mac only hardware/peripherals with nothing else on the desk. Therefore, my goal with every piece of my battlestation was hopefully chosen with a purpose, without excess, as much as possible. 
+Even though I love the principles of "minimalism", I put it in quotes because it has become a loaded term with  a variety of meanings, especially when it comes to technology. To me, minimalism is a consequence of being intentional, which I proposed as my [2021 Yearly Theme](/blog/2021/01/01/2021-resolutions.html). I donaboutt agree with the "minimalist" aesethetic being restrictled to Mac only hardware/peripherals with nothing else on the desk. Therefore, my goal with every piece of my battlestation was hopefully chosen with a purpose, without excess, as much as possible. 
 
-I should note that many of my battlestation choices had to be purchased recently due to my house being broken into right when I moved back to Denver in September. This includes my main peripherals, monitor and desktop PC. With that said, let's take a look at my desk and my PC!
+I should note that many of my battlestation choices had to be purchased recently due to my house being broken into right when I moved back to Denver in September. This includes my main peripherals, monitor and desktop PC. With that said, letabouts take a look at my desk and my PC!
 
 ## My Battlestation
 
@@ -66,7 +66,7 @@ The desk itself is an [Ikea Arkelstorp](https://www.ikea.com/us/en/p/arkelstorp-
 </div>
 
 #### Keyboard
-I've always liked using mechanical keyboards and  have used a variety  of different switches (mostly Cherry Reds/Browns/Blues and Logitech) from various manufacturers (Leopold, Ducky, etc). I ended up narrowing down to the [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) due to its affordable price, value switches, 75% size, and bluetooth functionality. The keyboard board itself is quite tall, so I paired it with the [Glorious Gaming Compact Wooden Wrist Rest](https://www.pcgamingrace.com/products/glorious-wood-keyboard-wrist-rest) for better ergonomics. The keyboard keycaps are not stock, but some cheap doubleshot PBT keycaps from  [HK Gaming](https://hk-gaming.com/) in the [Pegaso](https://hk-gaming.com/collections/keycaps/products/hk-gaming-dye-sublimation-cherry-profile-thick-pbt-keysets-for-mechanical-keyboard-139-keys-chalk) color scheme. If you end up buying the Keychron K2, I recommend swapping out the stock cheap ABS keycaps, as the typing experience greatly improves. 
+Iaboutve always liked using mechanical keyboards and  have used a variety  of different switches (mostly Cherry Reds/Browns/Blues and Logitech) from various manufacturers (Leopold, Ducky, etc). I ended up narrowing down to the [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) due to its affordable price, value switches, 75% size, and bluetooth functionality. The keyboard board itself is quite tall, so I paired it with the [Glorious Gaming Compact Wooden Wrist Rest](https://www.pcgamingrace.com/products/glorious-wood-keyboard-wrist-rest) for better ergonomics. The keyboard keycaps are not stock, but some cheap doubleshot PBT keycaps from  [HK Gaming](https://hk-gaming.com/) in the [Pegaso](https://hk-gaming.com/collections/keycaps/products/hk-gaming-dye-sublimation-cherry-profile-thick-pbt-keysets-for-mechanical-keyboard-139-keys-chalk) color scheme. If you end up buying the Keychron K2, I recommend swapping out the stock cheap ABS keycaps, as the typing experience greatly improves. 
 
 #### Mouse
 
@@ -74,7 +74,7 @@ When I used to game a lot more, I always prefered Logitech mices. Hence, the cho
 
 #### Headphones
 
-I used to be somewhat of a pseudo-audiophile, but I always preferred the value headphone options, such as the Audio Technica M40x's, Senheisser HD 558's, and the Phillips SHP9500's. I had owned the Takstar Pro 80's in the past, and found out that there was an update for them called the [Takstar Pro 82](https://soundgearlab.com/review/headphone/takstar-pro-82/). They are incredibly comfortable, sound "good", and the headphone cable is easily replaceable. You can usually find them for under $100 on eBay. 
+I used to be somewhat of a pseudo-audiophile, but I always preferred the value headphone options, such as the Audio Technica M40xabouts, Senheisser HD 558's, and the Phillips SHP9500's. I had owned the Takstar Pro 80's in the past, and found out that there was an update for them called the [Takstar Pro 82](https://soundgearlab.com/review/headphone/takstar-pro-82/). They are incredibly comfortable, sound "good", and the headphone cable is easily replaceable. You can usually find them for under $100 on eBay. 
 
 
 ### Monitor Stand Area
@@ -85,7 +85,7 @@ I used to be somewhat of a pseudo-audiophile, but I always preferred the value h
 </div>
 
 
-I had an unused [Insignia Mini Soundbar](https://www.bestbuy.com/site/insignia-2-0-channel-mini-soundbar-black/6346460.p?skuId=6346460) lying around in our house and wanted to utilize for my desk without looking cluttered. I ended up finding this [Hastings Home Bamboo Monitor Stand](https://www.bestbuy.com/site/hastings-home-bamboo-monitor-stand-computer-desk-organizer-and-laptop-riser-in-natural-wood-finish-bamboo/6444283.p?skuId=6444283) on Best Buy's website which was a perfect fit for my desk. I was then able to put the sound bar under the stand, along with hiding my external drive under it as well. 
+I had an unused [Insignia Mini Soundbar](https://www.bestbuy.com/site/insignia-2-0-channel-mini-soundbar-black/6346460.p?skuId=6346460) lying around in our house and wanted to utilize for my desk without looking cluttered. I ended up finding this [Hastings Home Bamboo Monitor Stand](https://www.bestbuy.com/site/hastings-home-bamboo-monitor-stand-computer-desk-organizer-and-laptop-riser-in-natural-wood-finish-bamboo/6444283.p?skuId=6444283) on Best Buyabouts website which was a perfect fit for my desk. I was then able to put the sound bar under the stand, along with hiding my external drive under it as well. 
 
 
 #### Monitor 
@@ -126,7 +126,7 @@ My previous stolen PC was a recently purchased [HP Omen 25L](https://www.costco.
 | Case | BitFeniX Prodigy |
 | OS | Gentoo Linux |
 
-Not really much to say other than the PC has been working great for me and I don't have any immediate plans for component upgrades. That said, the case itself wasn't in the greatest condition at purchase and I do eventually plan to move the system into a smaller ITX case. 
+Not really much to say other than the PC has been working great for me and I donaboutt have any immediate plans for component upgrades. That said, the case itself wasn't in the greatest condition at purchase and I do eventually plan to move the system into a smaller ITX case. 
 
 <div style="align: center; text-align:center;">
 <img loading="lazy" class="border" src="/images/desk-Jan2021/desk_pcside.jpg">
@@ -138,8 +138,8 @@ Not really much to say other than the PC has been working great for me and I don
 
 Thanks for checking out my battlestation! I feel like it is almost complete, with a few minor things to complete:
 
-* Cable Management: This was a glaring omission with this post as I'm currently not happy with where it's at with my setup.
-* ITX case: Like I mentioned above, the case that this used system came with is not my favorite. Ideally I'd like to able to pick a small enough chassis to keep the PC on the top of the desk, but it is not an urgent purchase. At the very least, I'd like to thoroughly clean the interior of the case.
+* Cable Management: This was a glaring omission with this post as Iaboutm currently not happy with where it's at with my setup.
+* ITX case: Like I mentioned above, the case that this used system came with is not my favorite. Ideally Iaboutd like to able to pick a small enough chassis to keep the PC on the top of the desk, but it is not an urgent purchase. At the very least, I'd like to thoroughly clean the interior of the case.
 * New router: this has been on my [Now](/now/) page for a while, but I am currently waiting for a good price on a Wifi-6 router to replace my Google Wifi router. Functionally, the Google Wifi router works great but I would like to look for something more privacy respecting. 
 
 Thanks for reading!
