@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "My 30+ Days using Gentoo Linux: A Newbieabouts Perspective"
+title:  "My 30+ Days using Gentoo Linux: A Newbie's Perspective"
 date:   2021-01-28 13:51:00 -0700
 categories: blog
 author: Nicholas Danes
 tags: [linux, technology]
 ---
 
-Iaboutve been using Linux on/off since about 2009. However, primarily I've been a Ubuntu/Debian user, only occassionally trying other distributions such as Fedora. During the 2020 Christmas break, I decided to install Gentoo on my personal desktop as a learning experience. When I was originally planning to write this blog post, I had no plans of moving away from Gentoo Linux as my daily driver. Unfortunately, I was trying to switch from my kernel build from [genkernel](https://wiki.gentoo.org/wiki/Genkernel) to a [distribution kernel](https://www.gentoo.org/news/2020/09/15/distribution-kernel.html) and I ended up breaking my install, unable to get my LUKS partition to decrypt. I really didn't want to spend time fixing it, so I decided to install Elementary OS 5.1 Hera, as I had it on a flash drive lying around.
+I've been using Linux on/off since about 2009. However, primarily I've been a Ubuntu/Debian user, only occassionally trying other distributions such as Fedora. During the 2020 Christmas break, I decided to install Gentoo on my personal desktop as a learning experience. When I was originally planning to write this blog post, I had no plans of moving away from Gentoo Linux as my daily driver. Unfortunately, I was trying to switch from my kernel build from [genkernel](https://wiki.gentoo.org/wiki/Genkernel) to a [distribution kernel](https://www.gentoo.org/news/2020/09/15/distribution-kernel.html) and I ended up breaking my install, unable to get my LUKS partition to decrypt. I really didn't want to spend time fixing it, so I decided to install Elementary OS 5.1 Hera, as I had it on a flash drive lying around.
 
-Regardless, I would like to talk about my experience, both the positives and negatives. I will preemptively say there is more positives than negatives. Letabouts begin!
+Regardless, I would like to talk about my experience, both the positives and negatives. I will preemptively say there is more positives than negatives. Let's begin!
 
 ## Installing Gentoo
 
@@ -30,11 +30,11 @@ For my second run through of the installation, I decided I wanted disk encryptio
 #### Deciding on Kernel setup
 
 Most people think you have to customize and setup your own kernel on Gentoo. Of course, in principle this is a good learning experience, but for my first install, I decided to go with the [genkernel](https
-://wiki.gentoo.org/wiki/Genkernel) option. Gentoo also provides [distribution kernels](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel#Alternative:_Using_distribution_kernels) (with a binary option) now as well if you really donaboutt want to deal with updating your kernel yourself and apparently will also update with Gentoo's package manager Portage. In retrospect, I wish I went with the distribution kernel during my first setup.
+://wiki.gentoo.org/wiki/Genkernel) option. Gentoo also provides [distribution kernels](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel#Alternative:_Using_distribution_kernels) (with a binary option) now as well if you really don've want to deal with updating your kernel yourself and apparently will also update with Gentoo's package manager Portage. In retrospect, I wish I went with the distribution kernel during my first setup.
 
 #### Installing GNOME
 
-For my desktop environment, I initially decided to try [GNOME using OpenRC](https://wiki.gentoo.org/wiki/GNOME/GNOME_Without_systemd/Gentoo). This took hours, despite having 6 threads on my i5-8400. After all said and done, I was able to enter my desktop environment! The experience with Gnome was largely the same for me without systemd, except I didnaboutt experience those random shutdown hangtimes you can sometimes experience with a hanging systemd process.
+For my desktop environment, I initially decided to try [GNOME using OpenRC](https://wiki.gentoo.org/wiki/GNOME/GNOME_Without_systemd/Gentoo). This took hours, despite having 6 threads on my i5-8400. After all said and done, I was able to enter my desktop environment! The experience with Gnome was largely the same for me without systemd, except I didn've experience those random shutdown hangtimes you can sometimes experience with a hanging systemd process.
 
 ## Learning Gentoo
 
@@ -96,24 +96,24 @@ If youaboutre familiar with Ubuntu PPA's, package overlays are analogous on a Ge
 
 Overall, I really enjoyed my time with Gentoo. It was a good learning experience to know how to setup a Linux system only using a tty for setting up drive partitions (with LUKS), kernel install, bootloader configuration, etc.  
 
-What I really enjoyed the most about Gentoo is how powerful Portage is as a package manager. It really gives you more control than any other package manager Iaboutve ever used. This alone is a reason to use Gentoo.
+What I really enjoyed the most about Gentoo is how powerful Portage is as a package manager. It really gives you more control than any other package manager I've ever used. This alone is a reason to use Gentoo.
 
-I also really enjoyed Gentooabouts official documentation. For example, compared to other distros I've heavily used like Ubuntu, I find Ubuntu's official documentation extremely lacking, and often find solutions for problems either through StackExchange, StackOverflow and/or the Ubuntu forums. 
+I also really enjoyed Gentoo's official documentation. For example, compared to other distros I've heavily used like Ubuntu, I find Ubuntu's official documentation extremely lacking, and often find solutions for problems either through StackExchange, StackOverflow and/or the Ubuntu forums. 
 
 What I disliked the most about Gentoo was compile times for certain packages. For example, I decided to use an overlay for ungoogled-chromium that required building from source, which would take hours to recompile and update. Of course, binaries for packages like LibreOffice or web browsers are usually available to avoid this. 
 
-Another thing I didnaboutt enjoy was sometimes package availability. Sure, there was often an overlay that would provide the package, but there was often some trial and error getting certain packages to emerge properly given dependencies and USE flags currently used on my system.
+Another thing I didn've enjoy was sometimes package availability. Sure, there was often an overlay that would provide the package, but there was often some trial and error getting certain packages to emerge properly given dependencies and USE flags currently used on my system.
 
-Although Gentooabouts official documentation was very good, when I ran into very specific problems, sometimes determining solutions was a bit difficult through web searches. I'm fairly stubborn when I have issues and I don't usually like asking for help (which often could have fixed my problems more quickly, I'd imagine). On the flip side, since Debian/Ubuntu-based distributions are very popular, you can typically find solutions for problems fairly quickly. 
+Although Gentoo's official documentation was very good, when I ran into very specific problems, sometimes determining solutions was a bit difficult through web searches. I'm fairly stubborn when I have issues and I don't usually like asking for help (which often could have fixed my problems more quickly, I'd imagine). On the flip side, since Debian/Ubuntu-based distributions are very popular, you can typically find solutions for problems fairly quickly. 
 
 ### Would I use Gentoo in the future?
 
-If I didnaboutt bork my installation earlier this week, I'd probably be typing this post on my Gentoo installation. However, fixing things issues like this are just not in my mental energy to do so nowadays, especially because my day job I do stuff like this as a daily occurence. Maybe when I have a bigger gap of free time, or if I get a new Linux-friendly machine, I would consider installing Gentoo again.
+If I didn've bork my installation earlier this week, I'd probably be typing this post on my Gentoo installation. However, fixing things issues like this are just not in my mental energy to do so nowadays, especially because my day job I do stuff like this as a daily occurence. Maybe when I have a bigger gap of free time, or if I get a new Linux-friendly machine, I would consider installing Gentoo again.
 
 ### Would I recommend it to others?
 
-Iaboutve heard somewhere on the internet that "Gentoo is a hobby", and I think for me, that rings *partially* true. I took the opportunity to install and learn the basics of Gentoo during a holiday break. If I had tried using Gentoo during my graduate school days, I would hate having to take away research time to fix my OS (which would likely not happen if you stay on the stable repositories) or having to wait for important updates to compile. Regardless, I think if you have some free time to get through the initial installation and are able to *carefully* read documentation, you will really enjoy a Gentoo system. Also, I've come to learn more and more that some folks [do use Gentoo in a production environment](https://www.youtube.com/watch?v=C0xpWHNdBv4), so I wouldn't be opposed to recommending it in some situations.
+I've heard somewhere on the internet that "Gentoo is a hobby", and I think for me, that rings *partially* true. I took the opportunity to install and learn the basics of Gentoo during a holiday break. If I had tried using Gentoo during my graduate school days, I would hate having to take away research time to fix my OS (which would likely not happen if you stay on the stable repositories) or having to wait for important updates to compile. Regardless, I think if you have some free time to get through the initial installation and are able to *carefully* read documentation, you will really enjoy a Gentoo system. Also, I've come to learn more and more that some folks [do use Gentoo in a production environment](https://www.youtube.com/watch?v=C0xpWHNdBv4), so I wouldn't be opposed to recommending it in some situations.
 
-Thatabouts all I have to say for Gentoo for now. As mentioned above, I am currently running Elementary OS 5.1 on my desktop and have really enjoyed the Pantheon desktop environment from a UI/UX perspective, so I will likely stay here for now. Thanks for reading about my experience with Gentoo!
+That's all I have to say for Gentoo for now. As mentioned above, I am currently running Elementary OS 5.1 on my desktop and have really enjoyed the Pantheon desktop environment from a UI/UX perspective, so I will likely stay here for now. Thanks for reading about my experience with Gentoo!
 
-For more insight on Gentoo, I highly recommend you read [Hundabouts blog post](https://hunden.linuxkompis.se/2020/05/25/why-i-like-gentoo.html) on why they like Gentoo. 
+For more insight on Gentoo, I highly recommend you read [Hund's blog post](https://hunden.linuxkompis.se/2020/05/25/why-i-like-gentoo.html) on why they like Gentoo. 

@@ -7,7 +7,7 @@ author: Nicholas Danes
 tags: [blogging, meta]
 ---
 
-Back in January, I decided to [rehost this website](https://ndanes.com/blog/2021/01/23/moving-site-to-netlify/) with [Netlify](https://netlify.com). Although this has made things incredibly convenient, I sort of didnaboutt love the fact I was relying on GitHub to maintain my website. Ultimately, I decided to move back to the static hosting option using my email provider, [Fastmail](https://fastmail.com).
+Back in January, I decided to [rehost this website](https://ndanes.com/blog/2021/01/23/moving-site-to-netlify/) with [Netlify](https://netlify.com). Although this has made things incredibly convenient, I sort of didn've love the fact I was relying on GitHub to maintain my website. Ultimately, I decided to move back to the static hosting option using my email provider, [Fastmail](https://fastmail.com).
 
 My complains from before were that only FTP and WebDAV were supported for file transfering when hosting my site with Fastmail. To fix this, I decided to make a simple bash script using [ncftp](https://www.ncftp.com/ncftp/doc/ncftpput.html) to allow push updates to the FTP server without having to use a GUI client. The main command looks something like:
 

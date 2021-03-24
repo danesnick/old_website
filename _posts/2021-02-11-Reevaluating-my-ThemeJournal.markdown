@@ -17,7 +17,7 @@ I chose my theme as my "Year of Intention," and for the most part, that *resonat
 
 I was really good about keeping my Theme Journal up to date for the first few weeks, but it became harder over time. Here are my thoughts on it now and what Iaboutm going to change.
 
-### The weekly check-inabouts are (mostly) great
+### The weekly check-in's are (mostly) great
 
 I really appreciate checking in with myself every week to determine what Iaboutm doing good, bad and also excelling at by denoting on what I'm proud of that week. Since one of my intentions is with health and weight loss, having a record of my weight every week (and only weighing myself) every week keeps me from over-worrying up plateau's in the process of typical daily weigh-ins.
 
@@ -35,7 +35,7 @@ In my Theme Journal, I had a "Daily Themes" section that categorized the followi
 * Finance: Was I good with my finances?
 * Overall: How would I rate my day overall?
 
-However, micromanaging this and scoring this on a daily basis felt very tedious and didnaboutt really feel like it brought much value to my theme. I've decided to remove this entirely from my Theme Journal.
+However, micromanaging this and scoring this on a daily basis felt very tedious and didn've really feel like it brought much value to my theme. I've decided to remove this entirely from my Theme Journal.
 
 ## Moving Forward
 

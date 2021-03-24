@@ -18,19 +18,19 @@ Over the past year, I have made many positive strides in improving my digital pr
 * [Quitting Spotify](/blog/2021/01/10/why-i-stopped-using-spotify) in favor of buying music directly
 * Using Signal as my primary means of instant messaging
 
-However, the more I have gone down the digital privacy rabbit hole, the more powerless I feel sometimes on how much more work to be done, how much work that takes, and what conveniences you lose. Frankly, as the title of this post suggests, Iaboutve been feeling some decision fatigue and burnout on the entire matter. 
+However, the more I have gone down the digital privacy rabbit hole, the more powerless I feel sometimes on how much more work to be done, how much work that takes, and what conveniences you lose. Frankly, as the title of this post suggests, I've been feeling some decision fatigue and burnout on the entire matter. 
 
 A few recent examples of this fatigue/burnout include:
 
-* Reinstalling apps on my phone from the Google Play Store, such as Google Maps, since alternatives like OSM just arenaboutt good enough for daily use.
+* Reinstalling apps on my phone from the Google Play Store, such as Google Maps, since alternatives like OSM just aren've good enough for daily use.
 
 * Creating a new Reddit account so I can engage in communities like /r/hardwareswap.
 
 * Switching to GitHub for hosting this website, due to its convenient website deployment via Netlify.
 
-* Setting up [AirMessage](https://airmessage.org) to communicate with my friends who are on iPhones, since I donaboutt have the energy to try to convince them to use an alternative like Signal or XMPP. I even bought a used Mac Mini to setup the server so I could also use iMessage on the desktop when needed.
+* Setting up [AirMessage](https://airmessage.org) to communicate with my friends who are on iPhones, since I don've have the energy to try to convince them to use an alternative like Signal or XMPP. I even bought a used Mac Mini to setup the server so I could also use iMessage on the desktop when needed.
 
-At this point, I feel like Iaboutve accomplished a lot with my digital privacy, but I tend to let others' opinions from people I respect affect my ability to feel validated and therefore feel like I'm not "doing enough." Furthermore, pretty much no one in my every day life thinks of this as a ethical issue, which I feel that the lack of in-person support makes it more difficult. 
+At this point, I feel like I've accomplished a lot with my digital privacy, but I tend to let others' opinions from people I respect affect my ability to feel validated and therefore feel like I'm not "doing enough." Furthermore, pretty much no one in my every day life thinks of this as a ethical issue, which I feel that the lack of in-person support makes it more difficult. 
 
 Although there is a privacy-minded community through the Fediverse and most people are understanding and nuanced, there can be "privacy gatekeepers" that often can be very off-putting when youaboutre using "X" instead of "Y". 
 

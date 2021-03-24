@@ -35,4 +35,4 @@ I started noticing these pages on many personal websites, with a commonly linked
 * Sold my gaming desktop for a Thinkpad X390 ([blog post here](/blog/2021/02/06/desktop-to-laptop))
 * Used and Learned [Gentoo Linux](https://gentoo.org) on my desktop PC as my daily driver, but I borked my system and didn't feel like fixing it.
 * Shopped for a Wifi-6 Router and decided on just getting a Linksys Velop Mesh Wifi-5 Router due to a good used deal I found online!
-* Cleaned up my [home desk setup](/blog/2021/01/03/MyDeskSetup_Jan2021.html)
+* Cleaned up my [home desk setup](/blog/2021/01/03/MyDeskSetup_Jan2021)
