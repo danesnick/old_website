@@ -30,8 +30,7 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 * [Bandcamp](https://bandcamp.com/ndanes)
 * [Codeberg](https://codeberg.org/ndanes)
 * [GitHub](https://github.com/nicholasdanes)
-* (_**Away**_) <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon (Personal)</a>
-* (_**Away**_) <a rel="me" href="https://fosstodon.org/@ndanes">Mastodon</a>
+* <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon</a>
 
 ## Contact
 * Email: hello at ndanes dot com
