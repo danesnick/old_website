@@ -140,6 +140,7 @@ h2 + ul + p {
       background: #232323;
   }
   #resume {
+      background: #232323;
       border: 1px solid #333333;
       box-shadow: 2px 2px 4px #444444;
       -webkit-box-shadow: 2px 2px 4px #444444;
