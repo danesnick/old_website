@@ -16,12 +16,12 @@ I was always aware of Mastodon as a decentralized alternative to Twitter, but th
 
 The community here so far as been so great and welcoming. When I was a young teenager, I was always involved with internet communities/forums, and joining a smaller instance like this feels like going an earlier form of the internet. What stood out to me most however, were the prevalance of blogs ran by many community members. I've enjoyed reading many fellow Fosstodonians' (I believe it was [@kevq](https://fosstodon.org/@kev) where I saw this term) blogs; what a refreshing experience! Below is a list of blogs I've enjoyed the most so far:
 
-* [Hund](https://hunden.linuxkompis.se/) - Why Iaboutm using [Jekyll](https://jekyllrb.com/) for this site!
+* [Hund](https://hunden.linuxkompis.se/) - Why I'm using [Jekyll](https://jekyllrb.com/) for this site!
 * [kevq](https://kevq.uk/) - The most eye-catching personal blog on Fosstodon!
 * [Mike Stone](https://mikestone.me/)  - Great Beard!
 * [Yarmo](https://yarmo.eu/) - A fellow musician and PhD graduate!
 * [Chris Wiegman](https://chriswiegman.com) - Just seems like a nice fellow!
 
-Because of these blogs, that is why Iaboutm typing this now. Who knows if there will be more posts, but we'll see!   
+Because of these blogs, that is why I'm typing this now. Who knows if there will be more posts, but we'll see!   
 
 [fosstodon-www]: https://fosstodon.org

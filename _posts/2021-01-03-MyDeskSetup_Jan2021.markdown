@@ -138,7 +138,7 @@ Not really much to say other than the PC has been working great for me and I don
 
 Thanks for checking out my battlestation! I feel like it is almost complete, with a few minor things to complete:
 
-* Cable Management: This was a glaring omission with this post as Iaboutm currently not happy with where it's at with my setup.
+* Cable Management: This was a glaring omission with this post as I'm currently not happy with where it's at with my setup.
 * ITX case: Like I mentioned above, the case that this used system came with is not my favorite. Ideally Iaboutd like to able to pick a small enough chassis to keep the PC on the top of the desk, but it is not an urgent purchase. At the very least, I'd like to thoroughly clean the interior of the case.
 * New router: this has been on my [Now](/now/) page for a while, but I am currently waiting for a good price on a Wifi-6 router to replace my Google Wifi router. Functionally, the Google Wifi router works great but I would like to look for something more privacy respecting. 
 

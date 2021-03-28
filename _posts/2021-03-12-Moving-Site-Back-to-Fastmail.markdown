@@ -28,4 +28,4 @@ alias fm_ftp="bash /home/ndanes/scripts/ftp_fastmail_upload"
 alias deploy_site="jb && fm_ftp"
 {% endhighlight %}
 
-Now that I can deploy my site without using GitHub, Iaboutm considering moving my website repo elsewhere. I may go back to [Codeberg](https://codeberg.org), but ultimately I haven't decided.
+Now that I can deploy my site without using GitHub, I'm considering moving my website repo elsewhere. I may go back to [Codeberg](https://codeberg.org), but ultimately I haven't decided.

@@ -25,7 +25,7 @@ This is somewhat related to mental health, I've recently been going through an s
 
 I think I would have had more success if I had gone the paper route for this theme journal. At the time of starting my Yearly Theme, I thought a digital one using markdown would be sufficient. I've been using a pen and paper notebook for work and find it incredibly useful to track tasks and keep my thoughts organized. Furthermore, I find myself rediscovering how much the creative and habit-forming process comes from just putting pen to paper. I may revist this in the future, but I will let myself decide that when the time comes.
 
-Overall, Iaboutm happy with trying this process and maybe I'll try again in the future once things are more normal!
+Overall, I'm happy with trying this process and maybe I'll try again in the future once things are more normal!
 
 ## Digital Minimalism: Cutting Excess Accounts
 

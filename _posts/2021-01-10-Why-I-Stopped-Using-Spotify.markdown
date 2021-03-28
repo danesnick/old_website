@@ -21,7 +21,7 @@ Like I mentioned above, *almost* all music is available on Spotify. When you hav
 
 ### [Algorithmic] Curated Playlists aren've for me
 
-Spotify provides playlists in two main ways: (1) generated "discovery" playlists based on your past listens, and (2) playlists shared by other Spotify users. In both cases, Iaboutm not usually one to listen to a playlist of different artists. Even back in the CD burning "mix tape" days, I would listen to band's full length albums from start to finish. This also held true for Spofiy. One of their most well renowned features I really didn't care for at all.
+Spotify provides playlists in two main ways: (1) generated "discovery" playlists based on your past listens, and (2) playlists shared by other Spotify users. In both cases, I'm not usually one to listen to a playlist of different artists. Even back in the CD burning "mix tape" days, I would listen to band's full length albums from start to finish. This also held true for Spofiy. One of their most well renowned features I really didn't care for at all.
 
 ### Opportunity Cost
 
@@ -47,7 +47,7 @@ Many people believe that Spotify is just a music streaming service company, but 
 
 
 ## Alternatives
-There a variety alternative options for music listening, so I will briefly discuss some of them here. Iaboutm not going to discuss other streaming services such as Deezer or Tidal for the sake of brevity. If you feel like there's a good reason to consider them or another service, please [contact me](/#contact) and let me know why!
+There a variety alternative options for music listening, so I will briefly discuss some of them here. I'm not going to discuss other streaming services such as Deezer or Tidal for the sake of brevity. If you feel like there's a good reason to consider them or another service, please [contact me](/#contact) and let me know why!
 
 ### YouTube Music
 

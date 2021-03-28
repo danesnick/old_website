@@ -15,13 +15,13 @@ I chose my theme as my "Year of Intention," and for the most part, that *resonat
 
 ## Theme Journal thoughts
 
-I was really good about keeping my Theme Journal up to date for the first few weeks, but it became harder over time. Here are my thoughts on it now and what Iaboutm going to change.
+I was really good about keeping my Theme Journal up to date for the first few weeks, but it became harder over time. Here are my thoughts on it now and what I'm going to change.
 
 ### The weekly check-in's are (mostly) great
 
-I really appreciate checking in with myself every week to determine what Iaboutm doing good, bad and also excelling at by denoting on what I'm proud of that week. Since one of my intentions is with health and weight loss, having a record of my weight every week (and only weighing myself) every week keeps me from over-worrying up plateau's in the process of typical daily weigh-ins.
+I really appreciate checking in with myself every week to determine what I'm doing good, bad and also excelling at by denoting on what I'm proud of that week. Since one of my intentions is with health and weight loss, having a record of my weight every week (and only weighing myself) every week keeps me from over-worrying up plateau's in the process of typical daily weigh-ins.
 
-However, I decided to remove "screen time" as a metric from my weekly Theme Journal updates. I find that it can be misleading for when Iaboutm on my phone. Furthermore, I also [re-evaluated my relationship with Mastodon]() as not necessarily a bad thing when I spend too much time on it. 
+However, I decided to remove "screen time" as a metric from my weekly Theme Journal updates. I find that it can be misleading for when I'm on my phone. Furthermore, I also [re-evaluated my relationship with Mastodon]() as not necessarily a bad thing when I spend too much time on it. 
 
 ### The daily themes were not so great
 

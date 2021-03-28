@@ -49,4 +49,4 @@ I gained motivation to start blogging due to the wonderful community over at [Fo
 
 Maybe? I do think there is a place for analytics on the web, and in particular ones that respect people's privacy. Google Analytics is still essentially everywhere, so I really hope that alternatives like [Plausible](https://plausible.io) and [GoatCounter](https://goatcounter.com) gain more momentum on the web. In particular, I think these analytic services seem perfect for personal blogs like this one! 
 
-Maybe when Iaboutm in a better place mentally, in terms of my relationship with technology, maybe I'll bring one of the analytics services back to my website. For now, I'll just focus on writing! 
+Maybe when I'm in a better place mentally, in terms of my relationship with technology, maybe I'll bring one of the analytics services back to my website. For now, I'll just focus on writing! 

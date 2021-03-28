@@ -11,7 +11,7 @@ About 5 days ago, I decided to [try to take a week off from Mastodon](/blog/2021
 
 ## I missed the community
 
-Most of my immediate friends and family are not nearly as interested in the most common topics on the [Fosstodon](https://fosstodon.org), the Mastodon instance I have joined. In particular, I miss nerding out on Linux/FOSS software and privacy concerns. Not being able to gain new insights and ideas about how to approach both of these topics Iaboutm deeply interested in has felt a little void in my life this week, especially during a time where it's difficult to see friends and family. The microblogging timeline, combined with the relatively small community, just allows for so many ideas to be shared and discussed that is hard to emulate in other places. I'm looking forward to rejoining!  
+Most of my immediate friends and family are not nearly as interested in the most common topics on the [Fosstodon](https://fosstodon.org), the Mastodon instance I have joined. In particular, I miss nerding out on Linux/FOSS software and privacy concerns. Not being able to gain new insights and ideas about how to approach both of these topics I'm deeply interested in has felt a little void in my life this week, especially during a time where it's difficult to see friends and family. The microblogging timeline, combined with the relatively small community, just allows for so many ideas to be shared and discussed that is hard to emulate in other places. I'm looking forward to rejoining!  
 
 ## My screen habits didn've really change
 

@@ -40,7 +40,7 @@ For my desktop environment, I initially decided to try [GNOME using OpenRC](http
 
 ### Portage
 
-The best part about Gentoo is through its package manager Portage. Portage is a source-based package manager where packages are installed through the command <code>emerge</code> You can think of <code>emerge</code> as functionally similar to <code>apt</code> or <code>dnf</code>, but the packages and its dependencies in most cases are built from source. Because most packages are built from source, this allows you to customize compiler flags and dependencies on a package-by-package basis; Portage makes managing how you want to setup dependencies and compiler flags incredibly user-friendly. Iaboutm not going to go into detail about Portage, but I will highlight the parts I used and enjoyed the most about it.
+The best part about Gentoo is through its package manager Portage. Portage is a source-based package manager where packages are installed through the command <code>emerge</code> You can think of <code>emerge</code> as functionally similar to <code>apt</code> or <code>dnf</code>, but the packages and its dependencies in most cases are built from source. Because most packages are built from source, this allows you to customize compiler flags and dependencies on a package-by-package basis; Portage makes managing how you want to setup dependencies and compiler flags incredibly user-friendly. I'm not going to go into detail about Portage, but I will highlight the parts I used and enjoyed the most about it.
 
 #### Package USE Flags
 
