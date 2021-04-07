@@ -7,7 +7,7 @@
   /* Color scheme */
   --textcolor: #000;
   --bgcolor: #fff;
-  --highlight: #2196F3;
+  --highlight: #1976D2;
   --bordercolor: #D4D4D4;
   --precolor: #212121;
   --prebgcolor: #F5F5F5;
@@ -28,7 +28,7 @@
 
 html {
   font-size: 18px;
-  font-family: Roboto, system-ui, sans-serif;
+  font-family: system-ui, sans-serif;
   color: var(--textcolor);
   background: var(--bgcolor);
   line-height: 1.4;
@@ -43,14 +43,18 @@ body {
 }
 
 header {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   padding-top: 8px;
 }
 
 header h1 {
-  font-weight: 800;
+  font-weight: 900;
   margin-bottom: 4px;
   margin-top: 4px;
+}
+
+nav {
+  word-spacing: 0.5rem;
 }
 
 figure {
@@ -84,27 +88,33 @@ a:hover {
 }
 
 h1 {
-  font-size: 1.4em;
-  font-weight: 800;
+  font-size: 2.0em;
+  font-weight: 900;
   margin: 0.5em 0 .6em 0;
 }
 
 h2 {
-  font-size: 1.3em;
-  font-weight: 700;
-  margin: 1.0em 0 .6em 0;
+  font-size: 1.75em;
+  font-weight: 800;
+  margin: 1.0em 0 .5em 0;
 }
 
 h3 {
-  font-size: 1.2em;
-  font-weight: 600;
-  margin: 1.0em 0 .6em 0;
+  font-size: 1.5em;
+  font-weight: 700;
+  margin: 1.0em 0 .5em 0;
 }
 
 h4 {
-  font-size: 1.1em;
+  font-size: 1.35em;
   font-weight: 600;
-  margin: 1.0em 0 .6em 0;
+  margin: 1.0em 0 .5em 0;
+}
+
+h5 {
+  font-size: 1.1em;
+  font-weight: 500;
+  margin: 1.0em 0 .5em 0;
 }
 
 p, ul, ol, article {
@@ -221,7 +231,6 @@ footer {
 
 @media only screen and (max-width: 680px) {
   body { font-size: 16px; }
-  header h1 { font-size: 1.4em; }
 }
 
 @media only screen and (max-width: 540px) {
