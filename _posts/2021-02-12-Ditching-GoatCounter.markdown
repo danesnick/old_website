@@ -30,12 +30,12 @@ I decided to experiement with GoatCounter's No-JS option of website analytics, b
 
 In addition to this, unfortunately, load times for my website were fairly poor due to GoatCounter. even with the no-JS analytics option, I was seeing ~600 ms of latency to load my front page since it was waiting on Goatcounter. You can see the difference with GTMetrix below:
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/feb12_2021_blog/goatcounter_before.png"><br>
+<figure>
+<img loading="lazy" src="/images/feb12_2021_blog/goatcounter_before.png"><br>
 <br>
-<img loading="lazy" class="border" src="/images/feb12_2021_blog/goatcounter_after.png">
-<div class="caption"><i>Before (top) and after (bottom) removing the no-JS GoatCounter</i></div>
-</div>
+<img loading="lazy" src="/images/feb12_2021_blog/goatcounter_after.png">
+<figcaption><i>Before (top) and after (bottom) removing the no-JS GoatCounter</i></figcaption>
+</figure>
 
 ## Analytics became another point of anxiety
 

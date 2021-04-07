@@ -46,38 +46,38 @@ The best part about Gentoo is through its package manager Portage. Portage is a 
 
 One of the most powerful features of Portage was USE flags. USE flags allow you to enable/disable dependencies on all the packages available through Portage. For example, as seen in the [XFCE guide](https://wiki.gentoo.org/wiki/Xfce), you can build a package without any QT 5 dependencies by passing the parameter to <code>emerge</code>:
 
-{% highlight bash %}
-$ emerge --ask package-name -qt5
-{% endhighlight %}
+
+	$ emerge --ask package-name -qt5
+
 
 You can even apply this globally by adding the following to the <code>/etc/portage/make.conf</code> file:
-{% highlight bash %}
-.
-.
-.
-USE="-qt5"
-.
-.
-.
-{% endhighlight %}
+	
+	.
+	.
+	.
+	USE="-qt5"
+	.
+	.
+	.
+
 
 #### Package Keywords
 
 Gentoo is considered to be a rolling release distro, but does not keep bleeding edge packages in the main repository like Arch Linux, for example. By default, it will use the latest LTS kernel and will keep packages held back until they have been sufficiently tested. However, if youaboutd like to use a package version that is no in the main/stable repositories, these are accessible through the use of <code>ARCH</code> keywords. For example, if you're using a 64-bit x86 system, <code>ARCH=amd64</code> and accessing unstable packages can be obtained by setting <code>~amd64</code> for the desired package under <code>/etc/portage/package.accept_keywords</code>. For example, if  I wanted to install Dino, I would create the file <code>/etc/portage/package.accept_keywords/dino-im</code> with:
 
-{% highlight bash %}
-net-im/dino-im ~amd64
-{% endhighlight %}
+
+	net-im/dino-im ~amd64
+
 
 If you know what you are doing (or stupid, like me). You can also set this keyword globally in your <code>/etc/portage/make.conf</code> file:
-{% highlight bash %}
-.
-.
-.
-ACCEPT_KEYWORDS="~amd64"
-.
-.
-{% endhighlight %}
+
+	.
+	.
+	.
+	ACCEPT_KEYWORDS="~amd64"
+	.
+	.
+
 
 More on this below...
 

@@ -14,10 +14,10 @@ Resume template was originally created by [mikepqr](https://github.com/mikepqr/r
 
 ## My Resume
 
-A PDF version is also [available](/resume.pdf).
+Click [here](/resume.pdf) to download my resume.
 
-<object data="{{ "my_resume.html" | relative_url }}" width="100%" height="1000px">
-    <embed src="{{ "my_resume.html" | relative_url }}" width="100%" height="1000px"> </embed>
+<object data="{{ "resume.pdf" | relative_url }}" width="100%" height="1000px">
+    <embed src="{{ "resume.pdf" | relative_url }}" width="100%" height="1000px"> </embed>
     Error: Embedded data could not be displayed.
 </object>
 

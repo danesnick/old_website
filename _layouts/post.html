@@ -2,10 +2,10 @@
 layout: default
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
-    <h1>{{ page.title | escape }}</h1>
+    <h2>{{ page.title | escape }}</h2>
     <p>
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-      Date: <time style="font-weight:600" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"> 
+      Date: <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"> 
         {{ page.date | date: date_format }}
       </time>
   	{% if post %}

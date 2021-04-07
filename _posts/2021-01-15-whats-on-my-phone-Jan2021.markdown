@@ -10,10 +10,10 @@ tags: [android, linux, technology, minimalism]
 I've seen a lot YouTube videos showing off their phone setups, so I figured why not write a blog post on what my phone setup looks like currently as a means to "snapshot" my technological life. I plan to do one for my desktop as well soon! As with other facets of my life, I try to be digitally minimal as possible, where each app on my phone stays on it due to its utility. If I find myself not using something for a while, or it starts becoming a major distraction, I will uninstall it. A clear example of this is [Tusky](https://tusky.app/), a Mastodon client. I uninstalled the app due to it becoming a major distraction for me. I still access [Fosstodon](https://fosstodon.org) on my web browser to make it a little more inconvenient for me to browse unintentionally.
 
 ## The Phone 
-<div align="center">
+<figure>
 <img loading="lazy" src="/images/phone-Jan2021/s10e.jpg">
-<div><i>Back of my Galaxy S10e with the <a href="https://dbrand.com/shop/samsung-galaxy-s10e-skins">DBrand "Swarm" Skin</a> (<a target="_blank" href="/images/phone-Jan2021/big/s10e.jpg">Large Photo</a>)</i></div>
-</div>
+<figcaption><i>Back of my Galaxy S10e with the <a href="https://dbrand.com/shop/samsung-galaxy-s10e-skins">DBrand "Swarm" Skin</a> (<a target="_blank" href="/images/phone-Jan2021/big/s10e.jpg">Large Photo</a>)</i></figcaption>
+</figure>
 
 
 My current daily driver is a US Unlocked Samsung Galaxy S10e (G970U1) running Android 10 with One UI 2.5. Unfortunately the US Snapdragon variants of Samsung phones have their [bootloaders locked](https://www.xda-developers.com/snapdragon-samsung-galaxy-note-10-galaxy-s10-galaxy-tab-s6-twrp-support/), so currently there is no way to flash roms on these phones, leading to [planned obsolesence](https://en.wikipedia.org/wiki/Planned_obsolescence). I bought this back in March 2020 and have been extremely happy with the hardware, since it includes basic things like SD card expansion, a headphone jack, great camera with unofficial [GCam support](https://www.thetechverts.com/what-is-google-camera-gcam-and-how-to-install-it-on-android-devices/), and guaranteed updates to [Android 11 & 12](https://www.phonearena.com/news/samsung-galaxy-s20-note-android-11-update_id126654). Hopefully with a battery swap, I *should* be able to keep this phone for a few years, assuming I can resist my brain being preconditioned to [perceived obsolesence](https://en.wikipedia.org/wiki/Planned_obsolescence#Perceived_obsolescence). 
@@ -23,10 +23,10 @@ My current daily driver is a US Unlocked Samsung Galaxy S10e (G970U1) running An
 For my apps, I try my best to use as few Google apps as possible, as I've been trying to [de-Google](/blog/2020/12/03/degoogle-part1.html) my life whenever I feasibly can. Although I do install some apps from the Play Store, I try to use apps from the [F-Droid](f-droid.org/), a free & open source (FOSS) alternative app store, whenever possible. Some alternatives lack features or just aren't very usable sometimes, unfortunately. If you see a category that isn't FOSS app and you know a good alternative, please let me know by [contacting me](/#contact)!
 
 ### My Home Screen
-<div align="center">
+<figure>
 <img loading="lazy" src="/images/phone-Jan2021/homescreen.jpg">
-<div><i>My current home screen setup (<a target="_blank" href="/images/phone-Jan2021/big/homescreen.jpg">Large Photo</a>). Wallpaper by <a href="https://unsplash.com/photos/d4feocYfzAM">Damiano Baschiera</a> </i></div>
-</div>
+<figcaption><i>My current home screen setup (<a target="_blank" href="/images/phone-Jan2021/big/homescreen.jpg">Large Photo</a>). Wallpaper by <a href="https://unsplash.com/photos/d4feocYfzAM">Damiano Baschiera</a> </i></figcaption>
+</figure>
 
 
 Below is a table summary of the apps I currently use on my home screen!

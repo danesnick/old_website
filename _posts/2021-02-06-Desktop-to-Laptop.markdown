@@ -7,10 +7,10 @@ date: "2021-02-06 13:33:00 -0700"
 tags: [linux, technology, minimalism] 
 ---
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Feb2021/desk.jpg">
-<div class="caption"><i>An updated overviewof my full desk setup (<a target="_blank" href="/images/desk-Feb2021/big/desk.jpg">Large Photo</a>). Wallpaper by <a href="https://unsplash.com/photos/4wzRuAb-KWs">Mohammad Alizade</a> </i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Feb2021/desk.jpg">
+<figcaption><i>An updated overview of my full desk setup (<a target="_blank" href="/images/desk-Feb2021/big/desk.jpg">Large Photo</a>). Wallpaper by <a href="https://unsplash.com/photos/4wzRuAb-KWs">Mohammad Alizade</a> </i></figcaption>
+</figure>
 
 
 This past week has resulted in a lot of computing changes for me, enough to justify a blog post and my thought process of why I made the change. In summary:

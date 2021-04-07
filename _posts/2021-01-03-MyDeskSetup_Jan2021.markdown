@@ -19,10 +19,10 @@ I should note that many of my battlestation choices had to be purchased recently
 
 ## My Battlestation
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Jan2021/desk_overview.jpg">
-<div class="caption"><i>An overview of my full desk setup (<a target="_blank" href="/images/desk-Jan2021/big/desk_overview.jpg">Large Photo</a>). Wallpaper by <a href="https://unsplash.com/photos/d4feocYfzAM">Damiano Baschiera</a> </i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Jan2021/desk_overview.jpg">
+<figcaption><i>An overview of my full desk setup (<a target="_blank" href="/images/desk-Jan2021/big/desk_overview.jpg">Large Photo</a>). Wallpaper by <a href="https://unsplash.com/photos/d4feocYfzAM">Damiano Baschiera</a> </i></figcaption>
+</figure>
 
 
 ### Summary
@@ -60,10 +60,10 @@ The desk itself is an [Ikea Arkelstorp](https://www.ikea.com/us/en/p/arkelstorp-
 
 ### Peripherals
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Jan2021/desk_peripherals.jpg">
-<div class="caption"><i>An overhead photo of my peripherals  (<a target="_blank" href="/images/desk-Jan2021/big/desk_peripherals.jpg">Large Photo</a>)</i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Jan2021/desk_peripherals.jpg">
+<figcaption><i>An overhead photo of my peripherals  (<a target="_blank" href="/images/desk-Jan2021/big/desk_peripherals.jpg">Large Photo</a>)</i></figcaption>
+</figure>
 
 #### Keyboard
 I've always liked using mechanical keyboards and  have used a variety  of different switches (mostly Cherry Reds/Browns/Blues and Logitech) from various manufacturers (Leopold, Ducky, etc). I ended up narrowing down to the [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) due to its affordable price, value switches, 75% size, and bluetooth functionality. The keyboard board itself is quite tall, so I paired it with the [Glorious Gaming Compact Wooden Wrist Rest](https://www.pcgamingrace.com/products/glorious-wood-keyboard-wrist-rest) for better ergonomics. The keyboard keycaps are not stock, but some cheap doubleshot PBT keycaps from  [HK Gaming](https://hk-gaming.com/) in the [Pegaso](https://hk-gaming.com/collections/keycaps/products/hk-gaming-dye-sublimation-cherry-profile-thick-pbt-keysets-for-mechanical-keyboard-139-keys-chalk) color scheme. If you end up buying the Keychron K2, I recommend swapping out the stock cheap ABS keycaps, as the typing experience greatly improves. 
@@ -79,10 +79,10 @@ I used to be somewhat of a pseudo-audiophile, but I always preferred the value h
 
 ### Monitor Stand Area
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Jan2021/desk_top.jpg">
-<div class="caption"><i>Zoomed-in photo of my monitor stand area  (<a target="_blank" href="/images/desk-Jan2021/big/desk_top.jpg">Large Photo</a>)</i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Jan2021/desk_top.jpg">
+<figcaption><i>Zoomed-in photo of my monitor stand area  (<a target="_blank" href="/images/desk-Jan2021/big/desk_top.jpg">Large Photo</a>)</i></figcaption>
+</figure>
 
 
 I had an unused [Insignia Mini Soundbar](https://www.bestbuy.com/site/insignia-2-0-channel-mini-soundbar-black/6346460.p?skuId=6346460) lying around in our house and wanted to utilize for my desk without looking cluttered. I ended up finding this [Hastings Home Bamboo Monitor Stand](https://www.bestbuy.com/site/hastings-home-bamboo-monitor-stand-computer-desk-organizer-and-laptop-riser-in-natural-wood-finish-bamboo/6444283.p?skuId=6444283) on Best Buy's website which was a perfect fit for my desk. I was then able to put the sound bar under the stand, along with hiding my external drive under it as well. 
@@ -95,18 +95,18 @@ The monitor is an [Asus ProArt PA248QV](https://www.asus.com/us/Monitors/ProArt-
 
 #### USB Setup
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Jan2021/desk_backofmonitor.jpg">
-<div class="caption"><i>The UGreen USB switch mounted via command strip behind my monitor  (<a target="_blank" href="/images/desk-Jan2021/big/desk_backofmonitor.jpg">Large Photo</a>)</i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Jan2021/desk_backofmonitor.jpg">
+<figcaption><i>The UGreen USB switch mounted via command strip behind my monitor  (<a target="_blank" href="/images/desk-Jan2021/big/desk_backofmonitor.jpg">Large Photo</a>)</i></figcaption>
+</figure>
 When I have to switch to my from my desktop to work laptop, I have a [UGreen USB switch](https://www.ugreen.com/products/2-in-4-out-usb-3-0-sharing-switch-box) mounted with a command strip behind the monitor, which is plugged into my mouse, keyboard and webcam. The USB switch itself allows two different options, one plugged into my desktop, while other is plugged into my USB-C dock. Switching to my work laptop simply requires switching the display mode from DisplayPort to HDMI! 
 
 ### My Desktop PC
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Jan2021/desk_pc.jpg">
-<div class="caption"><i>Front view of my very dirty PC  (<a target="_blank" href="/images/desk-Jan2021/big/desk_pc.jpg">Large Photo</a>)</i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Jan2021/desk_pc.jpg">
+<figcaption><i>Front view of my very dirty PC  (<a target="_blank" href="/images/desk-Jan2021/big/desk_pc.jpg">Large Photo</a>)</i></figcaption>
+</figure>
 
 My previous stolen PC was a recently purchased [HP Omen 25L](https://www.costco.com/hp-omen-25l-gaming-desktop---amd-ryzen-7-3700x---radeon-rx-5700.product.100579374.html) which was an absolute beast; It had a AMD Ryzen 7 3700X and a Radeon RX 5700. As a replacement, I ended up looking locally and luckily found a good deal on a used ITX system with the following specs below.
 
@@ -128,10 +128,10 @@ My previous stolen PC was a recently purchased [HP Omen 25L](https://www.costco.
 
 Not really much to say other than the PC has been working great for me and I don've have any immediate plans for component upgrades. That said, the case itself wasn't in the greatest condition at purchase and I do eventually plan to move the system into a smaller ITX case. 
 
-<div style="align: center; text-align:center;">
-<img loading="lazy" class="border" src="/images/desk-Jan2021/desk_pcside.jpg">
-<div class="caption"><i>Side view of my very dirty PC with the side pandel removed  (<a target="_blank" href="/images/desk-Jan2021/big/desk_pcside.jpg">Large Photo</a>)</i></div>
-</div>
+<figure>
+<img loading="lazy" src="/images/desk-Jan2021/desk_pcside.jpg">
+<figcaption><i>Side view of my very dirty PC with the side pandel removed  (<a target="_blank" href="/images/desk-Jan2021/big/desk_pcside.jpg">Large Photo</a>)</i></figcaption>
+</figure>
 
 
 ## Conclusions and Future To-Do
