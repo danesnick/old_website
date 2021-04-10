@@ -8,13 +8,13 @@ I started noticing these pages on many personal websites, with a commonly linked
 
 ### What I'm doing now 
 
-*Last Updated: 2021-03-02*
+*Last Updated: 2021-03-10*
 
 #### Personal Development
 *  Using [YNAB](https://youneedabudget.com)-style budgeting for my financial planning via spreadsheet
 
 #### Hobbies
-* Running [Fedora 33](https://getfedora.org/) with [Gnome 3.38](https://www.gnome.org/) as my daily driver on my Thinkpad X390
+* Running [Fedora 34 Beta](https://getfedora.org/) with [Gnome 40](https://www.gnome.org/) as my daily driver on my Thinkpad X390
 * Learning HTML/CSS via this website
 * Blogging regularly on random topics
 * Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com)
