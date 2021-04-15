@@ -52,7 +52,7 @@ If you have PNG files too, there's a similar tool called [optipng](https://optip
 
 For my video files, I decided to use [ffmpeg](https://ffmpeg.org/) to optimize the files by converting them to [H.265]. I found a reference on [Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg) to convert an mp4 using H.265 using ffmpeg.
 
-Prior to running this, I ended up moving all my videos to their own folder using a `find` ([reference here](https://unix.stackexchange.com/questions/67503/move-all-files-with-a-certain-extension-from-multiple-subdirectories-into-one-di):
+Prior to running this, I ended up moving all my videos to their own folder using a `find` ([reference here](https://unix.stackexchange.com/questions/67503/move-all-files-with-a-certain-extension-from-multiple-subdirectories-into-one-di)):
 
 	find . -name \*.mp4 -exec mv "{}" /path/to/Videos \;
 
