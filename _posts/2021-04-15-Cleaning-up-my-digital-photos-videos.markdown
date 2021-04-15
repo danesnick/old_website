@@ -46,7 +46,7 @@ Since most of these photos were taken from smartphones and were usually JPEG fil
 
 	jpegoptim --max=90 --all-progressive *.jpg 
 
-If you have PNG files too, there's a similar tool called [optipng](https://optipng.sourceforge.net/). I ended up converting the few PNG files I had to JPEG using [imagemagick](https://imagemagick.org/index.php) instead. 
+If you have PNG files too, there's a similar tool called [optipng](https://optipng.sourceforge.net/). I ended up converting the few PNG files I had to JPEG using [imagemagick](https://imagemagick.org/index.php) instead. With `jpegoptim`, I was able to see about a 22% reduction in total file size of my photo collection. 
 
 ### MP4
 
