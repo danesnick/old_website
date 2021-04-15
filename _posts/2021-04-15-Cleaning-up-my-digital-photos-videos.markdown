@@ -8,7 +8,7 @@ tags: [technology, privacy, minimalism]
 ---
 Back in October 2020, I was using Google Photos for my digital photo & video management and sharing platform. I still believe Google Photos is probably the best photo management application out there, in terms of features, UX and pricing. However, the privacy implications of using the service are unfortunately hard to ignore.
 
-One criticism of the Google Photos app is how to delete old photos/videos. I think the application feels sluggish in the regard. Also, I felt like Google Photos was enabling my digitally hoarding a lot of photos/videos over the past decade or so due to their unlimited storage option (up until [recently](https://www.androidauthority.com/google-photos-free-storage-1176862/)). and felt like it was finally time to sort through and clean up my collection. This post will **outline** the general guidelines on how I did this and is not intended to be a guide. As a end result, I went from *approximately __50 gb to 9 gb__ of photos/videos* by going through this process.
+One criticism of the Google Photos app is how to delete old photos/videos. I think the application feels sluggish in the regard. Also, I felt like Google Photos was enabling my digitally hoarding a lot of photos/videos over the past decade or so due to their unlimited storage option (up until [recently](https://www.androidauthority.com/google-photos-free-storage-1176862/)). Because of this, I felt like it was finally time to sort through and clean up my collection. This post will **outline** the general guidelines on how I did this and is not intended to be a guide. As a end result, I went from *approximately __50 gb to 9 gb__ of photos/videos* by going through this process.
 
 ## Step 0: Google Takeout
 
