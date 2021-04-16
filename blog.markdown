@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-## Recent Blog Posts
+## Recent Posts
  {% assign posts = site.posts %}
 
   {%- if posts.size > 0 -%}
@@ -26,23 +26,6 @@ permalink: /blog/
       {%- endfor -%}
     </table>
   {%- endif -%}
-
-
-## Highlighted Posts
-<table>
-  <tr>
-   <td>2021-03-11</td>
-   <td><a href="/blog/2021/03/11/i-love-syncthing/">I Love Syncthing</a></td>
-  </tr>
-  <tr>
-   <td>2021-01-28</td>
-   <td><a href="/blog/2021/01/28/30plusdays-gentoo-experience/">My 30+ Days using Gentoo Linux: A Newbie's Perspective</a></td>
-  </tr>
-  <tr>
-   <td>2021-01-10</td>
-   <td><a href="/blog/2021/01/10/why-i-stopped-using-spotify/">Why I stopped using Spotify</a></td>
-  </tr>
-</table>
 
 
 ## Archived Posts
