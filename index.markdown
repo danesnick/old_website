@@ -21,7 +21,7 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 
 #### More About Me
 
-* [Resume](/resume)
+* [Resume](/resume.pdf)
 * [My Bands](/bands)
 
 ##### Where Else to Find Me
