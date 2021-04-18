@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-## Recent Posts
+# Recent Posts
  {% assign posts = site.posts %}
 
   {%- if posts.size > 0 -%}
@@ -28,4 +28,4 @@ permalink: /blog/
   {%- endif -%}
 
 
-## Archived Posts
+# Archived Posts
