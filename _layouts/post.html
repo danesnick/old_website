@@ -2,7 +2,7 @@
 layout: default
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
-    <h2>{{ page.title | escape }}</h2>
+    <h1>{{ page.title | escape }}</h1>
     <p>
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       Date: <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"> 
