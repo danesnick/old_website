@@ -4,7 +4,7 @@ title:  "Goodbye Theme Journal...and other random thoughts"
 date:   2021-03-04 22:48:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [drafts, yearly theme, mental health]
+tags: [drafts, yearly-theme, mental-health]
 ---
 
 I haven've blogged in a while and I decided I needed to just dump my thoughts about various things that has been occupying my time. Although I am not participating in [#100DaysToOffLoad](https://100daystooffload.com), this blog is very much in spirit of that style of writing.

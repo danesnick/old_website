@@ -4,7 +4,7 @@ title:  "Trying to take a week off from Mastodon"
 date:   2021-01-17 16:25:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [minimalism, yearly theme, blogging]
+tags: [minimalism, yearly-theme, blogging]
 ---
 
 I started noticing that I have been creating the same compulsive habits with [Fosstodon](https://fosstodon.org), the only [Mastodon](https://joinmastodon.org) instance that I have been actively involved with. Even though I enjoy the community, as it gives me a place to express my nerdy side that I don've experience with my real life friends, I find myself constantly opening the website or mobile apps, looking for some sort of response or gratification. These were the same problems I had with traditional social media such as Instagram, Facebook or Twitter.

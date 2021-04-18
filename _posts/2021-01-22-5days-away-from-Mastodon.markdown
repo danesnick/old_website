@@ -4,7 +4,7 @@ title:  "Thoughts from my nearly 5-day break from Mastodon"
 date:   2021-01-22 10:17:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [minimalism, yearly theme, blogging]
+tags: [minimalism, yearly-theme, blogging]
 ---
 
 About 5 days ago, I decided to [try to take a week off from Mastodon](/blog/2021/01/17/Mastodon-break.html). It's been nearly 5 days and I've decided I'm going to unblock it from my NextDNS account. There are a couple things I noticed in this short period of time. 

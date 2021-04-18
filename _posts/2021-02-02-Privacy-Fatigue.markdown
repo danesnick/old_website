@@ -4,7 +4,7 @@ title:  "Digital Privacy, Mental Fatigue and Burnout"
 categories: blog
 author: Nicholas Danes
 date: "2021-02-02 17:39:00 -0700"
-tags: [privacy, mental health, blogging]
+tags: [privacy, mental-health, blogging]
 ---
 Over the past year, I have made many positive strides in improving my digital privacy. This includes, but is not limited to:
 

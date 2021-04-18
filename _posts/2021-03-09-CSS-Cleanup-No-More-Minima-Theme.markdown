@@ -4,7 +4,7 @@ title:  "CSS Cleanup: No more Minima theme dependencies!"
 date:   2021-03-09 17:50:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [web design, drafts]
+tags: [web-design, drafts]
 ---
 
 Back in January, I did a [CSS clean up](/blog/2021/01/13/CleaningUpMyCSS.html) on my website and mentioned that I was still using the default Jekyll [Minima](https://github.com/jekyll/minima), but would have liked to remove my dependency on it. 
