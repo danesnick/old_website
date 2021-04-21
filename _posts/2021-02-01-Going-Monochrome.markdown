@@ -4,7 +4,7 @@ title:  "Web Theme Redesign: Going Monochrome"
 date:   2021-02-01 12:01:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [blogging, web design]
+tags: [blogging, web-design]
 ---
 *Edit (Feb 14 2020): I decided to make a small update to the website by incorporating colors using [Material Design](https://material.io/design/usability/accessibility.html) guidelines. If you have issues seeing anything on the site, please let me know by [contacting me](/#contact).*
 

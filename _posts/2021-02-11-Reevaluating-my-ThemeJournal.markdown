@@ -4,7 +4,7 @@ title:  "Re-evaluating my Theme Journal"
 date:   2021-02-11 16:21:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [minimalism, yearly theme]
+tags: [minimalism, yearly-theme]
 ---
 
 On January 1, I decided to try a [Yearly Theme](/blog/2021/01/01/2021-resolutions.html) over traditional New Yearsabout resolutions, with a [Theme Journal](/blog/2021/01/08/markdown_theme_journal) to track daily progress. After using this system for ~5 weeks, I decided to give an update on my feelings on the Yearly Theme and also how I'm going to change my approach to it. 

@@ -3,7 +3,7 @@ layout: post
 title:  "2021: My Year of Intention"
 date:   2021-01-01 12:15:00 -0700
 categories: blog
-tags: [minimalism, yearly theme]
+tags: [minimalism, yearly-theme]
 author: Nicholas Danes
 ---
 

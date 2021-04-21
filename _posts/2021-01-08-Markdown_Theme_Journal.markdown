@@ -4,7 +4,7 @@ title:  "My Markdown Theme Journal: Yearly Theme Follow-up"
 date:   2021-01-08 10:49:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [minimalism, yearly theme]
+tags: [minimalism, yearly-theme]
 ---
 
 On January 1, I decided to try a [Yearly Theme](/blog/2021/01/01/2021-resolutions.html) over traditional New Yearsabout resolutions. With this goal, it is also suggested to track your progress throughout the year using a [Theme Journal](https://www.thethemesystem.com/), which you can learn more about on the The Theme System website.

@@ -4,7 +4,7 @@ title:  "Ditching GoatCounter: Do I really need analytics?"
 date:   2021-02-12 08:53:00 -0700
 categories: blog
 author: Nicholas Danes
-tags: [minimalism, blogging, mental health]
+tags: [minimalism, blogging, mental-health]
 ---
 *Disclaimer: I have no relationship with GoatCounter other than using their service and briefly contributing to the developer on GitHub sponsors; opinions are my own!*
 
