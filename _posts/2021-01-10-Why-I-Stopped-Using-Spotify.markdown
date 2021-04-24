@@ -55,7 +55,7 @@ In terms of privacy, this might be a downgrade compared to Spotify. Google alrea
 
 ### Apple Music
 
-Apple Music is actually something I considered. Apple advertises them as a pro-privacy company where you pay to not be the product, and their privacy policy on Apple Music [seems to be a bit better](https://support.apple.com/en-us/HT204881), especially compared to [Spotify](https://www.spotify.com/us/privacy/). However, trading in one streaming service with *almost* all music for another defeats the purpose of my points above about Paradox of Choice and the opportunity cost. I would consider using their service sparingly if I knew Iaboutd be traveling for a period of time (i.e. paying for 1 month). So what do I do instead?
+Apple Music is actually something I considered. Apple advertises them as a pro-privacy company where you pay to not be the product, and their privacy policy on Apple Music [seems to be a bit better](https://support.apple.com/en-us/HT204881), especially compared to [Spotify](https://www.spotify.com/us/privacy/). However, trading in one streaming service with *almost* all music for another defeats the purpose of my points above about Paradox of Choice and the opportunity cost. I would consider using their service sparingly if I knew I'd be traveling for a period of time (i.e. paying for 1 month). So what do I do instead?
 
 ## How I (mostly) listen to music
 
