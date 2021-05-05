@@ -5,19 +5,25 @@
 /* Based on: https://john-doe.neocities.org/dist/style.css */
 * {
   /* Color scheme */
+  --textcolor: #000;
+  --bgcolor: #fff8e1;
+  --highlight: #558b2f;
 }
 
 @media (prefers-color-scheme: dark) {
-/* Ref: https://uglyduck.ca/lazy-dev-dark-mode/ */
-    body{background:#212121;filter:invert(1);}
-    img{filter:invert(1);}
+   * {
+     /* Color scheme */
+     --bgcolor: #1a2d0c;
+     --textcolor: #FFF;
+     --highlight: #ffe082;
+   }
 }
 
 /* ------- Body ------- */
 
 html {
   font-size: 16px;
-  font-family: sans-serif;
+  font-family: serif;
   line-height: 1.4;
   overflow-wrap: break-word;
 }
@@ -27,11 +33,14 @@ body {
   padding: 0;
   padding: 0 1em;
   max-width: 800px;
+  background: var(--bgcolor);
+  color: var(--textcolor);
 }
 
 header {
   padding-bottom: 0px;
   padding-top: 8px;
+  font-family: sans-serif;
 }
 
 header h2 {
@@ -40,9 +49,16 @@ header h2 {
   margin-top: 4px;
 }
 
+h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
+
+
 nav {
   word-spacing: 0.5rem;
 }
+
+a {
+  color: var(--highlight);
+  }
 
 figure {
   display: block;
