@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I switched [back] to iPhone from Android: Pros & Cons after 4 weeks"
-date:   2021-05-07 11:10:00 -0700
+date:   2021-05-07 10:10:00 -0700
 categories: blog
 author: Nicholas Danes
 tags: [technology, privacy, android]
@@ -56,7 +56,7 @@ iOS has historically been shown to have [longer software support](https://www.an
 
 #### Syncthing Support is Limited
 
-In a previous post, I gushed about how much [I Love Syncthing](/blog/2021/03/11/i-love-syncthing/). While I still love it, I unfortunately had to stop using it when I switched to iPhone. There is a third-party app called [https://mobiussync.com](Möbius Sync) which uses syncthing, but currently doesn't support photo syncing due to how the iOS filesystem works. Because of this, I am temporarily using Google Drive with [Cryptomator](https://cryptomator.org/) and Google Photos until I find a good alternative for photo backup and file sync.  
+In a previous post, I gushed about how much [I Love Syncthing](/blog/2021/03/11/i-love-syncthing/). While I still love it, I unfortunately had to stop using it when I switched to iPhone. There is a third-party app called [Möbius Sync](https://mobiussync.com) which uses Syncthing, but currently doesn't support photo syncing due to how the iOS filesystem works. Because of this, I am temporarily using Google Drive with [Cryptomator](https://cryptomator.org/) and Google Photos until I find a good alternative for photo backup and file sync.  
 
 #### No Headphone Jack or USB-C
 
