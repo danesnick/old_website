@@ -11,7 +11,8 @@ You've reached my little corner of the internet!
 ## About Me
 
 <figure>
- <img style="border-radius:100%;" src="/images/me_header.png" alt="Me!">
+ <img style="width=250px; border-radius:100%;" src="/images/me_header.png" alt="Me!">
+  <figcaption>Created by <a href="https://laurenbeecher.com">Lauren Beecher</a></figcaption>
 </figure>
 
 My name is Nicholas A. Danes and I'm a Computational Scientist, helping users with their High Performance Computing support needs at [Colorado School of Mines](https://ciarc.mines.edu). I was born and raised in the Central Valley, California, but now living in Denver, Colorado.
