@@ -8,7 +8,6 @@ layout: default
 </div>
 
 <div>
-	<h2 id="monthly">Sorted by year</h2>
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
@@ -16,7 +15,7 @@ layout: default
     {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
     {% if forloop.first %}
-    <h3 id="{{ this_year }}-ref">{{this_year}}</h3>
+    <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
     <table>
     {% endif %}
 	<tr>
@@ -34,9 +33,8 @@ layout: default
 {% endfor %}
 </table>
 
-<h2 id="tags">Sorted by tag</h2>
 <!-- Reference: https://simbly.me/2021/01/06/Tags-in-Archive/ -->
-<h3>Tags</h3>
+<h2>Tags</h2>
 <ul>
 {% for tag in site.tags %}
   {% assign t = tag | first %}
