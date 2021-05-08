@@ -8,7 +8,7 @@ I started noticing these pages on many personal websites, with a commonly linked
 
 ## What I'm doing now 
 
-*Last Updated: 2021-05-02*
+*Last Updated: 2021-05-08*
 
 ### Personal Development
 *  Using [YNAB](https://youneedabudget.com)-style budgeting for my financial planning via spreadsheet
@@ -17,7 +17,9 @@ I started noticing these pages on many personal websites, with a commonly linked
 * Learning HTML/CSS via this website
 * Blogging regularly on random topics
 * Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com)
-	+ Our band is in a [COVID bubble](https://www.cnbc.com/2020/06/27/what-is-a-covid-19-bubble-and-how-to-do-it-safely.html) in order to stay safe!
+	+ We are all fully COVID vaccinated now!
+* Playing drums and writing songs with my band [Faim](https://faim.bandcamp.com)
+	+ We are staying masked & socially distanced and almost all fully vaccinated!
 
 ## What I plan to do
 
@@ -26,6 +28,7 @@ I started noticing these pages on many personal websites, with a commonly linked
 	+ Runge-Kutta ODE Solver Example
 	+ Various Linear Algebra Solvers
 	+ 1D Boundary Value Problem with Dirichlet Conditions
+* Learn Python web app development through [Flask](https://flask.palletsprojects.com/en/1.1.x/) or [Django](https://www.djangoproject.com/)
 
 ## What I've recently done
 * Tried [YNAB](https://youneedabudget.com) for my financial planning, but thought it was too expensive
