@@ -51,6 +51,6 @@ This is just my personal website where I can express myself creatively and also 
 
 ### How I Created this Website
 
-This website was created using the [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)  (SSG) called [Jekyll](https://jekyllrb.com/) using a combination of the [Minima](https://github.com/jekyll/minima) theme and the [John Doe CSS](https://john-doe.neocities.org/) stylesheet. I highly recommend it for folks who would like to run a personal blog and also know some basics about HTML/CSS. For the color palette for the website, I tried to maintain a balance between aesthetics and [accessiblity](https://material.io/design/usability/accessibility.html).
+This website was created using the [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)  (SSG) called [Jekyll](https://jekyllrb.com/) using a combination of the [Minima](https://github.com/jekyll/minima) theme and the [John Doe CSS](https://john-doe.neocities.org/) stylesheet. I highly recommend it for folks who would like to run a personal blog and also know some basics about HTML/CSS. For the color palette for the website, the color scheme is based on the [Layan GTK theme](https://github.com/vinceliuice/Layan-gtk-theme).
 
 For editing the HTML, CSS and Markdown files, I primarily use [Vim](https://www.vim.org/) or [Neovim](https://neovim.io) with no plugins.

@@ -6,16 +6,16 @@
 * {
   /* Color scheme */
   --textcolor: #000;
-  --bgcolor: #fff8e1;
-  --highlight: #558b2f;
+  --bgcolor: #f4f4f9;
+  --highlight: #5657fb;
 }
 
 @media (prefers-color-scheme: dark) {
    * {
      /* Color scheme */
-     --bgcolor: #1a2d0c;
+     --bgcolor: #31313a;
      --textcolor: #FFF;
-     --highlight: #ffe082;
+     --highlight: #5657fb;
    }
 }
 
