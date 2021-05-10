@@ -10,8 +10,8 @@ You've reached my little corner of the internet!
 
 ## About Me
 
-<figure>
- <img style="width=250px; border-radius:100%;" src="/images/me_header.png" alt="Me!">
+<figure style="width:300px">
+ <img style="width:50%; border-radius:100%;" src="/images/me_header.png" alt="Me!">
   <figcaption>Created by <a href="https://laurenbeecher.com">Lauren Beecher</a></figcaption>
 </figure>
 
