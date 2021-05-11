@@ -23,7 +23,7 @@
 
 html {
   font-size: 16px;
-  font-family: serif;
+  font-family: system-ui, sans-serif;
   line-height: 1.4;
   overflow-wrap: break-word;
 }
@@ -40,7 +40,6 @@ body {
 header {
   padding-bottom: 0px;
   padding-top: 8px;
-  font-family: sans-serif;
 }
 
 header h2 {
@@ -48,9 +47,6 @@ header h2 {
   margin-bottom: 4px;
   margin-top: 4px;
 }
-
-h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
-
 
 nav {
   word-spacing: 0.5rem;
