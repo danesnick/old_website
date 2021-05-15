@@ -7,6 +7,7 @@
   /* Color scheme */
   --textcolor: #000;
   --bgcolor: #f4f4f9;
+  --bgcolor2: #e6e6ea;
   --highlight: #5657fb;
 }
 
@@ -14,8 +15,9 @@
    * {
      /* Color scheme */
      --bgcolor: #31313a;
+     --bgcolor2: #4f5056;
      --textcolor: #FFF;
-     --highlight: #5657fb;
+     --highlight: #879df9;
    }
 }
 
@@ -30,26 +32,30 @@ html {
 
 body {
   margin: 0 auto !important;
-  padding: 0;
   padding: 0 1em;
   max-width: 800px;
   background: var(--bgcolor);
   color: var(--textcolor);
 }
 
-header {
-  padding-bottom: 0px;
-  padding-top: 8px;
+div {
+  padding: 0 10px;
 }
 
-header h2 {
-  font-weight: 900;
-  margin-bottom: 4px;
-  margin-top: 4px;
+header {
+  padding: 10px 6px;
+  margin-bottom: 0px;
+  margin-top: 15px;
+  border-radius: 16px;
+  background: var(--bgcolor2);
 }
 
 nav {
+  float: right;
   word-spacing: 0.5rem;
+  a {
+      text-decoration: none;
+  }
 }
 
 a {
@@ -108,9 +114,24 @@ th, td {
 }
 
 footer {
-	font-size: 0.8em;
-	padding-top: 0px;
-	margin-top: 20px;
-	text-align: center;
-        border-top: 2px dotted;
+  font-size: 0.9em;
+  background: var(--bgcolor2);
+  padding: 10px 0px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  text-align: center;
+  border-radius: 16px;
+  word-spacing: 1.0rem;
+  a {
+      text-decoration: none;
+  }
 }
+
+
+.title {
+   display: inline-block;
+   a {
+      text-decoration: none;
+   }
+}
+

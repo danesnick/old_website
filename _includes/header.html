@@ -1,8 +1,10 @@
 <header>
 <div>
-    <h2>
-	      Nicholas A. Danes
-    </h2>
+	     {% if page.title == "Home" %}
+	      <b><span class="title"><a href="{{ site.base_url }}/">Nicholas A. Danes</a></span></b>
+              {% else %}   
+	      <span class="title"><a href="{{ site.base_url }}/">Nicholas A. Danes</span></a>
+              {%- endif -%} 
     	    {% include nav.html %}
 </div>
 </header>
