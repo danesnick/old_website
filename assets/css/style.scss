@@ -5,19 +5,19 @@
 /* Based on: https://john-doe.neocities.org/dist/style.css */
 * {
   /* Color scheme */
-  --textcolor: #000;
-  --bgcolor: #f4f4f9;
-  --bgcolor2: #e6e6ea;
-  --highlight: #5657fb;
+  --textcolor: #524c41;
+  --bgcolor: #e2e0db;
+  --bgcolor2: #bab2aa;
+  --highlight: #ba6147;
 }
 
 @media (prefers-color-scheme: dark) {
    * {
      /* Color scheme */
-     --bgcolor: #31313a;
-     --bgcolor2: #4f5056;
-     --textcolor: #FFF;
-     --highlight: #879df9;
+     --bgcolor: #37342e;
+     --bgcolor2: #44413d;
+     --textcolor: #e2e0d8;
+     --highlight: #ba6147;
    }
 }
 

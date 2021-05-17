@@ -50,7 +50,7 @@ This is just my personal website where I can express myself creatively and also 
 
 ### How I Created this Website
 
-This website was created using the [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)  (SSG) called [Jekyll](https://jekyllrb.com/) using a combination of the [Minima](https://github.com/jekyll/minima) theme and the [John Doe CSS](https://john-doe.neocities.org/) stylesheet. I highly recommend it for folks who would like to run a personal blog and also know some basics about HTML/CSS. For the color palette for the website, the color scheme is based on the [Layan GTK theme](https://github.com/vinceliuice/Layan-gtk-theme).
+This website was created using the [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)  (SSG) called [Jekyll](https://jekyllrb.com/) using a combination of the [Minima](https://github.com/jekyll/minima) theme and the [John Doe CSS](https://john-doe.neocities.org/) stylesheet. I highly recommend it for folks who would like to run a personal blog and also know some basics about HTML/CSS. For the color palette for the website, the color scheme is inspired by the [Desert "Red" GTK theme](https://www.gnome-look.org/s/Gnome/p/1449286/).
 
 This site is best presented with my intention using the [Fira Sans](https://github.com/bBoxType/FiraSans) and [Mono](https://github.com/bBoxType/FiraSans) fonts. I decided to not self-host these to make the website load more quickly!
 
