@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conflating Privacy & Anonymity: A Layperson's Perspective"
-date:   2021-05-07 10:10:00 -0700
+date:   2021-05-18 10:04:00 -0700
 categories: blog
 author: Nicholas Danes
 tags: [technology, privacy, drafts]
