@@ -27,7 +27,7 @@ To me, privacy is the ability to be able do something without others knowing **w
 
 ### Signal
 
-The most common one I see is when criticizing [Signal](https://signal.org/), the private end-to-end encrypted messaging app, for using phone numbers for registration. Although I currently do not use the service (maybe I'll discuss why in the future), I do think it's one of the best privacy-focused messaging platforms, in terms of ease of use and wide availablity.
+The most common one I see is when criticizing [Signal](https://signal.org/), the private end-to-end encrypted messaging app, for using phone numbers for registration. Although I have many criticisms of Signal, I do think it's one of the best privacy-focused messaging platforms, in terms of ease of use and wide availablity.
 
 The claim is that using phone numbers reduces its ability to be private. Using my definitions of privacy and anonymity above, using your phone number means you cannot hide **who** you are while registering the Signal service; thus the service is *not* anonymous. However, when you are speaking to folks on the service, which has been [shown to have no data to give away](https://signal.org/bigbrother/eastern-virginia-grand-jury/), it is extremely difficult to show **what** you're doing on the service, i.e. who you are talking to and what you're talking about. 
 
