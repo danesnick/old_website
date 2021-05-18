@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conflating Privacy & Anonymity: A Layperson's Perspective"
-date:   2021-05-18 10:04:00 -0700
+date:   2021-05-18 09:00:00 -0700
 categories: blog
 author: Nicholas Danes
 tags: [technology, privacy, drafts]
@@ -19,7 +19,8 @@ I believe I saw this analogy somewhere on Reddit, so I don't claim to take credi
 
 * Privacy: The bathroom stall is closed, and someone may have seen you go into the stall, but no one can see what you're doing in the stall. 
 * Anonymity: There is no bathroom stall walls, but you're wearing an outfit the completely hides your identity.
-* Privacy & Anonymity: You enter the bathroom stall with your identity revealed. 
+* Privacy & Anonymity: You enter the bathroom stall with your identity revealed.   
+
 To me, privacy is the ability to be able do something without others knowing **what** you're doing, while anonymity is the ability is to do something without knowing **who** did it. Thus, privacy and anonymity is the ability to *do* something without others knowing **what** you're doing *and* **who** is doing it. 
 
 ## Some examples
