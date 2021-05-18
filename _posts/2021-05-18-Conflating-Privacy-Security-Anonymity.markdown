@@ -19,7 +19,7 @@ I believe I saw this analogy somewhere on Reddit, so I don't claim to take credi
 
 * Privacy: The bathroom stall is closed, and someone may have seen you go into the stall, but no one can see what you're doing in the stall. 
 * Anonymity: There is no bathroom stall walls, but you're wearing an outfit the completely hides your identity.
-* Privacy & Anonymity: You enter the bathroom stall with your identity revealed.   
+* Privacy & Anonymity: You enter the bathroom stall *without* your identity revealed.   
 
 To me, privacy is the ability to be able do something without others knowing **what** you're doing, while anonymity is the ability is to do something without knowing **who** did it. Thus, privacy and anonymity is the ability to *do* something without others knowing **what** you're doing *and* **who** is doing it. 
 
@@ -39,5 +39,5 @@ On the other extreme, I wanted to give an example of someone being anonymous, bu
 
 ## Conclusions
 
-Not much to conclude here other than saying, I think we need to be clear on our definitions when talking about privacy and anonymity. Security often gets conflated here too, but I think it has a more intertwined role with privacy in many aspects, which I don't want to try to explain here. Let me know if I missed something, as these are just my opinions!
+Not much to conclude here other than saying, I think we need to be clear on our definitions when talking about privacy and anonymity. Security often gets conflated here too, but I think it has a more intertwined role with privacy in many aspects, which I don't want to try to explain here. I think in some situations, you do need both, but that largely depends on various factors depending on your situation, the software being used, etc. Let me know if I missed something, as these are just my opinions!
 
