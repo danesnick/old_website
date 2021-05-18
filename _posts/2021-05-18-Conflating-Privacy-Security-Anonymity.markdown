@@ -34,7 +34,7 @@ The claim is that using phone numbers reduces its ability to be private. Using m
 
 ### Mastodon
 
-On the other extreme, I wanted to give an example of someone being anonymous, but not necessarily private. On many Mastodon instances, it is fairly easy to make an account without revealing much personal information at all; it only requires registering with an email account, which there are ways to register an email anonymously. Hence, you use an alias and a throwaway email to join anonymously. However, there are many folks who use an alias on Mastodon, but make all their posts publically available across the Fediverse. In this instance, people know **what** you are doing, but do not know **who** you are.
+On the other extreme, I wanted to give an example of someone being anonymous, but not necessarily private. On many Mastodon instances, it is fairly easy to make an account without revealing much personal information at all; it only requires registering with an email account, which there are ways to register an email anonymously. Hence, you use an alias and a throwaway email to join anonymously. However, there are many folks who use an alias on Mastodon, but make all their posts publically available across the Fediverse. In this instance, people know **what** you are doing, but do not know **who** you are. Thus, using Mastodon this way is anonymous, but not private.
 
 
 ## Conclusions
