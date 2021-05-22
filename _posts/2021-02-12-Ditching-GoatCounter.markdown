@@ -39,7 +39,7 @@ In addition to this, unfortunately, load times for my website were fairly poor d
 
 ## Analytics became another point of anxiety
 
-Recently, Matt DaboutAvella, a "minimalism" YouTuber, made a [video](https://www.youtube.com/watch?v=NKYFNJMjtEM) on re-evaulating his relationship with "views"/analytics on YouTube Studio, the analytics dashboard for content creators on YouTube. In summary, Matt suggests that looking at these numbers can be a burden on your mental health; with analytics for me, I found this to become true. I found myself checking GoatCounter way too often, even knowing that nothing has changed. This became even more apparent when I switched to the no-JS option, where really the only data point was a new pageview. After seeing this video, I realized I was having a similar relationship with my analytics on GoatCounter. Hence, I decided to remove analytics entirely.
+Recently, Matt D'Avella, a "minimalism" YouTuber, made a [video](https://www.youtube.com/watch?v=NKYFNJMjtEM) on re-evaulating his relationship with "views"/analytics on YouTube Studio, the analytics dashboard for content creators on YouTube. In summary, Matt suggests that looking at these numbers can be a burden on your mental health; with analytics for me, I found this to become true. I found myself checking GoatCounter way too often, even knowing that nothing has changed. This became even more apparent when I switched to the no-JS option, where really the only data point was a new pageview. After seeing this video, I realized I was having a similar relationship with my analytics on GoatCounter. Hence, I decided to remove analytics entirely.
 
 ## Remembering why I decided to blog
 
