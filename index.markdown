@@ -31,7 +31,8 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 * <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon</a>
 
 #### Contact
-* Email/XMPP: hello at ndanes dot com
+* Email: hello at ndanes dot com
+* XMPP: [ndanes@chat.1998.social](xmpp:ndanes@chat.1998.social)
 * OpenPGP: [949A32109C6A4E874ED0FCF11EC1E746B6204533](/public_key.txt)
 
 ### About this Site
