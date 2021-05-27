@@ -3,7 +3,7 @@ layout: page
 title: Legal
 permalink: /legal/
 ---
-*Updated: 2021-03-11*
+*Updated: 2021-05-26*
 
 ## Content License
 
