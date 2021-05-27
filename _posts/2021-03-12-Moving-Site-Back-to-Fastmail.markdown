@@ -6,6 +6,7 @@ categories: blog
 author: Nicholas Danes
 tags: [blogging, meta]
 ---
+EDIT (2021-05-26): I ended up moving back to Netlify again. It's currently on GitHub, but I would like to transition to something else for the future. Managing app passwords for ftp was becoming a pain.
 
 Back in January, I decided to [rehost this website](https://ndanes.com/blog/2021/01/23/moving-site-to-netlify/) with [Netlify](https://netlify.com). Although this has made things incredibly convenient, I sort of didn've love the fact I was relying on GitHub to maintain my website. Ultimately, I decided to move back to the static hosting option using my email provider, [Fastmail](https://fastmail.com).
 
