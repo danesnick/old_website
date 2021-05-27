@@ -19,10 +19,6 @@ All content written by me on this site is licensed under [CC BY 4.0](https://cre
 
 ## Privacy
 
-This websited is hosted by Fastmail. You can read about their privacy policy [here](https://www.fastmail.com/about/privacy/). However, by default, Fastmail collects the last two weeks of access logs of the that are accessible to me in the following form:
-
-| Timestamp       | HostName     | Page | Referer    | UserAgent |
-| :------------- | :---------- | :----------- | :----------- | :----------- |
-|  Wed, 01 Jan 12:00 PM (X minutes, XX seconds ago)  | ndanes.com   | /  | https://ndanes.com | Mozilla/5.0, etc |
+This websited is hosted by Netlify. You can read about their privacy policy [here](https://www.netlify.com/privacy/).
 
 On my [bands](/bands) page, I link to music from BandCamp, which you can read their privacy policy [here](https://bandcamp.com/privacy). 
