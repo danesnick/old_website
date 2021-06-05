@@ -3,22 +3,13 @@
 ---
 @charset "UTF-8";
 /* Based on: https://john-doe.neocities.org/dist/style.css */
-* {
-  /* Color scheme */
-  --textcolor: #524c41;
-  --bgcolor: #e2e0db;
-  --bgcolor2: #bab2aa;
-  --highlight: #ba6147;
-}
 
+
+
+/* Reference: https://uglyduck.ca/lazy-dev-dark-mode/ */
 @media (prefers-color-scheme: dark) {
-   * {
-     /* Color scheme */
-     --bgcolor: #37342e;
-     --bgcolor2: #44413d;
-     --textcolor: #e2e0d8;
-     --highlight: #ba6147;
-   }
+    body{background:#161618;filter:invert(1);}
+    img{filter:invert(1);}
 }
 
 /* ------- Body ------- */
@@ -34,8 +25,6 @@ body {
   margin: 0 auto !important;
   padding: 0 1em;
   max-width: 800px;
-  background: var(--bgcolor);
-  color: var(--textcolor);
 }
 
 div {
@@ -47,7 +36,6 @@ header {
   margin-bottom: 0px;
   margin-top: 15px;
   border-radius: 16px;
-  background: var(--bgcolor2);
 }
 
 nav {
@@ -59,7 +47,6 @@ nav {
 }
 
 a {
-  color: var(--highlight);
   }
 
 figure {
@@ -115,7 +102,6 @@ th, td {
 
 footer {
   font-size: 0.9em;
-  background: var(--bgcolor2);
   padding: 10px 0px;
   margin-top: 20px;
   margin-bottom: 15px;
