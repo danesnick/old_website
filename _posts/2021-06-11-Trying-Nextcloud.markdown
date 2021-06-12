@@ -68,7 +68,7 @@ So far, I'm pretty happy with using Nextcloud so far. Setting it up was fairly l
 ### What's missing?
 There are a few things that I still need to replace from Google:
 
-* Sheets - The mobile app experience is hard to beat, which is my primary use case for it for tracking my budget on the go. I may try to use Nextcloud's integration with [https://nextcloud.com/collaboraonline/](Collabora Office) or [ONLY OFFICE](https://www.onlyoffice.com/en/office-for-nextcloud.aspx) as a potential solution. 
+* Sheets - The mobile app experience is hard to beat, which is my primary use case for it for tracking my budget on the go. I may try to use Nextcloud's integration with [Collabora Office](https://nextcloud.com/collaboraonline) or [ONLY OFFICE](https://www.onlyoffice.com/en/office-for-nextcloud.aspx) as a potential solution. 
 * Maps - [OpenStreetMaps](https://www.openstreetmap.org/) is a common recommendation, but I still find the experience extremely lacking. I may just reinstall it on my phone and try to be better about contributing to the project
 * Photos - Although Nextcloud photos gives me the ability to get my photos off my phone and onto a hard drive easily, there are no editing tools, no machine-learning based face/object recognition and the gallery application is a bit lacking. There are many self-hosted alternatives outthere, but all of them seem to be missing a feature or two that Google Photos provides. The best potential candidate I've found so far is [Photo Prism](https://photoprism.app/) which I'll be closely watching.  
 
