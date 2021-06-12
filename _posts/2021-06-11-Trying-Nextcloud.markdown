@@ -25,7 +25,6 @@ Despite all this, I decided it was time to take some action on some of these ser
 Of all the Google services listed above that I still use, my primary focus was moving away from Photos, since it is a lot of personal data and trust to be put under one provider.
 
 ## Self-Hosting Background
-
 I've only dabbled with self-hosting, all of which occured on the Mac Mini mentioned above. In particular, I was able to spin up and set up [Jellyfin](https://jellyfin.org/) behind a [Nginx](https://nginx.org/en/) reverse proxy to access it remotely for the first time for a few months back, but at the time I didn't find a use for it. Because of this experience, I felt a bit more confident in setting things up.
 
 ## Going with Nextcloud
@@ -33,7 +32,6 @@ I've only dabbled with self-hosting, all of which occured on the Mac Mini mentio
 I've previously [spoke negatively](/blog/2021/03/11/i-love-syncthing/) about NextCloud, given that it has so many features and managing it locally seemed difficult. Furthermore, I tried [Cloudamo](https://cloudamo.com/), a Nextcloud provider, and found the user experience through the web UI incredibly slow. Despite all this, I heard good things about the Ubuntu [snap package](https://github.com/nextcloud/nextcloud-snap) of Nextcloud, so I decided to give it a try. By going with Nextcloud, I would be able to drop two Google services at once: Drive and Photos. 
 
 ## Overview of How I Self-Hosted Nextcloud
-
 This isn't meant to be a guide for self-hosting Nextcloud, but I thought I'd give an overview of the steps I did to get it up and running:
 
 * Setup Ubuntu 20.04 Server Virtual Machine using Virtual Box with 2 cores, 32 GB storage and 2 GB RAM
@@ -50,7 +48,7 @@ This isn't meant to be a guide for self-hosting Nextcloud, but I thought I'd giv
 
 ## Impressions so Far
 
-I will breakdown my intial impressions so far in different categories: performance/stability and features.
+I will breakdown my initial impressions so far in different categories: performance/stability and features.
 ### Performance/Stability
 
 Performance on my self-hosted VM is noticeably better than Cloudamo's free option. The web UI is noticeable smooth and changing pages loads quickly. The iOS app also navigates smoothly, especially in the photo gallery. So far, it's been an incredibly good user experience. I should note that I initially had the VM installed on a [WD easystire 8TB external drive](https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302) and obviously saw a noticeable improvement when I moved the VM image to the internal SSD. The bulk of files are still on the external drive and still  
@@ -63,7 +61,7 @@ I mainly needed Nextcloud to replace two main requirements: file and photo sync.
 
 ## Conclusions
 
-So far, I'm pretty happy with using Nextcloud so far. Setting it up was fairly low maintenance, and I'm hoping that by using the snap package that updates will also be seamless. I will try to give an update in a few months to see if I end up sticking with it. If I do stick with it, I will finally delete my files off Google Drive and Photos.
+So far, I'm pretty happy with using Nextcloud. Setting it up was fairly low maintenance, and I'm hoping that by using the snap package that updates will also be seamless. I will try to give an update in a few months to see if I end up sticking with it. If I do stick with it, I will finally delete my files off Google Drive and Photos.
 
 ### What's missing?
 There are a few things that I still need to replace from Google:
