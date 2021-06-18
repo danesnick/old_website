@@ -53,6 +53,4 @@ This is just my personal website where I can express myself creatively and also 
 
 This website was created using the [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)  (SSG) called [Jekyll](https://jekyllrb.com/) using a combination of the [Minima](https://github.com/jekyll/minima) theme and the [John Doe CSS](https://john-doe.neocities.org/) stylesheet. I highly recommend it for folks who would like to run a personal blog and also know some basics about HTML/CSS. 
 
-This site is best presented with my intention using the [Fira Sans](https://github.com/bBoxType/FiraSans) and [Mono](https://github.com/bBoxType/FiraSans) fonts. I decided to not self-host these to make the website load more quickly!
-
 For editing the HTML, CSS and Markdown files, I primarily use [Vim](https://www.vim.org/) or [Neovim](https://neovim.io) with no plugins.
