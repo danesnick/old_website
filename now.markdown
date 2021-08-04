@@ -8,18 +8,19 @@ I started noticing these pages on many personal websites, with a commonly linked
 
 ## What I'm doing now 
 
-*Last Updated: 2021-05-08*
+*Last Updated: 2021-08-04*
 
 ### Personal Development
 *  Using [YNAB](https://youneedabudget.com)-style budgeting for my financial planning via spreadsheet
 
 ### Hobbies
 * Learning HTML/CSS via this website
-* Blogging regularly on random topics
+* Blogging ~~regularly~~ sporadically on random topics
 * Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com)
 	+ We are all fully COVID vaccinated now!
-* Playing drums and writing songs with my band [Faim](https://faim.bandcamp.com)
-	+ We are staying masked & socially distanced and almost all fully vaccinated!
+* Playing drums and writing an EP with my band [Faim](https://faim.bandcamp.com)
+	+ We are all fully COVID vaccinated now!
+* Loosely getting into [custom mechanical keyboard hobby](https://www.youtube.com/watch?v=xzWm40Tq4F4) without destroying my wallet
 
 ## What I plan to do
 
@@ -32,9 +33,7 @@ I started noticing these pages on many personal websites, with a commonly linked
 
 ## What I've recently done
 * Tried [YNAB](https://youneedabudget.com) for my financial planning, but thought it was too expensive
-* Bought an office chair
-	+ Picked up a used [Ikea Markus](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/) and really enjoying it so far!
-* Sold my gaming desktop for a Thinkpad X390 ([blog post here](/blog/2021/02/06/desktop-to-laptop))
+* ~~Sold my gaming desktop for a Thinkpad X390 ([blog post here](/blog/2021/02/06/desktop-to-laptop))~~ Also sold this thinkpad (blog post on computer setup eventually)
 * Used and Learned [Gentoo Linux](https://gentoo.org) on my desktop PC as my daily driver, but I borked my system and didn't feel like fixing it.
 * Shopped for a Wifi-6 Router and decided on just getting a Linksys Velop Mesh Wifi-5 Router due to a good used deal I found online!
 * Cleaned up my [home desk setup](/blog/2021/01/03/mydesksetup-jan2021/)
