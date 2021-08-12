@@ -8,12 +8,13 @@ I started noticing these pages on many personal websites, with a commonly linked
 
 ## What I'm doing now 
 
-*Last Updated: 2021-08-04*
+*Last Updated: 2021-08-12*
 
 ### Personal Development
 *  Using [YNAB](https://youneedabudget.com)-style budgeting for my financial planning via spreadsheet
 
 ### Hobbies
+* Learning about custom mechanical keyboards
 * Learning HTML/CSS via this website
 * Blogging ~~regularly~~ sporadically on random topics
 * Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com)
