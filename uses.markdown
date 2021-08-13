@@ -52,7 +52,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Signal
 	+ iMessage
 	+ Discord
-	+ XMPP (Dino on desktop, Snikkett IM on iOS)
+	+ XMPP (Dino/Gajim on desktop, Snikkett IM on iOS)
 * **Filesync:** 
 	+ Nextcloud 
 	+ Dropbox
@@ -61,7 +61,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Apple Music (iOS, local library)
 * **Recording:**
 	+ Bandlab
-	+ Audacity (planning to switch to [Tenacity](https://tenacityaudio.org/)
+	+ Audacity (planning to switch to [Tenacity](https://tenacityaudio.org/))
 * **Gaming:** Steam
 * **Services:**
 	+ Fastmail (Email, Contacts, Calendar, Notes)
