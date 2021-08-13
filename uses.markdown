@@ -36,7 +36,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
 	+ **Headphones:** Takstar Pro 82
 	+ **IEMs:** Shure SE215
-	+ **Interface:** Scarlett Focusrite 3rd Gen
+	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
 	+ **Microphone:** Shure SM57 
 	+ **Wireless Earbuds:** AirPods 1st Gen
 
