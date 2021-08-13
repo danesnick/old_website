@@ -9,6 +9,11 @@
               {% else %}   
 		 <a href="{{ site.base_url }}/now">Now</a>
 	      {%- endif -%}
+   	      {% if page.title == "Uses" %}
+		 <b><a href="{{ site.base_url }}/uses">{{ page.title}}</a></b>
+              {% else %}   
+		 <a href="{{ site.base_url }}/uses">Uses</a>
+	      {%- endif -%}
 
 </nav>
 
