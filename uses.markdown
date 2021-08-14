@@ -54,7 +54,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Signal
 	+ iMessage
 	+ Discord
-	+ XMPP (Dino/Gajim on desktop, Snikkett IM on iOS)
+	+ XMPP (Dino/Gajim on desktop, Snikket IM on iOS)
 * **Filesync:** 
 	+ Nextcloud 
 	+ Dropbox
