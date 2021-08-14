@@ -21,13 +21,10 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 		+ 1 TB TeamGroup EX2 SATA SSD (elementary OS 6 Odin)
 * **Keyboard(s):**
 	+ Durgod Fusion 65% Wireless Mechanical Keyboard with Cherry MX Black switches (lubed with SuperLube 51104)
-	+ Durgod K320 TKL Mechnical Keyboard (currently being rebuilt) 
-	+ *Custom Build:*
-		+ PCB: KBDFans DZ60RGBv2 ANSI Hotswap
-		+ Case: 60% Low Profile Aluminum Case
-		+ Switches: Gateron Milky Yellow Switches (lubed with SuperLube 51104)
-		+ Stabilizers: Everglide Screw-in
-		+ Keycaps: YMDK Doubleshot PBT Keycaps, Cherry Profile
+	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
+		+ Akko CS Linear Matcha Green Switches (50g actuation)	
+		+ Durock Plate Mont Stabilizers "Piano" colored with gold wire (50g actuation)	
+		+ YMDK Doubleshot PBT Keycaps, Cherry Profile)	
 * **Mice:**
 	+ Logitech G305 Wireless
 	+ Logitech MX Anywhere 3 Mac 
