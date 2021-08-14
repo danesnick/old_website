@@ -58,6 +58,9 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Filesync:** 
 	+ Nextcloud 
 	+ Dropbox
+* **Backup:**
+	+ Duplicati
+	+ Deja Dup
 * **Music (Platform):**
 	+ Elementary OS Music (Desktop)
 	+ Apple Music (iOS, local library)
@@ -66,7 +69,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Audacity (planning to switch to [Tenacity](https://tenacityaudio.org/))
 * **Gaming:** Steam
 * **Services:**
-	+ Fastmail (Email, Contacts, Calendar, Notes)
+	+ Fastmail (Email, Contacts, Calendar)
 	+ Namecheap (Domain)
 	+ Netlify (Web Hosting)
 	+ Cloudamo (Nextcloud)
+	+ Backblaze (Remote Backup)
