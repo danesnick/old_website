@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-08-13*
+*Last Updated: 2021-08-14*
 
 ### Hardware
 
@@ -48,6 +48,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 #### Software and Services
 
 * **Browser:** Mozilla Firefox
+* **Notes:** Joplin Notes
+* **Spreadsheets:** Google Sheets (Looking for an alternative for mobile)
 * **Chat:**
 	+ Signal
 	+ iMessage
@@ -60,7 +62,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Elementary OS Music (Desktop)
 	+ Apple Music (iOS, local library)
 * **Recording:**
-	+ Bandlab
+	+ Ardour Digital Audio Workstation
 	+ Audacity (planning to switch to [Tenacity](https://tenacityaudio.org/))
 * **Gaming:** Steam
 * **Services:**
