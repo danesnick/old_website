@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-08-14*
+*Last Updated: 2021-08-15*
 
 ### Hardware
 
@@ -23,8 +23,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Durgod Fusion 65% Wireless Mechanical Keyboard with Cherry MX Black switches (lubed with SuperLube 51104)
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
 		+ Akko CS Linear Matcha Green Switches (50g actuation)	
-		+ Durock Plate Mont Stabilizers "Piano" colored with gold wire (50g actuation)	
-		+ YMDK Doubleshot PBT Keycaps, Cherry Profile)	
+		+ Durock Plate Mont Stabilizers "Piano" colored with gold wire 
+		+ Stock Doubleshot PBT Keycaps, OEM Profile
 * **Mice:**
 	+ Logitech G305 Wireless
 	+ Logitech MX Anywhere 3 Mac 
@@ -62,7 +62,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Elementary OS Music (Desktop)
 	+ Apple Music (iOS, local library)
 * **Recording:**
-	+ Ardour Digital Audio Workstation
+	+ Ardour DAW
 	+ Audacity (planning to switch to [Tenacity](https://tenacityaudio.org/))
 * **Gaming:** Steam
 * **Services:**
