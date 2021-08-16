@@ -29,6 +29,5 @@ However, the one thing missing in all of this was gaming support, which MacOS ha
 
 ## Conclusions
 
-I am still using the Thinkcentre as my main computing device, while rocking an iPhone. I'm hoping this is where I can settle at least for the time being, because I am quite burnt out on figuring out what operating system to use on a daily basis. It's really nice to be able to use Linux again and in an ideal world I would be able to access everything I need on a Linux-based OS. I know that's not practical, but I am okay with the tradeoffs, at least for now. Moving forward, I think the only thing I'm possibly purchasing in the future is some kind of laptop, probably anothe
-r Thinkpad, albeit a less powerful one since I don't need it to be. Thanks for suffering through my indecisiveness!  
+I am still using the Thinkcentre as my main computing device, while rocking an iPhone. I'm hoping this is where I can settle at least for the time being, because I am quite burnt out on figuring out what operating system to use on a daily basis. It's really nice to be able to use Linux again and in an ideal world I would be able to access everything I need on a Linux-based OS. I know that's not practical, but I am okay with the tradeoffs, at least for now. Moving forward, I think the only thing I'm possibly purchasing in the future is some kind of laptop, probably another Thinkpad, albeit a less powerful one since I don't need it to be my main device. Thanks for suffering through my indecisiveness!  
 
