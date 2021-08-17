@@ -23,7 +23,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Durgod Fusion 65% Wireless Mechanical Keyboard with Cherry MX Black switches (lubed with SuperLube 51104)
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
 		+ Akko CS Linear Matcha Green Switches (50g actuation)	
-		+ Durock Plate Mont Stabilizers "Piano" colored with gold wire 
+		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire 
 		+ Mistel Black on White Doubleshot PBT Keycaps, OEM Profile
 * **Mice:**
 	+ Logitech G305 Wireless
