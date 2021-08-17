@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-08-15*
+*Last Updated: 2021-08-17*
 
 ### Hardware
 
@@ -24,7 +24,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
 		+ Akko CS Linear Matcha Green Switches (50g actuation)	
 		+ Durock Plate Mont Stabilizers "Piano" colored with gold wire 
-		+ Stock Doubleshot PBT Keycaps, OEM Profile
+		+ Mistel Black on White Doubleshot PBT Keycaps, OEM Profile
 * **Mice:**
 	+ Logitech G305 Wireless
 	+ Logitech MX Anywhere 3 Mac 
