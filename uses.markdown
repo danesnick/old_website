@@ -11,6 +11,13 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 ### Hardware
 
+
+<figure style="width:300px">
+ <img style="width:50%; border-radius:100%;" src="/images/uses_setup.jpg" alt="My battlestation!">
+  <figcaption>My battlestation!</figcaption>
+</figure>
+
+
 #### Primary Devices
 * **Computer:** Lenovo Thinkcentre M75q-1 Mini PC 
 	+ CPU: Ryzen 5 3400GE (4 cores, 8 threads)
@@ -27,7 +34,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 		+ Mistel Black on White Doubleshot PBT Keycaps, OEM Profile
 * **Mice:**
 	+ Logitech G305 Wireless
-	+ Logitech MX Anywhere 3 Mac 
+	+ Logitech M575 Ergo Mouse
 * **Monitor:** Lenovo Thinkvision P24q-20 23.8" QHD 75 Hz
 * **Audio:**
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
