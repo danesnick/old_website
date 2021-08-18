@@ -11,9 +11,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 ### Hardware
 
-
 <figure style="width:300px">
- <img style="width:50%; border-radius:100%;" src="/images/uses_setup.jpg" alt="My battlestation!">
+ <a href="/images/uses_setup.jpg" target="_blank"><img style="width:50%; border-radius:100%;" src="/images/uses_setup_small.jpg" alt="My battlestation!"></a>
   <figcaption>My battlestation!</figcaption>
 </figure>
 
