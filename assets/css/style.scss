@@ -12,32 +12,19 @@
     img{filter:invert(1);}
 }
 
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter-VariableFont_slnt,wght.ttf");
+}
+
+
 /* ------- Body ------- */
 
 html {
   font-size: 18px;
-  /* Trying to font stack from: https://blog.jim-nielsen.com/2020/system-fonts-on-the-web/ */
-  font-family: 
-    /* use the sans-serif font that the operating system 
-       classifies as a sans-serif font for native apps */
-    ui-sans-serif,
-    /* use the font the operating system uses for native
-       applications, may be serif, may be sans-serif, may be 
-       something else (there are, as you can see, a couple 
-       different ways to specify this) */
-    system-ui, 
-    -system-ui, 
-    -apple-system,
-    BlinkMacSystemFont,
-    /* use one of these specific font families if present */
-    Roboto, Helvetica, Arial, 
-    /* use a sans-serif family as determined by the browser
-       which may or may not be a configurable option for
-       the user to override */
-    sans-serif, 
-    /* use emojis */
-    "Apple Color Emoji";
   line-height: 1.4;
+  font-family: "Inter";
+  src: url("../fonts/Inter-VariableFont_slnt,wght.ttf");
   overflow-wrap: break-word;
 }
 
