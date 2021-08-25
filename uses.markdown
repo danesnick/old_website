@@ -7,11 +7,11 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-08-20*
+*Last Updated: 2021-08-24*
 
 ### Hardware
 
-<figure style="width:300px">
+<figure style="width:500px">
  <a href="/images/uses_setup.jpg"><img src="/images/uses_setup_small.jpg" alt="My battlestation!"></a>
   <figcaption>My battlestation!</figcaption>
 </figure>
@@ -31,7 +31,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 		+ Foam mod between PCB and case
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
 		+ Akko CS Linear Matcha Green Switches (50g actuation)	
-		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire 
+		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire
+		+ Drop MT3 /dev/tty1 PBT Dye Sub Keycaps 
 * **Mice:**
 	+ Logitech G305 Wireless
 	+ Logitech M575 Ergo Mouse
