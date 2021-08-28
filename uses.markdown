@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-08-24*
+*Last Updated: 2021-08-27*
 
 ### Hardware
 
@@ -25,10 +25,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Storage (OS): 
 		+ 256 GB Western Digital PC SN730 NVMe SSD (Windows 10)
 		+ 1 TB TeamGroup EX2 SATA SSD (elementary OS 6 Odin)
-* **Keyboard(s):**
-	+ Durgod Fusion 65% Wireless Mechanical Keyboard rebuilt with:
-		+ Gateron Milky Yellow switches (50g actuation)
-		+ Foam mod between PCB and case
+* **Keyboard:**
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
 		+ Akko CS Linear Matcha Green Switches (50g actuation)	
 		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire
