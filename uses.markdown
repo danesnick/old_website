@@ -7,13 +7,13 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-08-27*
+*Last Updated: 2021-09-04*
 
 ### Hardware
 
 <figure style="width:500px">
  <a href="/images/uses_setup.jpg"><img src="/images/uses_setup_small.jpg" alt="My battlestation!"></a>
-  <figcaption>My battlestation!</figcaption>
+  <figcaption>My battlestation (photo is not up to date)</figcaption>
 </figure>
 
 
@@ -27,11 +27,14 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 		+ 1 TB TeamGroup EX2 SATA SSD (elementary OS 6 Odin)
 * **Keyboard:**
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
-		+ Akko CS Linear Matcha Green Switches (50g actuation)	
+		+ Lubed + Filmed + Spring Swapped, Retooled Cherry MX Red Switches
+			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube Oil with PTFE for Springs
+			- Film: Deskkeys 0.3 mm
+			- Springs: CannonKeys x Tecsee Two-Stage 63.5g Slow Springs 
 		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire
-		+ Drop MT3 /dev/tty1 PBT Dye Sub Keycaps 
-* **Mice:**
-	+ Logitech G305 Wireless
+			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube NLGI 2 / Permatex Dielectric Grease for Wire
+		+ Stock Keycaps
+* **Mouse:**
 	+ Logitech M575 Ergo Mouse
 * **Monitor:** Lenovo Thinkvision P24q-20 23.8" QHD 75 Hz
 * **Audio:**
