@@ -1,4 +1,9 @@
 <nav>
+	      {% if page.title == "Home" %}
+              <b><a href="{{ site.base_url }}/">Home</a></span></b>
+              {% else %}
+              <a href="{{ site.base_url }}/">Home</span></a>
+              {%- endif -%}
   	      {% if page.title == "Blog" %}
 		 <b><a href="{{ site.base_url }}/blog">{{ page.title}}</a></b>
               {% else %}   
