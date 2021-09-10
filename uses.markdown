@@ -7,14 +7,14 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-09-04*
+*Last Updated: 2021-09-10*
 
 ### Hardware
 
-<figure style="width:500px">
+<!--<figure style="width:500px">
  <a href="/images/uses_setup.jpg"><img src="/images/uses_setup_small.jpg" alt="My battlestation!"></a>
   <figcaption>My battlestation (photo is not up to date)</figcaption>
-</figure>
+</figure>-->
 
 
 #### Primary Devices
@@ -29,11 +29,11 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
 		+ Lubed + Filmed + Spring Swapped, Retooled Cherry MX Red Switches
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube Oil with PTFE for Springs
-			- Film: Deskkeys 0.3 mm
+			- Film: Deskeys 0.3 mm
 			- Springs: CannonKeys x Tecsee Two-Stage 63.5g Slow Springs 
 		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube NLGI 2 / Permatex Dielectric Grease for Wire
-		+ Stock Keycaps
+			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease for Wire
+		+ Mistel Doubleshot PBT Keycaps
 * **Mouse:**
 	+ Logitech M575 Ergo Mouse
 * **Monitor:** Lenovo Thinkvision P24q-20 23.8" QHD 75 Hz
@@ -63,6 +63,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Filesync:** 
 	+ Nextcloud 
 	+ Dropbox
+	+ OneDrive
+	+ Google Drive
 * **Backup:**
 	+ Duplicati
 	+ Deja Dup
@@ -73,9 +75,9 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Ardour DAW
 	+ Audacity (planning to switch to [Tenacity](https://tenacityaudio.org/))
 * **Gaming:** Steam
-* **Services:**
-	+ Fastmail (Email, Contacts, Calendar)
-	+ Namecheap (Domain)
+* **Services (Links are referral codes that give me credits!):**
+	+ [Fastmail](https://ref.fm/u24999624) (Email, Contacts, Calendar)
+	+ [Gandi](https://gandi.link/f/c862dae1) (Domain)
 	+ Netlify (Web Hosting)
 	+ Cloudamo (Nextcloud)
 	+ Backblaze (Remote Backup)
