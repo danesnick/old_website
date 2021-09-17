@@ -13,7 +13,7 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * Definitely very much in the rabbit hole of the [custom mechanical keyboard hobby](https://paramountkeeb.com/pages/what-are-custom-keyboards)
 	+ Builds planned for the month:
 		- GMMK Pro (Black) with Gateron KS-3 Yellows
-		- DZ60v3 Solder 60% with Retooled "Ghetto" MX Reds (MX Blacks with MX Red Springs) and [Tsangan Layout]()https://1upkeyboards.com/wp-content/uploads/2019/01/PCB-60-HS-TSA-layouts-1080x1080.jpg)
+		- DZ60v3 Solder 60% with Retooled "Ghetto" MX Reds (MX Blacks with MX Red Springs) and [Tsangan Layout](https://1upkeyboards.com/wp-content/uploads/2019/01/PCB-60-HS-TSA-layouts-1080x1080.jpg)
 * Still regularly practicing with [Broken Record](https://brokenrecordisaband.com) and [Faim](https://faim.bandcamp.com)
 
 ### Music 
