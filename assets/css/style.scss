@@ -4,13 +4,31 @@
 @charset "UTF-8";
 /* Based on: https://john-doe.neocities.org/dist/style.css */
 
+* { box-sizing: border-box;
 
+  /* Color scheme */
 
-/* Reference: https://uglyduck.ca/lazy-dev-dark-mode/ */
-@media (prefers-color-scheme: dark) {
-    body{background:#161618;filter:invert(1);}
-    img{filter:invert(1);}
+  --textcolor: #000;
+  --maincolor: #f9fcff;
+  --bgcolor: #e6f3ff;
+  --highlight: #003b80;
+  --navbgcolor: #a9d5ff;
+  --navcurrentcolor: #c6e3ff;
+
 }
+
+@media (prefers-color-scheme: dark) {
+  * {
+  --textcolor: #fff;
+  --maincolor: #101316;
+  --bgcolor: #161a1f;
+  --navbgcolor: #2f3740;
+  --navcurrentcolor:  #2f3740;
+  --highlight: #e1ad01;
+  }
+}
+
+
 
 @font-face {
   font-family: "Inter";
@@ -21,10 +39,12 @@
 /* ------- Body ------- */
 
 html {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.4;
   font-family: "Inter";
   src: url("../fonts/Inter.ttf");
+  color: var(--textcolor);
+  background: var(--bgcolor);
   overflow-wrap: break-word;
 }
 
@@ -38,23 +58,60 @@ div {
   padding: 0 10px;
 }
 
+div.title {
+  font-weight: 800;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+span.dot {
+  color: var(--highlight);
+}
+
+
 header {
   padding: 10px 6px;
-  margin-bottom: 0px;
-  margin-top: 15px;
-  border-radius: 16px;
+  margin-bottom: 10px;
+  margin-top: 0px;
 }
 
 nav {
-  float: right;
-  word-spacing: 0.5rem;
+  text-align: center;
   a {
       text-decoration: none;
   }
 }
 
+ul.navigation {
+  list-style-type: none;
+  margin: auto;
+  padding: 4px 0px;
+  overflow: hidden;
+}
+
+li.navigation {
+   display: inline;
+   word-wrap: break-word;
+   margin: 0;
+   a {
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+   }
+   a:hover {
+    background: var(--navbgcolor);
+   }
+   a.current{
+    font-weight: 600;
+    background: var(--navcurrentcolor);
+   }
+}
+
+
 a {
+   color: var(--highlight);
   }
+
 
 figure {
   display: block;
@@ -64,6 +121,10 @@ figure {
   text-align: center;
 }
 
+main {
+  padding-top: 1px;
+  background-color: var(--maincolor);
+}
 figure img {
   margin-left: auto;
   margin-right: auto;
@@ -83,6 +144,7 @@ code, textarea {
 pre, textarea { /* for code samples */
   font-size: .9em;
   line-height:inherit;
+  background: var(--bgcolor);
   padding:.6em .9em;
   margin: .8em 0 0em 0;
   position: relative;
@@ -109,13 +171,11 @@ th, td {
 }
 
 footer {
-  font-size: 0.9em;
-  padding: 10px 0px;
+  background: var(--bgcolor);
+  padding-top: 12px;
   margin-top: 20px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   text-align: center;
-  border-radius: 16px;
-  word-spacing: 1.0rem;
   a {
       text-decoration: none;
   }
@@ -128,4 +188,17 @@ footer {
       text-decoration: none;
    }
 }
+
+
+
+/* ------- Smaller screens ------- */
+
+@media only screen and (max-width: 680px) {
+  body { font-size: 16px; }
+}
+
+@media only screen and (max-width: 540px) {
+  nav { width: 100%; } /* Fix for older webkit versions */
+}
+
 

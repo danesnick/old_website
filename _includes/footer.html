@@ -1,4 +1,18 @@
 <!-- Modified from: https://github.com/jekyll/minima/blob/master/_includes/footer.html -->
 <footer>
-  <span class="bot-footer"> <a href="/#contact">Contact</a> <a href="/feed.xml">RSS</a> <a href="/legal/">Legal</a></span>
+  <ul class="navigation">
+  <li class="navigation"> 
+	  <a href="/#contact">Contact</a> 
+  </li>
+  <li class="navigation"> 
+	  <a href="/feed.xml">RSS</a> 
+  </li>
+  <li class="navigation">
+              {% if page.title == "Legal" %}
+	          <a class="current" href="/legal/">Legal</a>
+              {% else %}
+	          <a href="/legal/">Legal</a>
+              {%- endif -%}
+  </li>
+  </ul>
 </footer>

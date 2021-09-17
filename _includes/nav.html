@@ -1,25 +1,37 @@
 <nav>
-	      {% if page.title == "Home" %}
-              <b><a href="{{ site.base_url }}/">Home</a></span></b>
+	<div class="title">
+		Nicholas A<span class="dot">.</span> Danes
+	</div>
+      <ul class="navigation">
+	    <li class="navigation">
+	     {% if page.title == "Home" %}
+             <a class="current" href="{{ site.base_url }}/">Home</span></a>
               {% else %}
-              <a href="{{ site.base_url }}/">Home</span></a>
+              <a href="{{ site.base_url }}/">Home</a></span>
               {%- endif -%}
+	   </li>
+	    <li class="navigation">
   	      {% if page.title == "Blog" %}
-		 <b><a href="{{ site.base_url }}/blog">{{ page.title}}</a></b>
+		 <a class="current" href="{{ site.base_url }}/blog">{{ page.title}}</a>
               {% else %}   
 		 <a href="{{ site.base_url }}/blog">Blog</a>
 	      {%- endif -%}
+	    </li>
+            <li class="navigation">
    	      {% if page.title == "Now" %}
-		 <b><a href="{{ site.base_url }}/now">{{ page.title}}</a></b>
+		  <a class="current" href="{{ site.base_url }}/now">{{ page.title}}</a> 
               {% else %}   
 		 <a href="{{ site.base_url }}/now">Now</a>
 	      {%- endif -%}
+	    </li>
+	    <li class="navigation">
    	      {% if page.title == "Uses" %}
-		 <b><a href="{{ site.base_url }}/uses">{{ page.title}}</a></b>
+		  <a class="current" href="{{ site.base_url }}/uses">{{ page.title}}</a> 
               {% else %}   
 		 <a href="{{ site.base_url }}/uses">Uses</a>
 	      {%- endif -%}
-
+	    </li>
+        </ul>
 </nav>
 
 
