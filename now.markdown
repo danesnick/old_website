@@ -4,36 +4,34 @@ title: Now
 permalink: /now/
 ---
 # Now
-I started noticing these pages on many personal websites, with a commonly linked explanation [here](https://nownownow.com/about). In short, it is another means of getting to know someone on their personal site by what currently they're working on and spending their free time. My format for my page was inspired by [Chris Beckstrom's](https://chrisbeckstrom.com/me/now/) now page.
+Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spent my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
 
-## What I'm doing now 
-
-*Last Updated: 2021-08-13*
-
-### Personal Development
-*  Using [YNAB](https://youneedabudget.com)-style budgeting for my financial planning via spreadsheet
+## September 2021
 
 ### Hobbies
-* Learning HTML/CSS via this website
-* Blogging ~~regularly~~ sporadically on random topics
-* Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com)
-	+ We are all fully COVID vaccinated now!
-* Playing drums and writing an EP with my band [Faim](https://faim.bandcamp.com)
+
+* Definitely very much in the rabbit hole of the [custom mechanical keyboard hobby](https://paramountkeeb.com/pages/what-are-custom-keyboards)
+	+ Builds planned for the month:
+		- GMMK Pro (Black) with Gateron KS-3 Yellows
+		- DZ60v3 Solder 60% with Retooled "Ghetto" MX Reds (MX Blacks with MX Red Springs) with Tsangan Layout
+* Still regularly practicing with [Broken Record](https://brokenrecordisaband.com) and [Faim](https://faim.bandcamp.com)
+
+### Music 
+* [Nectar](https://shop.jojimusic.com/products/nectar-digital-album) by Joji 
+* [Lucky Me](https://killingthedream.bandcamp.com/album/lucky-me) by Killing The Dream
+* [Keep 'Em Confused](https://nouseforaname.bandcamp.com/album/keep-them-confused) by No Use For A Name 
+* [Horizons / East](https://officialthrice.bandcamp.com/album/horizons-east) by Thrice
+
+### Television Series
+* Ted Lasso - Season 2
+
+## Previous Now Entries
+
+### August 2021
+
+## Hobbies
+* Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com), as well as writing an EP with my band [Faim](https://faim.bandcamp.com).
 	+ We are all fully COVID vaccinated now!
 * Loosely getting into [custom mechanical keyboard hobby](https://www.youtube.com/watch?v=xzWm40Tq4F4) without destroying my wallet
 
-## What I plan to do
 
-* Building [dolfinx](https://github.com/FEniCS/dolfinx) from source and porting my graduate research code to the new platform (using C++ instead of Python), and hopefully filing issues along the way
-* Learn [Julia](https://julialang.org/) by writing some basic scientific computing codes from scratch, including but not limited to:
-	+ Runge-Kutta ODE Solver Example
-	+ Various Linear Algebra Solvers
-	+ 1D Boundary Value Problem with Dirichlet Conditions
-* Learn Python web app development through [Flask](https://flask.palletsprojects.com/en/1.1.x/) or [Django](https://www.djangoproject.com/)
-
-## What I've recently done
-* Tried [YNAB](https://youneedabudget.com) for my financial planning, but thought it was too expensive
-* ~~Sold my gaming desktop for a Thinkpad X390 ([blog post here](/blog/2021/02/06/desktop-to-laptop))~~ Also sold this thinkpad (blog post on computer setup eventually)
-* Used and Learned [Gentoo Linux](https://gentoo.org) on my desktop PC as my daily driver, but I borked my system and didn't feel like fixing it.
-* Shopped for a Wifi-6 Router and decided on just getting a Linksys Velop Mesh Wifi-5 Router due to a good used deal I found online!
-* Cleaned up my [home desk setup](/blog/2021/01/03/mydesksetup-jan2021/)
