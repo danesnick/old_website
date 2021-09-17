@@ -25,11 +25,9 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 ### TV Series
 * Ted Lasso - Season 2
 
-## Previous Now Entries
+## August 2021
 
-### August 2021
-
-## Hobbies
+### Hobbies
 * Playing drums for the second full length with my band [Broken Record](https://brokenrecordisaband.com), as well as writing an EP with my band [Faim](https://faim.bandcamp.com).
 	+ We are all fully COVID vaccinated now!
 * Loosely getting into [custom mechanical keyboard hobby](https://www.youtube.com/watch?v=xzWm40Tq4F4) without destroying my wallet
