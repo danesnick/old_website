@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 # Now
-Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spent my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
+Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spend my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
 
 ## September 2021
 
