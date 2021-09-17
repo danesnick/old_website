@@ -31,7 +31,7 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 * <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon</a>
 
 #### Contact
-* Email: hello at ndanes dot com
+* Email: [hello at ndanes dot com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
 * XMPP: [ndanes@chat.1998.social](xmpp:ndanes@chat.1998.social)
 * Matrix: [@ndanes:matrix.org](https://matrix.to/#/@ndanes:matrix.org)
 
