@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-09-10*
+*Last Updated: 2021-09-23*
 
 ### Hardware
 
@@ -25,15 +25,26 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Storage (OS): 
 		+ 256 GB Western Digital PC SN730 NVMe SSD (Windows 10)
 		+ 1 TB TeamGroup EX2 SATA SSD (elementary OS 6 Odin)
-* **Keyboard:**
-	+ Durgod K320 TKL Mechanical Keyboard rebuilt with:
-		+ Lubed + Filmed + Spring Swapped, Retooled Cherry MX Red Switches
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube Oil with PTFE for Springs
-			- Film: Deskeys 0.3 mm
-			- Springs: CannonKeys x Tecsee Two-Stage 63.5g Slow Springs 
-		+ Durock Plate Mount Stabilizers "Piano" colored with gold wire
+* **Keyboards:**
+	1. GMMK Pro (Black)
+		+ Lubed and Filmed Gateron (KS-3) Yellow Switches 
+			- Superlube Grease+Oil Mix for stem, Superlube Oil for Springs
+			- Films: Deskeys 0.3 mm
+		+ Stock Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease for Wire
-		+ Mistel Doubleshot PBT Keycaps
+		+ Mistel Doubleshot PBT Keycaps - Black on White
+	2. DZ60v3 60% Mechanical Keyboard
+		+ Tsangan Layout
+		+ Lubed "Ghetto" Cherry MX Reds (Retooled MX Black stems/housings with MX Red Springs)
+		+ GMK Screw-in stabilizers with Durock 7u spacebar wire
+			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease for Wire
+		+ HK Gaming Dyesub PBT - Modern Dolch Light
+		+ Spray painted plastic case
+	3. Everglide SK87 TKL Mechanical Keyboard
+		+ Gateron Pro (KS-9) Yellow switches (Stock)
+		+ Stock Stabilizers
+			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease for Wire
+		+ Mistel Doubleshot PBT Keycaps - Black on White
 * **Mouse:**
 	+ Logitech M575 Ergo Mouse
 * **Monitor:** Lenovo Thinkvision P24q-20 23.8" QHD 75 Hz
