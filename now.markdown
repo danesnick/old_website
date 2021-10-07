@@ -6,14 +6,33 @@ permalink: /now/
 # Now
 Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spend my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
 
+## October 2021
+
+## Hobbies
+* More Mechanical Keyboard things!
+	+ Builds planned for the month:
+		- [CannonKeys Stacked75](https://cannonkeys.com/collections/keyboard-kits/products/stacked75-keyboard-kit) with Gateron KS-3 Yellows 
+
+* Still regularly practicing with [Broken Record](https://brokenrecordisaband.com) and [Faim](https://faim.bandcamp.com)
+	+ Broken Record is playing [Fest 19](https://thefestfl.com/) at the end of the month!
+
+
+## Music
+* [Nectar](https://shop.jojimusic.com/products/nectar-digital-album) by Joji 
+* [Care](https://davidbazan.bandcamp.com/album/care) by David Bazan
+* [Inside (The Songs)](https://us.7digital.com/artist/bo-burnham/release/inside-the-songs-explicit-16438118?f=20%2C19%2C12%2C16%2C17%2C9%2C2) by Bo Burnham
+
+## Television
+* Ted Lasso - Season 2
+
 ## September 2021
 
 ### Hobbies
 
 * Definitely very much in the rabbit hole of the [custom mechanical keyboard hobby](https://paramountkeeb.com/pages/what-are-custom-keyboards)
-	+ Builds planned for the month:
-		- GMMK Pro (Black) with Gateron KS-3 Yellows
-		- DZ60v3 Solder 60% with Retooled "Ghetto" MX Reds (MX Blacks with MX Red Springs) and [Tsangan Layout](https://1upkeyboards.com/wp-content/uploads/2019/01/PCB-60-HS-TSA-layouts-1080x1080.jpg)
+	+ Builds ~~planned~~ for the month:
+		- ~~GMMK Pro (Black) with Gateron KS-3 Yellows~~ GMMK Pro sold to a friend
+		- ~~DZ60v3 Solder PCB 60% with Retooled "Ghetto" MX Reds (MX Blacks with MX Red Springs)~~ Photos here soon!
 * Still regularly practicing with [Broken Record](https://brokenrecordisaband.com) and [Faim](https://faim.bandcamp.com)
 
 ### Music 
