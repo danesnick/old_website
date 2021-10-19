@@ -26,19 +26,25 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 		+ 256 GB Western Digital PC SN730 NVMe SSD (Windows 10)
 		+ 1 TB TeamGroup EX2 SATA SSD (TBA)
 * **Keyboards:**
-	1. DZ60v3 60% Mechanical Keyboard - **Rebuild in Progress**
+	1. DZ60v3 60% Mechanical Keyboard 
+		+ Gateron Pro (KS-3) Milky Yellow Switches
+			- Lube: Glorious G-Lube
+		+ GMK Screw-in Stabilizers
+			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
+		+ Mistel Doubleshot PBT Keycaps - Glaze Blue
 	2. Everglide SK87 TKL Mechanical Keyboard
-		+ Gateron Pro (KS-9) Yellow switches (Stock)
+		+ Gateron Pro (KS-9) Yellow switches
+			- Lube: Glorious G-Lube
 		+ Stock Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease for Wire
-		+ Mistel Doubleshot PBT Keycaps - Glaze Blue
+		+ Mistel Doubleshot PBT Keycaps - White on Black
 
 	3. CannonKeys Stacked75 
 		+ Gateron (KS-3) Yellow Switches
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube Oil for Spring
 		+ GMK Screw-in Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		+ Mistel Double PBT Keycaps - White on Black with Black on White Accents
+		+ Mistel Double PBT Keycaps - Black on White
 		
 * **Mice:**
 	1. Logitech MX Ergo
@@ -46,6 +52,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Monitor:** Lenovo Thinkvision P24q-20 23.8" QHD 75 Hz
 * **Audio:**
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
+	+ **Headphones:** Takstar Pro 82
 	+ **IEMs:** Shure SE215
 	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
 	+ **Microphone:** Shure SM57 
@@ -59,7 +66,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 * **Browser:** Mozilla Firefox
 * **Notes:** Joplin Notes
-* **Spreadsheets:** Microsoft Excel
+* **Spreadsheets:** Microsoft Excel / ONLYOFFICE
 * **Chat:**
 	+ Signal
 	+ iMessage
@@ -71,7 +78,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Backup:**
 	+ Duplicati
 * **Gaming:** Steam
-* **Paid Services (Links are referral codes that give me credits!):**
+* **Services (Links are referral codes that give me credits!):**
 	+ [Fastmail](https://ref.fm/u24999624) (Email, Contacts, Calendar)
 	+ [Gandi](https://gandi.link/f/c862dae1) (Domain)
 	+ Netlify (Web Hosting)
