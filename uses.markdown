@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-10-13*
+*Last Updated: 2021-10-29*
 
 ### Hardware
 
@@ -23,8 +23,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ GPU: AMD Vega 11 Graphics
 	+ Memory: 16 GB DDR4 RAM @ 2666 MHz
 	+ Storage (OS): 
-		+ 256 GB Western Digital PC SN730 NVMe SSD (Windows 10)
-		+ 1 TB TeamGroup EX2 SATA SSD (TBA)
+		+ 1 TB TeamGroup EX2 SATA SSD (Solus Linux 4.3 Plasma)
 * **Keyboards:**
 	1. DZ60v3 60% Mechanical Keyboard 
 		+ Gateron Pro (KS-3) Milky Yellow Switches
@@ -32,19 +31,12 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 		+ GMK Screw-in Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
 		+ Mistel Doubleshot PBT Keycaps - Glaze Blue
-	2. Everglide SK87 TKL Mechanical Keyboard
-		+ Gateron Pro (KS-9) Yellow switches
-			- Lube: Glorious G-Lube
-		+ Stock Stabilizers
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease for Wire
-		+ Mistel Doubleshot PBT Keycaps - White on Black
-
-	3. CannonKeys Stacked75 
+	2. CannonKeys Stacked75 
 		+ Gateron (KS-3) Yellow Switches
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube Oil for Spring
 		+ GMK Screw-in Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		+ Mistel Double PBT Keycaps - Black on White
+		+ Mistel Double PBT Keycaps - White on Black
 		
 * **Mice:**
 	1. Logitech MX Ergo
@@ -66,7 +58,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 * **Browser:** Mozilla Firefox
 * **Notes:** Joplin Notes
-* **Spreadsheets:** Microsoft Excel / ONLYOFFICE
+* **Spreadsheets:** Microsoft Excel / LibreOffice Calc
 * **Chat:**
 	+ Signal
 	+ iMessage
