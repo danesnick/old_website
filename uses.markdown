@@ -41,7 +41,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Mice:**
 	1. Logitech MX Ergo
 	2. Logitech M575 Ergo Mouse
-* **Monitor:** BenQ Mobius EX2510 24.5" Gaming Monitor (FHD, 144 Hz, IPS)
+* **Monitor:** Lenovo Thinkvision 23.8" Monitor (QHD, 75 Hz, IPS)
 * **Audio:**
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
 	+ **Headphones:** Takstar Pro 82
