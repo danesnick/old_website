@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-10-29*
+*Last Updated: 2021-11-04*
 
 ### Hardware
 
@@ -18,12 +18,12 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 
 #### Primary Devices
-* **Computer:** Lenovo Thinkcentre M75q-1 Mini PC 
-	+ CPU: Ryzen 5 3400GE (4 cores, 8 threads)
-	+ GPU: AMD Vega 11 Graphics
-	+ Memory: 16 GB DDR4 RAM @ 2666 MHz
-	+ Storage (OS): 
-		+ 1 TB TeamGroup EX2 SATA SSD (Solus Linux 4.3 Plasma)
+* **Computer:** 2020 13" Macbook Pro 
+	+ System on Chip (SoC): Apple M1 (4 performance cores, 4 efficiency cores, 8 GPU cores)
+	+ Memory: 8 GB Unified Memory
+	+ Storage: 512 GB SSD
+	+ OS: MacOS 12 Monterey  
+
 * **Keyboards:**
 	1. DZ60v3 60% Mechanical Keyboard 
 		+ Gateron Pro (KS-3) Milky Yellow Switches
@@ -41,7 +41,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Mice:**
 	1. Logitech MX Ergo
 	2. Logitech M575 Ergo Mouse
-* **Monitor:** Lenovo Thinkvision P24q-20 23.8" QHD 75 Hz
+* **Monitor:** BenQ Mobius EX2510 24.5" Gaming Monitor (FHD, 144 Hz, IPS)
 * **Audio:**
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
 	+ **Headphones:** Takstar Pro 82
@@ -63,7 +63,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Signal
 	+ iMessage
 	+ Discord
-	+ XMPP (Gajim on desktop, Snikket IM on iOS)
+	+ XMPP (Monal on desktop, Snikket IM on iOS)
 * **Filesync:** 
 	+ OneDrive
 	+ Dropbox
