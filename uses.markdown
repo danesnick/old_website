@@ -25,18 +25,13 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ OS: MacOS 12 Monterey  
 
 * **Keyboards:**
-	1. DZ60v3 60% Mechanical Keyboard 
+	1. DZ60v3 60% Mechanical Keyboard
+		+ Mekanisk Klippe R1 Case - Silver 
 		+ Gateron Pro (KS-3) Milky Yellow Switches
 			- Lube: Glorious G-Lube
 		+ GMK Screw-in Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		+ Mistel Doubleshot PBT Keycaps - Glaze Blue
-	2. CannonKeys Stacked75 
-		+ Gateron (KS-3) Yellow Switches
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, SuperLube Oil for Spring
-		+ GMK Screw-in Stabilizers
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		+ Mistel Double PBT Keycaps - White on Black
+		+ Mistel Doubleshot PBT Keycaps - Black on White
 		
 * **Mice:**
 	1. Logitech MX Ergo
@@ -53,11 +48,12 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 #### Secondary Devices
 
 * **Phone:** iPhone SE 2020 64 GB
+* **Tablet:** iPad Mini 5 (2019) Cellular 64 GB
 
 #### Software and Services
 
 * **Browser:** Mozilla Firefox
-* **Notes:** Joplin Notes
+* **Notes:** Apple Notes
 * **Spreadsheets:** Microsoft Excel / LibreOffice Calc
 * **Chat:**
 	+ Signal
