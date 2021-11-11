@@ -17,10 +17,9 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * Finished recording another LP with [Faim](https://faim.bandcamp.com)
 * Continuing to practice with [Broken Record](https://brokenrecordisaband)
 * Sold my last PC (Thinkcentre M75q) and trying to use Apple Ecosystem daily by using my partner's 13" M1 Macbook Pro
-	- Also trying to save for a gaming PC
 
 ### Music
-* [Selective Wreckage[](https://bridge9.bandcamp.com/album/selective-wreckage) by Crime in Stereo
+* [Selective Wreckage(https://bridge9.bandcamp.com/album/selective-wreckage) by Crime in Stereo
 
 ### Television
 * Survivor - Season 41
