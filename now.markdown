@@ -6,23 +6,42 @@ permalink: /now/
 # Now
 Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spend my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
 
+
+## November 2021
+
+### Hobbies
+* Stepping away from the custom mechanical keyboard hobby
+	- The hobby is very expensive and I want to allocate that money for other financial goals/hobbies
+	- Selling other keyboards I don't use or want to keep
+	- Last build is modding a Keychron C1 mechanical keyboard with Gateron Pro Yellow switches
+* Finished recording another LP with [Faim](https://faim.bandcamp.com)
+* Continuing to practice with [Broken Record](https://brokenrecordisaband)
+* Sold my last PC (Thinkcentre M75q) and trying to use Apple Ecosystem daily by using my partner's 13" M1 Macbook Pro
+	- Also trying to save for a gaming PC
+
+### Music
+* [Selective Wreckage[](https://bridge9.bandcamp.com/album/selective-wreckage) by Crime in Stereo
+
+### Television
+* Survivor - Season 41
+
 ## October 2021
 
-## Hobbies
+### Hobbies
 * More Mechanical Keyboard things!
 	+ Builds planned for the month:
-		- [CannonKeys Stacked75](https://cannonkeys.com/collections/keyboard-kits/products/stacked75-keyboard-kit) with Gateron KS-3 Yellows 
+		- ~~[CannonKeys Stacked75](https://cannonkeys.com/collections/keyboard-kits/products/stacked75-keyboard-kit) with Gateron KS-3 Yellows~~ Sold on Reddit 
 
 * Still regularly practicing with [Broken Record](https://brokenrecordisaband.com) and [Faim](https://faim.bandcamp.com)
 	+ Broken Record is playing [Fest 19](https://thefestfl.com/) at the end of the month!
 
 
-## Music
+### Music
 * [Nectar](https://shop.jojimusic.com/products/nectar-digital-album) by Joji 
 * [Care](https://davidbazan.bandcamp.com/album/care) by David Bazan
 * [Inside (The Songs)](https://us.7digital.com/artist/bo-burnham/release/inside-the-songs-explicit-16438118?f=20%2C19%2C12%2C16%2C17%2C9%2C2) by Bo Burnham
 
-## Television
+### Television
 * Ted Lasso - Season 2
 
 ## September 2021
