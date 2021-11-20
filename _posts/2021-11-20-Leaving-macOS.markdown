@@ -59,7 +59,7 @@ All these things are great, but unfortunately they don't outweigh my annoyances 
 
 ### Quick disclaimer
 
-I know a lot of the issues I listed below are either niche or have workarounds. For most folks, they will not run into these issues and will have a good experience with macOS. However, **for me**, for an OS from a company that claims "it just works", I haven't had that experience for my use case with macOS. I started driving to daily drive macOS because I was getting grumpy with configuring tech, and macOS ironically was making me do that more. 
+I know a lot of the issues I listed below are either niche or have workarounds. For most folks, they will not run into these issues and will have a good experience with macOS. However, **for me**, for an OS from a company that claims "it just works", I haven't had that experience for my use case with macOS. I started daily driving macOS because I was getting grumpy with configuring tech, and macOS ironically was making me do that more. 
 
 
 ### Display Scaling Headaches
