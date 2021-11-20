@@ -38,7 +38,7 @@ Over the years since 2017, I've tried various macOS products, including, but not
 * 2020 13" M1 Macbook Air - returned
 * 2020 13" M1 Macbook Pro - My fiance's device and I'm typing this blog post on it now!
 
-Despite all these attempts to the use macOS as my daily driver, I have constantly ran into frustrations with the OS. However, before I go into my frustrations with macOS, I wanted to highlight what I enjoy that Windows / Linux do not provide.
+Despite all these attempts to use macOS as my daily driver, I have constantly ran into frustrations with the OS. However, before I go into my frustrations with macOS, I wanted to highlight what I enjoy that Windows / Linux do not provide.
 
 ## What I like about macOS
 
