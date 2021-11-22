@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-11-04*
+*Last Updated: 2021-11-22*
 
 ### Hardware
 
@@ -18,11 +18,12 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 
 #### Primary Devices
-* **Computer:** 2020 13" Macbook Pro 
-	+ System on Chip (SoC): Apple M1 (4 performance cores, 4 efficiency cores, 8 GPU cores)
-	+ Memory: 8 GB Unified Memory
-	+ Storage: 512 GB SSD
-	+ OS: MacOS 12 Monterey  
+* **Computer:** Lenovo Ideapad Slim Pro 7i
+	+ Processor: Intel i7-11370H (4 cores, 8 threads)
+	+ Memory: 16 GB LPDDR4 RAM @ 4266Mhz
+	+ Storage: 1 TB NVMe SSD
+	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
+	+ OS: Windows 11 
 
 * **Keyboards:**
 	1. Keychron C1 TKL Mechanical Keyboard
@@ -30,13 +31,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 			- Lube: Glorious G-Lube
 		+ Stock Stabilizers
 			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		+ Stock Keycaps
-	2. DZ60v3 60% Mechanical Keyboard (waiting on parts)
-		+ Gateron Pro (KS-3) Milky Yellow Switches
-			- Lube: Glorious G-Lube
-		+ GMK Screw-in Stabilizers
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		
+		+ YMDK Doubleshot PBT Dolch
+	
 * **Mice:**
 	1. Logitech MX Ergo
 	2. Logitech M575 Ergo Mouse
@@ -57,15 +53,16 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 #### Software and Services
 
 * **Browser:** Mozilla Firefox
-* **Notes:** Apple Notes
-* **Spreadsheets:** Apple Numbers
+* **Notes:** Standard Notes
+* **Spreadsheets:**  Google Sheets
 * **Chat:**
 	+ Signal
 	+ iMessage
 	+ Discord
 	+ XMPP (Monal on desktop, Snikket IM on iOS)
 * **Filesync:** 
-	+ OneDrive
+	+ iCloud
+	+ Google Drive
 	+ Dropbox
 * **Backup:**
 	+ Duplicati
