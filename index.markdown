@@ -35,12 +35,12 @@ This is just my personal website where I can express myself creatively and also 
 * [Resume](/resume.pdf)
 * [My Bands](/bands)
 
-#### Where Else to Find Me
+### Where Else to Find Me
 
 * [Bandcamp](https://bandcamp.com/ndanes)
 * [GitHub](https://github.com/nicholasdanes)
 * <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon</a>
 
-#### Contact
+### Contact
 * Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
 
