@@ -33,11 +33,6 @@ In 2013, I completed a Bachelor of Science in Mathematics, with a minor in Compu
 #### Contact
 * Email: [hello at ndanes dot com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
 * XMPP: [ndanes@chat.1998.social](xmpp:ndanes@chat.1998.social)
-	+ OMEMO fingerprints:
-		1. `C378004D 6A49EC7C 0C1D406E BB9594F9
-5E138C7B B3EE4A0D 1A4F6D77 BD3AB53D` 
-		2. `FBA8A2D7 74D0C129 9E8FE5E3 2B7A626E
-D16BA77E C53D32FB 2A9E1F00 52066C6B`
 
 ### About this Site
 
