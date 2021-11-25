@@ -13,10 +13,10 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * Stepping away from the custom mechanical keyboard hobby
 	- The hobby is very expensive and I want to allocate that money for other financial goals/hobbies
 	- Selling other keyboards I don't use or want to keep
-	- Last build is modding a Keychron C1 mechanical keyboard with Gateron Pro Yellow switches
+	- ~~Last build is modding a Keychron C1 mechanical keyboard with Gateron Pro Yellow switches~~ Now built!
 * Finished recording another LP with [Faim](https://faim.bandcamp.com)
-* Continuing to practice with [Broken Record](https://brokenrecordisaband)
-* Sold my last PC (Thinkcentre M75q) and trying to use Apple Ecosystem daily by using my partner's 13" M1 Macbook Pro
+* Continuing to practice with [Broken Record](https://brokenrecordisaband.com)
+* Sold my last PC (Thinkcentre M75q) and trying to use Apple Ecosystem daily by ~~using my partner's 13" M1 Macbook Pro~~ Now using a Lenovo Ideadpad Slim Pro 7i as my daily driver!
 
 ### Music
 * [Selective Wreckage](https://bridge9.bandcamp.com/album/selective-wreckage) by Crime in Stereo

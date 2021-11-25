@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-11-22*
+*Last Updated: 2021-11-25*
 
 ### Hardware
 
@@ -25,8 +25,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
 	+ OS: Windows 11 
 
-* **Keyboards:**
-	1. Keychron C1 TKL Mechanical Keyboard
+* **Keyboard:**
+	+ Keychron C1 TKL Mechanical Keyboard
 		+ Gateron Pro (KS-9) Yellow Switches
 			- Lube: Glorious G-Lube
 		+ Stock Stabilizers
@@ -43,7 +43,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ **IEMs:** Shure SE215
 	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
 	+ **Microphone:** Shure SM57 
-	+ **Wireless Earbuds:** Anker Soundcore Spirit X
+	+ **Wireless Earbuds:** Anker Soundcore Spirit X, Apple AirPods (1st Gen)
 
 #### Secondary Devices
 
@@ -59,7 +59,6 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Signal
 	+ iMessage
 	+ Discord
-	+ XMPP (Monal on desktop, Snikket IM on iOS)
 * **Filesync:** 
 	+ iCloud
 	+ Google Drive

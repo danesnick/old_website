@@ -9,8 +9,7 @@
   /* Color scheme */
 
   --textcolor: #000;
-  --maincolor: #f9fcff;
-  --bgcolor: #e6f3ff;
+  --bgcolor: #fafcfd;
   --highlight: #003b80;
   --navbgcolor: #a9d5ff;
   --navcurrentcolor: #c6e3ff;
@@ -20,7 +19,6 @@
 @media (prefers-color-scheme: dark) {
   * {
   --textcolor: #fff;
-  --maincolor: #101316;
   --bgcolor: #161a1f;
   --navbgcolor: #2f3740;
   --navcurrentcolor:  #2f3740;
@@ -53,12 +51,16 @@ body {
 }
 
 div {
-  padding: 0 10px;
+  padding: 0 0px;
 }
 
 h1.title {
   font-weight: 900;
   margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 1.75em;
 }
 
 span.dot {
@@ -67,8 +69,7 @@ span.dot {
 
 
 header {
-  padding: 10px 6px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   margin-top: 0px;
 }
 
@@ -91,7 +92,8 @@ li.navigation {
    word-wrap: break-word;
    margin: 0;
    a {
-    padding: 4px 10px;
+    padding: 2px 8px;
+    border-radius: 8px;
     text-align: center;
     text-decoration: none;
    }
@@ -119,8 +121,8 @@ figure {
 }
 
 main {
-  padding-top: 1px;
-  background-color: var(--maincolor);
+  padding-top: 0px;
+  margin-top: 0px;
 }
 figure img {
   margin-left: auto;
@@ -170,7 +172,7 @@ th, td {
 footer {
   background: var(--bgcolor);
   padding-top: 12px;
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom: 20px;
   text-align: center;
   a {
