@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-11-25*
+*Last Updated: 2021-11-30*
 
 ### Hardware
 
@@ -25,17 +25,8 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
 	+ OS: Windows 11 
 
-* **Keyboard:**
-	+ Keychron C1 TKL Mechanical Keyboard
-		+ Gateron Pro (KS-9) Yellow Switches
-			- Lube: Glorious G-Lube
-		+ Stock Stabilizers
-			- Lube: Superlube (NLGI 2) Grease + Oil with PTFE for Stem, Permatex Dielectric Grease/SuperLube Grease for Wire
-		+ YMDK Doubleshot PBT Dolch
-	
-* **Mice:**
-	1. Logitech MX Ergo
-	2. Logitech M575 Ergo Mouse
+* **Keyboard:** Microsoft Designer Compact Bluetooth
+* **Mouse:** Logitech MX Ergo
 * **Monitor:** Lenovo Thinkvision 23.8" Monitor (QHD, 75 Hz, IPS)
 * **Audio:**
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
