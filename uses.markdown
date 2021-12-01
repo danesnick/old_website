@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-11-30*
+*Last Updated: 2021-12-01*
 
 ### Hardware
 
@@ -25,7 +25,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
 	+ OS: Windows 11 
 
-* **Keyboard:** Microsoft Designer Compact Bluetooth
+* **Keyboard:** Keychron C1 with Lubed Keychron Brown Switches
 * **Mouse:** Logitech MX Ergo
 * **Monitor:** Lenovo Thinkvision 23.8" Monitor (QHD, 75 Hz, IPS)
 * **Audio:**
