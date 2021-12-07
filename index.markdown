@@ -42,5 +42,4 @@ This is just my personal website where I can express myself creatively and also 
 
 ### Contact
 * Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
-* Matrix: [@ndanes:one.ems.host](https://matrix.to/#/@ndanes:one.ems.host)
 
