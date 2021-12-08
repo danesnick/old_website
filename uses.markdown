@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-12-01*
+*Last Updated: 2021-12-08*
 
 ### Hardware
 
@@ -39,24 +39,18 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 #### Secondary Devices
 
 * **Phone:** iPhone SE 2020 64 GB
-* **Tablet:** iPad Mini 5 (2019) Cellular 64 GB
 
 #### Software and Services
 
-* **Browser:** Mozilla Firefox
+* **Browser:** Microsoft Edge
 * **Notes:** Standard Notes
 * **Spreadsheets:**  Google Sheets
-* **Chat:**
-	+ Signal
-	+ iMessage
-	+ Discord
 * **Filesync:** 
 	+ iCloud
 	+ Google Drive
 	+ Dropbox
 * **Backup:**
 	+ Duplicati
-* **Gaming:** Steam
 * **Services (Links are referral codes that give me credits!):**
 	+ [Fastmail](https://ref.fm/u24999624) (Email, Contacts, Calendar)
 	+ [Gandi](https://gandi.link/f/c862dae1) (Domain)
