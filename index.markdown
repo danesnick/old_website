@@ -10,7 +10,7 @@ You've reached my little corner of the internet!
 
 ## About Me
 
-<figure style="width:500px">
+<figure style="width:400px">
  <img style="width:50%; border-radius:100%;" src="/images/me_header.png" alt="Me!">
 </figure>
 
