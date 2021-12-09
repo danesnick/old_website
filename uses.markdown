@@ -25,16 +25,15 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
 	+ OS: Windows 11 
 
-* **Keyboard:** Keychron C1 with Lubed Keychron Brown Switches
+* **Keyboard:** Keychron C1 with Lubed Gateron Pro Yellows (KS-9)
 * **Mouse:** Logitech MX Ergo
-* **Monitor:** Lenovo Thinkvision 23.8" Monitor (QHD, 75 Hz, IPS)
 * **Audio:**
 	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
 	+ **Headphones:** Takstar Pro 82
 	+ **IEMs:** Shure SE215
 	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
 	+ **Microphone:** Shure SM57 
-	+ **Wireless Earbuds:** Anker Soundcore Spirit X, Apple AirPods (1st Gen)
+	+ **Wireless Earbuds:** Anker Soundcore Spirit X
 
 #### Secondary Devices
 
@@ -42,7 +41,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 #### Software and Services
 
-* **Browser:** Microsoft Edge
+* **Browser:** Mozilla Firefox
 * **Notes:** Standard Notes
 * **Spreadsheets:**  Google Sheets
 * **Filesync:** 
