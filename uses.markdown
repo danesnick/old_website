@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-12-12*
+*Last Updated: 2021-12-15*
 
 ### Hardware
 
@@ -24,16 +24,13 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Storage: 1 TB NVMe SSD
 	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
 	+ OS: Windows 11 
-
 * **Keyboard:** Keychron C1 with Lubed Gateron Pro Yellows (KS-9)
 * **Mouse:** Logitech MX 575
 * **Audio:**
-	+ **Speakers:** Anker Soundcore 2 Portable Bluetooth Speaker
 	+ **Headphones:** Takstar Pro 82
 	+ **IEMs:** Shure SE215
 	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
 	+ **Microphone:** Shure SM57 
-	+ **Wireless Earbuds:** Anker Soundcore Life P2 Mini
 
 #### Secondary Devices
 
@@ -45,7 +42,6 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 * **Notes:** Standard Notes
 * **Spreadsheets:**  Google Sheets
 * **Filesync:** 
-	+ iCloud
 	+ Google Drive
 	+ Dropbox
 * **Backup:**
