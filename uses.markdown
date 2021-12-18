@@ -18,12 +18,12 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 
 #### Primary Devices
-* **Computer:** Lenovo Ideapad Slim Pro 7i
-	+ Processor: Intel i7-11370H (4 cores, 8 threads)
-	+ Memory: 16 GB LPDDR4 RAM @ 4266Mhz
-	+ Storage: 1 TB NVMe SSD
-	+ Display: 14" 2880 x 1800 90 Hz 10-bit IPS Display
-	+ OS: Windows 11 
+* **Computer:** 2021 M1 iMac 24"
+	+ SoC: Apple M1 (4 performance cores, 4 efficiency cores, 8 GPU cores)
+	+ Memory: 8 GB Unified
+	+ Storage: 512 GB SSD
+	+ Display: 24" 4.5K (4480-by-2520) Retina Display
+	+ OS: macOS Monterey
 * **Keyboard:** Keychron C1 with Lubed Gateron Pro Yellows (KS-9)
 * **Mouse:** Logitech MX 575
 * **Audio:**
@@ -31,6 +31,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ **IEMs:** Shure SE215
 	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
 	+ **Microphone:** Shure SM57 
+	+ **Wireless:** Anker Soundcore Life P2 Mini
 
 #### Secondary Devices
 
@@ -38,7 +39,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 #### Software and Services
 
-* **Browser:** Mozilla Firefox
+* **Browser:** Mozilla Firefox + Safari
 * **Notes:** Standard Notes
 * **Spreadsheets:**  Google Sheets
 * **Filesync:** 
