@@ -13,19 +13,19 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * My band [Faim](https://faim.bandcamp.com] went on a short weekend tour in the Pacific Northwest
 * Two-way stay vacation starting December 18!
 
-## Music
+### Music
 * [Delta Sleep - Spring Island](https://deltasleep.bandcamp.com/album/spring-island)
 * [Rich Brian - 1999](https://us.7digital.com/artist/rich-brian/release/1999-12743826)
 * [Rest Easy - Sick Day EP](https://resteasypunx.bandcamp.com/album/sick-day-ep)
 
 
-## Television
+### Television
 * Survivor - Season 41 
 
-## Movies/Documentaries
+### Movies/Documentaries
 * [Transformer (2017)](https://www.imdb.com/title/tt7935784/)
 
-## Games (Xbox Series S)
+### Games (Xbox Series S)
 * Borderlands 3
 * Tony Hawk Pro Skater 1+2
 * Hades
