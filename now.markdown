@@ -14,9 +14,9 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * Two-way stay vacation starting December 18!
 
 ### Music
-* [Delta Sleep - Spring Island](https://deltasleep.bandcamp.com/album/spring-island)
-* [Rich Brian - 1999](https://us.7digital.com/artist/rich-brian/release/1999-12743826)
-* [Rest Easy - Sick Day EP](https://resteasypunx.bandcamp.com/album/sick-day-ep)
+* [Spring Island](https://deltasleep.bandcamp.com/album/spring-island) by Delta Sleep
+* [1999](https://us.7digital.com/artist/rich-brian/release/1999-12743826) by Rich Brian
+* [Sick Day EP](https://resteasypunx.bandcamp.com/album/sick-day-ep) by Rest Easy
 
 
 ### Television
@@ -31,7 +31,6 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * Hades
 * Pandemic
 * Overcooked 2
-
 
 ## November 2021
 
