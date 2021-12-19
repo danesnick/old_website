@@ -7,6 +7,32 @@ permalink: /now/
 Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spend my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
 
 
+## December 2021
+* Settled on a 24" M1 iMac for my daily personal computer. You can read more about it [here](/blog/2021/12/18/back-to-mac/).
+* Picked up an Xbox Series S last montha and started gaming again!
+* My band [Faim](https://faim.bandcamp.com] went on a short weekend tour in the Pacific Northwest
+* Two-way stay vacation starting December 18!
+
+## Music
+* [Delta Sleep - Spring Island](https://deltasleep.bandcamp.com/album/spring-island)
+* [Rich Brian - 1999](https://us.7digital.com/artist/rich-brian/release/1999-12743826)
+* [Rest Easy - Sick Day EP](https://resteasypunx.bandcamp.com/album/sick-day-ep)
+
+
+## Television
+* Survivor - Season 41 
+
+## Movies/Documentaries
+* [Transformer (2017)](https://www.imdb.com/title/tt7935784/)
+
+## Games (Xbox Series S)
+* Borderlands 3
+* Tony Hawk Pro Skater 1+2
+* Hades
+* Pandemic
+* Overcooked 2
+
+
 ## November 2021
 
 ### Hobbies
@@ -16,7 +42,7 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 	- ~~Last build is modding a Keychron C1 mechanical keyboard with Gateron Pro Yellow switches~~ Now built!
 * Finished recording another LP with [Faim](https://faim.bandcamp.com)
 * Continuing to practice with [Broken Record](https://brokenrecordisaband.com)
-* Sold my last PC (Thinkcentre M75q) and trying to use Apple Ecosystem daily by ~~using my partner's 13" M1 Macbook Pro~~ Now using a Lenovo Ideadpad Slim Pro 7i as my daily driver!
+* Sold my last PC (Thinkcentre M75q) and trying to use Apple Ecosystem daily by ~~using my partner's 13" M1 Macbook Pro~~ ~~Now using a Lenovo Ideadpad Slim Pro 7i as my daily driver!~~
 
 ### Music
 * [Selective Wreckage](https://bridge9.bandcamp.com/album/selective-wreckage) by Crime in Stereo
