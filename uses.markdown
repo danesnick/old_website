@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-12-21*
+*Last Updated: 2021-12-23*
 
 ### Hardware
 
@@ -18,25 +18,21 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 
 #### Primary Devices
-* **Computer:** 2021 M1 iMac 24" (Returning for 16 GB variant)
+* **Computer:** 2021 M1 iMac 24" (Blue)
 	+ SoC: Apple M1 (4 performance cores, 4 efficiency cores, 8 GPU cores)
-	+ Memory: 8 GB Unified 
+	+ Memory: 16 GB Unified 
 	+ Storage: 512 GB SSD
 	+ Display: 24" 4.5K (4480-by-2520) Retina Display
 	+ OS: macOS Monterey
-* **Keyboard:** Keychron C1 with Lubed Gateron Pro Yellows (KS-9)
-* **Mouse:** Logitech MX 575
+* **Keyboard:** Apple Magic Keyboard with TouchID
+* **Mouse:** Logitech MX 575, Apple Magic Mouse
 * **Audio:**
-	+ **Headphones:** Takstar Pro 82
-	+ **IEMs:** Shure SE215
-	+ **Interface:** Scarlett Focusrite Solo 3rd Gen
-	+ **Microphone:** Shure SM57 
 	+ **Wireless:** Anker Soundcore Life P2 Mini
 
 #### Secondary Devices
 
 * **Phone:** iPhone 13 128 GB (Midnight)
-* **Tablet:** iPad Pro 256 GB (Space Gray)
+* **Tablet:** 2018 iPad Pro 11" 256 GB (Space Gray)
 
 #### Software and Services
 
