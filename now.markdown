@@ -9,8 +9,8 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 
 ## December 2021
 * Settled on a 24" M1 iMac for my daily personal computer. You can read more about it [here](/blog/2021/12/18/back-to-mac/).
-* Picked up an Xbox Series S last montha and started gaming again!
-* My band [Faim](https://faim.bandcamp.com] went on a short weekend tour in the Pacific Northwest
+* Picked up an Xbox Series S last month and started gaming again!
+* My band [Faim](https://faim.bandcamp.com) went on a short weekend tour in the Pacific Northwest
 * Two-way stay vacation starting December 18!
 
 ### Music
@@ -18,17 +18,16 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 * [1999](https://us.7digital.com/artist/rich-brian/release/1999-12743826) by Rich Brian
 * [Sick Day EP](https://resteasypunx.bandcamp.com/album/sick-day-ep) by Rest Easy
 
-
 ### Television
 * Survivor - Season 41 
+* The Last Dance 
 
 ### Movies/Documentaries
 * [Transformer (2017)](https://www.imdb.com/title/tt7935784/)
 
 ### Games (Xbox Series S)
-* Borderlands 3
-* Tony Hawk Pro Skater 1+2
 * Hades
+* Tony Hawk Pro Skater 1+2
 * Pandemic
 * Overcooked 2
 
