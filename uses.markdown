@@ -25,7 +25,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Display: 24" 4.5K (4480-by-2520) Retina Display
 	+ OS: macOS Monterey
 * **Keyboard:** Apple Magic Keyboard with TouchID
-* **Mouse:** Logitech MX 575, Apple Magic Mouse
+* **Mouse:** Logitech M575 Ergo, Apple Magic Mouse
 * **Audio:**
 	+ **Wireless:** Anker Soundcore Life P2 Mini
 
