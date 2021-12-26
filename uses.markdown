@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-12-23*
+*Last Updated: 2021-12-26*
 
 ### Hardware
 
@@ -26,8 +26,6 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ OS: macOS Monterey
 * **Keyboard:** Apple Magic Keyboard with TouchID
 * **Mouse:** Logitech M575 Ergo, Apple Magic Mouse
-* **Audio:**
-	+ **Wireless:** Anker Soundcore Life P2 Mini
 
 #### Secondary Devices
 
@@ -37,11 +35,10 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 #### Software and Services
 
 * **Browser:** Mozilla Firefox + Safari
-* **Notes:** Standard Notes
+* **Notes:** Apple Notes
 * **Spreadsheets:**  Google Sheets
 * **Filesync:** 
-	+ Google Drive
-	+ Dropbox
+	+ iCloud Drive
 * **Backup:**
 	+ Duplicati
 * **Services (Links are referral codes that give me credits!):**
