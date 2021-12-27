@@ -34,7 +34,9 @@ Veracrypt is a trusted and well-known open source encryption tool, but requires 
 
 The last option I considered was Cryptomator, an open-source client-side encryption tool designed to encrypt files for cloud services such as Dropbox, Google Drive, iCloud and OneDrive. The client also creates a encryped volume (they call it a "vault") in your desired cloud provider's sync folder, but files are individually encrypted, allowing for incremental syncing when files are changed. Additionally, Cryptomator's mobile clients work extremely well and allow you to seamlessly access your encrypted vaults when needed on the go.
 
-Next, I will briefly go over how to make a Cryptomator vault and how to use it to access files in your cloud provider.   
+Next, I will briefly go over how to make a Cryptomator vault on macOS. This tutorial should be applicable for Windows/Linux and non-iCloud users.
+
+   
 ## A quick tutorial on how to use Cryptomator 
 
 ### Get Cryptomator
@@ -107,5 +109,5 @@ In macOS, a Cryptomator vault is simply a WebDAV drive mount that you can drag/d
 
 ## Conclusions
 
-I believe client-side encryption tools like Cryptomator are a wonderful way where you have your cake and eat it too. It allows you use commercial, Big Tech cloud providers with their large, cheap storage capacities, but still maintain privacy of your documents. Since it is crossplatform, and also has mobile clients for iOS and Android, you can access your files in a encrypted vault on most devices. The only downside is that there's going to be some small inconvenients of having to unlock the vault whenever you want to access your files. But among a lot of the options, I find that this is a good balance between privacy and usability. 
+I believe client-side encryption tools like Cryptomator are a wonderful way where you have your cake and eat it too. It allows you use commercial, Big Tech cloud providers with their large, cheap storage capacities, but still maintain privacy of your documents. Since it is crossplatform, and also has mobile clients for iOS and Android, you can access your files in a encrypted vault on most devices. The only downside is that there's going to be some small inconvenience of having to unlock the vault whenever you want to access your files. But among a lot of the options, I find that this is a good balance between privacy and usability. 
 
