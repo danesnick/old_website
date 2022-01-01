@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-12-26*
+*Last Updated: 2021-12-31*
 
 ### Hardware
 
@@ -30,7 +30,6 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 #### Secondary Devices
 
 * **Phone:** iPhone 13 128 GB (Midnight)
-* **Tablet:** 2018 iPad Pro 11" 256 GB (Space Gray)
 
 #### Software and Services
 
