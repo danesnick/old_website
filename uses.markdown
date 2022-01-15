@@ -7,7 +7,7 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2021-12-31*
+*Last Updated: 2022-01-14*
 
 ### Hardware
 
@@ -24,12 +24,13 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ Storage: 512 GB SSD
 	+ Display: 24" 4.5K (4480-by-2520) Retina Display
 	+ OS: macOS Monterey
-* **Keyboard:** Apple Magic Keyboard with TouchID
-* **Mouse:** Logitech M575 Ergo, Apple Magic Mouse
+* **Keyboard:** KBD67Lite R3 (Transparent Light Blue) with Gateron Pro Yellow (KS-9) Switches and Drop Artifact Bloom 'Vintage' Keycaps
+* **Mouse:** Logitech M575 Ergo
 
 #### Secondary Devices
 
 * **Phone:** iPhone 13 128 GB (Midnight)
+* **Tablet:** iPad Mini 5 (2019) 64 GB (Silver)
 
 #### Software and Services
 
