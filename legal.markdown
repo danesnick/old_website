@@ -3,7 +3,7 @@ layout: page
 title: Legal
 permalink: /legal/
 ---
-*Updated: 2021-05-26*
+*Updated: 2022-01-21*
 
 ## Content License
 
@@ -19,6 +19,8 @@ All content written by me on this site is licensed under [CC BY 4.0](https://cre
 
 ## Privacy
 
-This websited is hosted by Netlify. You can read about their privacy policy [here](https://www.netlify.com/privacy/).
+This website is hosted by Netlify. You can read about their privacy policy [here](https://www.netlify.com/privacy/).
+
+I also use the analytics service [GoatCounter](https://www.goatcounter.com/help/gdpr) to get basic analytics on visitors to this site. You can block this by disabling javascript, or by blocking the domains `ndanes.goatcounter.com` and `gc.zgo.at`. You can also see the live analytics at [https://ndanes.goatcounter.com](https://ndanes.goatcounter.com/).  
 
 On my [bands](/bands) page, I link to music from BandCamp, which you can read their privacy policy [here](https://bandcamp.com/privacy). 
