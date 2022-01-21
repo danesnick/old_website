@@ -6,6 +6,22 @@ permalink: /now/
 # Now
 Although ["about"](/) pages can give you a general sense of who I am, a [now](https://nownownow.com/about) page will give you a sense what I'm currently interested in and how I spend my free time. I plan to try to keep this update on a monthly basis (starting September 2021), with archived entries below.
 
+## January 2022
+* Built a [KBD67 Lite R3 (Transparent Blue)](https://divinikey.com/products/kbdfans-kbd67-lite-mechanical-keyboard-diy-kit?variant=39520450871361) with [Gateron Pro Yellow (KS-9) Switches](https://divinikey.com/collections/linear-switches/products/gateron-ks-9-yellow-pro-linear-switches) and [Drop 'Vintage' Artifact Bloom PBT Keycaps](https://drop.com/buy/artifact-bloom-series-keycap-set-vintage).
+* Preparing to record more demos with [Broken Record](https://brokenrecordisaband.com)
+* Generally trying to stay home even more now I usually do, due to COVID-19 Omicron variant
+
+### Music
+* [Enjoy The View](https://wewerepromisedjetpacks.bandcamp.com/album/enjoy-the-view) by We Were Promised Jetpacks
+* [Havasu](https://pedrothelion.bandcamp.com/album/havasu) by Pedro The Lion
+
+### Television
+* Community
+
+### Games (Xbox Series S)
+* Hades
+* Hades 
+* more Hades
 
 ## December 2021
 * Settled on a 24" M1 iMac for my daily personal computer. You can read more about it [here](/blog/2021/12/18/back-to-mac/).
@@ -57,7 +73,6 @@ Although ["about"](/) pages can give you a general sense of who I am, a [now](ht
 
 * Still regularly practicing with [Broken Record](https://brokenrecordisaband.com) and [Faim](https://faim.bandcamp.com)
 	+ Broken Record is playing [Fest 19](https://thefestfl.com/) at the end of the month!
-
 
 ### Music
 * [Nectar](https://shop.jojimusic.com/products/nectar-digital-album) by Joji 
