@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post for 2022: A 2021 recap and thoughts for this year""
+title:  "First post for 2022: A 2021 recap and thoughts for this year"
 date:   2022-01-22 07:30:00 -0700
 categories: blog
 author: Nicholas Danes
