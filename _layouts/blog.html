@@ -20,6 +20,8 @@ layout: default
     {% endif %}
 	<tr>
 	    <td>{{ post.date | date: site.date_format  }} </td>
+	</tr>
+	<tr>
 	    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
 	</tr>
     {% if forloop.last %}
@@ -52,6 +54,8 @@ layout: default
     {% if post.tags contains t %}
     <tr>
     	<td>{{ post.date | date: site.date_format  }}</td>
+    </tr>
+    <tr>
 	<td><a href="{{ post.url }}">{{ post.title }}</a></td>
     </tr>
     {% endif %}
