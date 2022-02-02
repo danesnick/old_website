@@ -7,15 +7,9 @@ permalink: /uses/
 
 Below is a summary of the hardware, software, and services I use on a daily basis. 
 
-*Last Updated: 2022-01-14*
+*Last Updated: 2022-02-02*
 
 ### Hardware
-
-<!--<figure style="width:500px">
- <a href="/images/uses_setup.jpg"><img src="/images/uses_setup_small.jpg" alt="My battlestation!"></a>
-  <figcaption>My battlestation (photo is not up to date)</figcaption>
-</figure>-->
-
 
 #### Primary Devices
 * **Computer:** 2021 M1 iMac 24" (Blue)
@@ -26,6 +20,10 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 	+ OS: macOS Monterey
 * **Keyboard:** KBD67Lite R3 (Transparent Light Blue) with Gateron Pro Yellow (KS-9) Switches and Drop Artifact Bloom 'Vintage' Keycaps
 * **Mouse:** Logitech M575 Ergo
+* **Headphones:** Takstar Pro 82 (Silver)
+* **Wireless Earbuds:** Anker Soundcore Liberty Air 2
+* **Audio Interface:** Scarlett Solo 3rd Generation
+* **Microphone:** Shure SM57 Condenser Mic
 
 #### Secondary Devices
 
@@ -34,7 +32,7 @@ Below is a summary of the hardware, software, and services I use on a daily basi
 
 #### Software and Services
 
-* **Browser:** Mozilla Firefox + Safari
+* **Browser:** Mozilla Firefox
 * **Notes:** Apple Notes
 * **Spreadsheets:**  Google Sheets
 * **Filesync:** 
