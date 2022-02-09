@@ -31,7 +31,8 @@
 html {
   font-size: 18px;
   line-height: 1.5;
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  /* System Fonts as used by Medium and WordPress */
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   color: var(--textcolor);
   background: var(--bgcolor);
   overflow-wrap: break-word;
