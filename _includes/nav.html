@@ -11,17 +11,24 @@
               {%- endif -%}
 	   </li>
 	    <li class="navigation">
+  	      {% if page.title == "Bands" %}
+		 <a class="current" href="{{ site.base_url }}/bands">{{ page.title}}</a>
+              {% else %}   
+		 <a href="{{ site.base_url }}/bands">Bands</a>
+	      {%- endif -%}
+	    </li>
+	    <li class="navigation">
   	      {% if page.title == "Blog" %}
 		 <a class="current" href="{{ site.base_url }}/blog">{{ page.title}}</a>
               {% else %}   
 		 <a href="{{ site.base_url }}/blog">Blog</a>
 	      {%- endif -%}
 	    </li>
-            <li class="navigation">
-   	      {% if page.title == "Now" %}
-		  <a class="current" href="{{ site.base_url }}/now">{{ page.title}}</a> 
+	    <li class="navigation">
+  	      {% if page.title == "Resume" %}
+		 <a class="current" href="{{ site.base_url }}/resume">{{ page.title}}</a>
               {% else %}   
-		 <a href="{{ site.base_url }}/now">Now</a>
+		 <a href="{{ site.base_url }}/resume">Resume</a>
 	      {%- endif -%}
 	    </li>
 	    <li class="navigation">

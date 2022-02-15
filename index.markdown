@@ -29,11 +29,6 @@ This is just my personal website where I can express myself creatively and also 
 * Applied Mathematics
 * Scientific / High Performance Computing
 
-### More About Me
-
-* [Resume](/resume.pdf)
-* [My Bands](/bands)
-
 ### Where Else to Find Me
 
 * [Bandcamp](https://bandcamp.com/danesnick)
