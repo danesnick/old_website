@@ -25,5 +25,5 @@ permalink: /uses/
 ## Secondary Devices
 
 * **Phone:** iPhone 13 128 GB (Midnight)
-* **Phone:** iPad 5th Generation 64 GB (Silver)
+* **Tablet:** iPad 5th Generation 64 GB (Silver)
 
