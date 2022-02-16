@@ -43,11 +43,11 @@ Computational Scientist  | <ndanes@mines.edu>
 hand -->
 #### <span>Computational Scientist<br> Colorado School of Mines, Information & Technology Solutions (ITS) </span> <span> <br> August 2020 -- Present</span>
 
- * Member of the Cyber Infrastructure & Advanced Research Computing (CIARC) group under ITS where main duties include:
- 	+ Supporting HPC users on technical and non-technical issues with research computing
- 	+ Building, porting and scaling applications & software libraries on Mines' HPC cluster systems
- 	+ Lead on developing and providing new technical information & user guides for Mines HPC users via CIARC Mines website 
- 	+ Participating in internal and external outreach for research computing awareness for campus-wide support
+* Member of the Cyber Infrastructure & Advanced Research Computing (CIARC) group under ITS where main duties include:
+	+ Supporting HPC users on technical and non-technical issues with research computing
+	+ Building, porting and scaling applications & software libraries on Mines' HPC cluster systems
+	+ Lead on developing and providing new technical information & user guides for Mines HPC users via CIARC Mines website 
+	+ Participating in internal and external outreach for research computing awareness for campus-wide support
 
 #### <span>Computational Engineer I <br>Ball Aerospace & Technologies</span> <span><br> September 2019 -- August 2020</span>
 * Utilized massively parallel coupled multi-physics codes for modeling and simulation
