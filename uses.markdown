@@ -6,7 +6,7 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-02-02*
+*Last Updated: 2022-02-20*
 
 ## Primary Devices
 * **Computer:** 2021 M1 iMac 24" (Blue)
@@ -25,5 +25,4 @@ permalink: /uses/
 ## Secondary Devices
 
 * **Phone:** iPhone 13 128 GB (Midnight)
-* **Tablet:** iPad 5th Generation 64 GB (Silver)
 
