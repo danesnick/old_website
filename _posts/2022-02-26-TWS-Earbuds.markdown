@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Giving up on Bluetooth True Wireless (TWS) Earbuds (for now)
+title:  "Giving up on Bluetooth True Wireless (TWS) Earbuds (for now)"
 date:   2022-02-26 07:30:00 -0700
 categories: blog
 author: Nicholas Danes
