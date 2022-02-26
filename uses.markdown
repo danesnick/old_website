@@ -17,10 +17,7 @@ permalink: /uses/
 	+ OS: macOS Monterey
 * **Keyboard:** KBD67Lite R3 (Transparent Light Blue) with Gateron Pro Yellow (KS-9) Switches and Drop Artifact Bloom 'Vintage' Keycaps
 * **Mouse:** Logitech M575 Ergo
-* **Headphones:** Takstar Pro 82 (Silver)
-* **Wireless Earbuds:** AirPods 3rd Generation
-* **Audio Interface:** Scarlett Solo 3rd Generation
-* **Microphone:** Shure SM57 Condenser Mic
+* **Headphones:** Beyerdynamic DT 240 Pro, Takstar Pro 82 (Silver)
 
 ## Secondary Devices
 
