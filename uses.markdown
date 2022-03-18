@@ -6,7 +6,7 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-03-06*
+*Last Updated: 2022-03-017*
 
 ## Primary Devices
 * **Computer:** 2021 M1 iMac 24" (Blue)
@@ -15,9 +15,7 @@ permalink: /uses/
 	+ Storage: 512 GB SSD
 	+ Display: 24" 4.5K (4480-by-2520) Retina Display
 	+ OS: macOS Monterey
-* **Keyboard:** KBD67Lite R3 (Transparent Light Blue) with 
-	* Gateron Pro Yellow (KS-9) Switches, Lubed with Glorious G-Lube 
-	* Drop Artifact Bloom 'Vintage' PBT Keycaps
+* **Keyboard:** Apple Magic Keyboard 
 * **Mouse:** Logitech M575 Ergo
 * **Headphones:** 
 	* Wireless: Anker Soundcore Life Tune XR
