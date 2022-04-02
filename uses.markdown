@@ -6,7 +6,7 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-03-31*
+*Last Updated: 2022-04-02*
 
 ## Primary Devices
 * **Computer:** 2021 M1 iMac 24" (Blue)
@@ -16,13 +16,15 @@ permalink: /uses/
 	+ Display: 24" 4.5K (4480-by-2520) Retina Display
 	+ OS: macOS Monterey
 	* Keyboard: Apple Magic Keyboard 
-	* Mouse: Apple Magic Keyboard
+	* Mouse: Logitech M575 Ergo (White)
 * **Laptop:** Acer Swift X 14"
 	+ CPU: AMD Ryzen 5800U (8 cores, 16 threads)
 	+ Memory: 16 GB LPDDR4
 	+ GPU: NVIDIA RTX 3050 Ti @ 40W
 	+ Storage: 512 GB NVMe SSD
 	+ Display: 14" Full HD IPS 
+	* Keyboard: Glorious GMMK Pro (White Ice) with Gateron Clears
+	* Mouse: Logitech G305 (White)
 * **Headphones:** 
 	* Wireless: Sony WF-C500
 	* Wired: Takstar Pro 82 (Silver)
