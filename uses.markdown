@@ -6,7 +6,7 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-04-02*
+*Last Updated: 2022-04-03*
 
 ## Primary Devices
 * **Computer:** 2021 M1 iMac 24" (Blue)
@@ -23,7 +23,7 @@ permalink: /uses/
 	+ GPU: NVIDIA RTX 3050 Ti @ 40W
 	+ Storage: 512 GB NVMe SSD
 	+ Display: 14" Full HD IPS 
-	* Keyboard: Glorious GMMK Pro (White Ice) with Gateron Clears
+	* Keyboard: Glorious GMMK Pro (White Ice) with Lubed & Filmed Gateron Reds, Drop 'Vintage' Artifact Bloom PBT Keycaps
 	* Mouse: Logitech G305 (White)
 * **Headphones:** 
 	* Wireless: Sony WF-C500
