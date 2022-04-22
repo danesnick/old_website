@@ -6,7 +6,7 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-04-20*
+*Last Updated: 2022-04-22*
 
 * **Main Computer:** 2021 M1 iMac 24" (Blue)
 	+ SoC: Apple M1 (4 performance cores, 4 efficiency cores, 8 GPU cores)
@@ -30,5 +30,3 @@ permalink: /uses/
 	* Wired: Takstar Pro 82 (Silver)
 
 * **Phone:** iPhone 13 128 GB (Midnight)
-* **Tablet:** iPad Mini 6 256GB (Purple)
-
