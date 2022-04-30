@@ -32,11 +32,10 @@ This is just my personal website where I can express myself creatively and also 
 ### Where Else to Find Me
 
 * [Bandcamp](https://bandcamp.com/danesnick)
+* [LinkedIn](https://www.linkedin.com/in/nicholas-danes-phd-a82107237)
 * [GitHub](https://github.com/danesnick)
 * <a rel="me" href="https://smallcamp.art/@ndanes">Mastodon</a>
 
 ### Contact
 * Email: [hello@ndanes.com](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#110;&#100;&#97;&#110;&#101;&#115;&#46;&#99;&#111;&#109;)
 * XMPP: [ndanes@chat.1998.social](xmpp:ndanes@chat.1998.social)
-* Telegram: [@danesnick](https://t.me/danesnick)
-
