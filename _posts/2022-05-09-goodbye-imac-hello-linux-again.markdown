@@ -7,7 +7,7 @@ author: Nicholas Danes
 tags: [privacy, technology, drafts]
 ---
 
-ne of least favorite things about my personality is I'm a perfectionist when it comes to things I use on a daily basis, **especially** with technology. Another thing is I like to minimze the number of devices I need to use to get a particular set of tasks done. This came to a hault again with my relationship with my iMac recently.
+One of least favorite things about my personality is I'm a perfectionist when it comes to things I use on a daily basis, **especially** with technology. Another thing is I like to minimze the number of devices I need to use to get a particular set of tasks done. This came to a hault again with my relationship with my iMac recently.
 
 Over the past 6 months, I used the [24" M1 iMac](/blog/2021/12/18/back-to-mac/) as my primary personal computer. It was a fantastic machine and as much as I love macOS and all its integrations with other Apple products, I wasn't really getting the value out of how much it costed. Today ended up being the day I sold my 24" iMac and am now using a Linux desktop as my main computer.
 
