@@ -17,7 +17,10 @@ permalink: /uses/
 	+ Keyboard: Glorious GMMK TKL (Black Slate) with Lubed & Filmed Gateron Reds, Drop 'Vintage' Artifact Bloom PBT Keycaps
 	+ Mouse: Logitech G305 (White)
 	+ Monitor: Dell S2718D (27", IPS, 1440p, HDR10, 60hz)
-* **Headphones:** 
+* **Audio:**
+	* Speakers: Edifier R980T Bookshelf Speakers 
 	* Wireless: Apple Airpods Pro
 	* Wired: Takstar Pro 82 (Silver)
+	* Interface: Focusrite Scarlett 2i2 3rd Gen
+	* Mic: Shure SM58
 * **Phone:** iPhone 13 128 GB (Midnight)
