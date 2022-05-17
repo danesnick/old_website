@@ -1,6 +1,13 @@
-<!-- Modified from: https://github.com/jekyll/minima/blob/master/_includes/footer.html -->
+<-- Modified from: https://github.com/jekyll/minima/blob/master/_includes/footer.html -->
 <footer>
   <ul class="navigation">
+  <li class="navigation">
+              {% if page.title == "Blogroll" %}
+	          <a class="current" href="/blogroll/">Blogroll</a>
+              {% else %}
+	          <a href="/legal/">Blogroll</a>
+              {%- endif -%}
+  </li>
   <li class="navigation"> 
 	  <a href="/#contact">Contact</a> 
   </li>
