@@ -6,11 +6,11 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-05-14*
+*Last Updated: 2022-05-17*
 * **Gaming Computer:**
 	+ CPU: Intel i5-11400 (6 cores, 12 threads)
 	+ Memory: 16 GB DDR4 @ 3000 MHz
-	+ GPU: Intel UHD 730
+	+ GPU: EVGA GTX 1080 SC 8 GB; Intel UHD 730
 	+ Storage: Crucial P2 PCIe Gen3 256 GB NVMe SSD (Boot), TeamGroup 1 TB SATA SSD (Storage)
 	+ OS: Pop!`_`OS 22.04
 	+ Keyboard: Logitech MX Keys Mini (Pale Gray)
