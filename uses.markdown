@@ -6,7 +6,7 @@ permalink: /uses/
 # Uses
 
 
-*Last Updated: 2022-05-17*
+*Last Updated: 2022-05-21*
 * **Gaming Computer:**
 	+ CPU: Intel i5-11400 (6 cores, 12 threads)
 	+ Memory: 16 GB DDR4 @ 3000 MHz
@@ -18,9 +18,11 @@ permalink: /uses/
 	+ Mouse: Logitech G305 (White)
 	+ Monitor: Dell S2718D (27", IPS, 1440p, HDR10, 60hz)
 * **Audio:**
-	* Speakers: Edifier R980T Bookshelf Speakers 
+	* Speakers: Creative Pebble Speakers  
 	* Wireless: Apple Airpods Pro
 	* Wired: Takstar Pro 82 (Silver)
 	* Interface: Focusrite Scarlett 2i2 3rd Gen
 	* Mic: Shure SM58
 * **Phone:** iPhone 13 128 GB (Midnight)
+* **Tablet:** iPad Air 64 GB 4th Generation (Sky Blue) 
+* **Work Computer:** 13” M1 MacBook Pro 16 GB (Space Gray)
